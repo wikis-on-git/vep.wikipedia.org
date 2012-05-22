@@ -1,5 +1,10 @@
-[[File:Flag of Vepsia.svg|left|150px]][[File:Flag of Vepsia.svg|right|150px]]
-<div style="font-size:222%; text-align:center; border:none; margin:0; padding:.1em; color:#000; line-">1000-nz' kirjutuz om kirjutadud!<br><br>Kirjutusiden märičim om kohetud!<br><br>Hurra!</div>
+{| id="mp-topbanner" style="width:100%;  background:#f9f6e7; margin-top:1.2em; border:1px solid #d4bc4c;"
+| style="width:100%; color:#000; text-align:center;" |
+[[File:Flag of Vepsia.svg|left|100px]][[File:Flag of Vepsia.svg|right|100px]]
+<div style="font-size:162%; border:none; margin:0; padding:.1em; color:#000;">
+1000-nz' kirjutuz om kirjutadud!<br/>Kirjutusiden märičim om kohetud!<br/>Hurra!</div>
+|}
+
 {| id="mp-topbanner" style="width:100%;  background:#f6f6f6; margin-top:1.2em; border:1px solid #ddd;"
 | style="width:56%; color:#000;" |
 {| style="width:520px; border:none; background:none;"
