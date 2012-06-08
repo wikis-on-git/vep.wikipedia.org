@@ -1,20 +1,17 @@
-{| class="infobox bordered" align=right cellpadding=4 cellspacing=0 width=275 style="clear:right; margin: 0 0 1em 1em; background: #f9f9f9;  font-size: 95%;"
-|-
-|colspan=2 align=center bgcolor="#BFDFFF"|<big>'''Amsterdam'''</big>
-|-
-| align="center" | [[Fail:Amsterdam.svg|100px]]
-| align="center" | [[Fail:Flag of Amsterdam.svg|150px]]
-|-
-| align="center" | 
-| align="center" | 
-<br /><small></small>
-|-
-|Eläjiden lugu|| 743 400
-|-
-|Pind|| 219 km²
-|-
-|Mer|| 
-|}
+{{Eländpunkt
+ | Nimi = Amsterdam
+ | Znam = Amsterdam.svg
+ | Flag = Flag of Amsterdam.svg
+ | Znam text = Amsterdaman znam
+ | Flag text = Amsterdaman flag
+ | Eläjiden lugu = 790,044
+ | Voz' = 2012
+ | Pind = 219
+ | Fail = ZuidasAmsterdamNederland2011.jpg
+ | Pämez' = [[Van der Lan Eberhard|Eberhard van der Lan]]
+ | Telefonkod = +31-020
+ | Aigvö = UTC+1
+}}
 '''Amsterdam''' (alam.: ''Amsterdam'') om [[Alamad|Alamaiden]] pälidn. 
 
 == Istorii ==
@@ -31,7 +28,7 @@
 
 == Ižanduz ==
 
-[[Kategorii:Lidnad]]
+[[Kategorii:Alamad]]
 [[Kategorii:Pälidnad]]
 
 [[ace:Amsterdam]]
