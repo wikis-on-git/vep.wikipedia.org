@@ -73,32 +73,49 @@ Gruppoiden stadijas vätas 16 joukud, kudambad oma jagatud nelläks gruppaks. Pl
 |}
 
 ==== Grupp A ====
-{| class="prettytable float-right" style="width:300px; text-align: center;"
-|- class="hintergrundfarbe5"
-! Sija
-! style="width:10em;" | Valdkund
-! Golad
-! Punktad 
-|- class="hintergrundfarbe6"
-| 1
-| style="text-align: left;" | [[Fail:Flag of Poland.svg|20px]] [[Pol'šanma]]
-| 1:1
-| 1
-|- class="hintergrundfarbe6"
-| 2
-| style="text-align: left;" | [[Fail:Flag of Greece.svg|20px]] [[Grekanma]]
-| 1:1
-| 1
+
+{| class="wikitable" style="text-align: center;"
 |-
-| 3
-| style="text-align: left;" | [[Fail:Flag of Russia.svg|20px]] [[Venäma]]
-| 4:1
-| 3
+!width="20"|Sija!!width="100"|Valdkund!!width="20"|VD!!width="20"|VÄ!!width="20"|TL!!width="20"|IŠ!!width="20"|AG!!width="20"|SG!!width="20"|+/-!!width="20"|Punktad
+|- style="background:#cfc;"
+|style="text-align:left;"|1
+|style="text-align:left;"|[[Fail:Flag of Russia.svg|20px]] [[Venäma]]||2||1||1||0||5||2||+3||'''4'''
+|- style="background:#cfc;"
+|style="text-align:left;"|2
+|style="text-align:left;"|[[Fail:Flag of the Czech Republic.svg|20px]] [[Čehii]]||2||1||0||1||3||5||-2||'''3'''
+|- style="background:#fcc;"
+|style="text-align:left;"|3
+|style="text-align:left;"|[[Fail:Flag of Poland.svg|20px]] [[Pol'šanma]]||2||0||2||0||2||2||0||'''2'''
+|- style="background:#fcc;"
+|style="text-align:left;"|4
+|style="text-align:left;"|[[Fail:Flag of Greece.svg|20px]] [[Grekanma]]||2||0||1||1||2||3||-1||'''1'''
+|}
+VD — vändod, VÄ — vägestused, TL — tazolugud, IŠ — iškused, AG — ajadud golad, SG — sadud golad, +/- — erinend
+
+{| style="width:100%;" cellspacing="1"
 |-
-| 4
-| style="text-align: left;" | [[Fail:Flag of the Czech Republic.svg|20px]] [[Čehii]]
-| 1:4
-| 0
+!width=25%|
+!width=10%|
+!width=25%|
+|-
+|8. kezaku 2012
+|- style=font-size:100%
+|align=right|[[Fail:Flag of Poland.svg|20px]] [[Pol'šanma]]||align=center|''' 1-1 '''||[[Fail:Flag of Greece.svg|20px]] [[Grekanma]]||  Nationaline stadion, [[Varšav]]
+|- style=font-size:90%
+|align=right|[[Fail:Flag of Russia.svg|20px]] [[Venäma]]||align=center|''' 4-1 '''||[[Fail:Flag of the Czech Republic.svg|20px]] [[Čehii]]|| Stadion Mašlicas, [[Vroclav]]
+|-
+|12. kezaku 2012
+|- style=font-size:100%
+|align=right|[[Fail:Flag of Greece.svg|20px]] [[Grekanma]]||align=center|''' 1-2 '''||[[Fail:Flag of the Czech Republic.svg|20px]] [[Čehii]]|| Stadion Mašlicas, [[Vroclav]]
+|- style=font-size:90%
+|align=right|[[Fail:Flag of Poland.svg|20px]] [[Pol'šanma]]||align=center|''' 1-1 '''||[[Fail:Flag of Russia.svg|20px]] [[Venäma]]|| Nationaline stadion, [[Varšav]]
+
+|-
+|16. kezaku 2012
+|- style=font-size:100%
+|align=right|[[Fail:Flag of the Czech Republic.svg|20px]] [[Čehii]]||align=center|'''  '''||[[Fail:Flag of Poland.svg|20px]] [[Pol'šanma]]|| Stadion Mašlicas, [[Vroclav]]
+|- style=font-size:90%
+|align=right|[[Fail:Flag of Greece.svg|20px]] [[Grekanma]]||align=center|'''  '''||[[Fail:Flag of Russia.svg|20px]] [[Venäma]]|| Nationaline stadion, [[Varšav]]
 |}
 
 ==== Grupp B ====
