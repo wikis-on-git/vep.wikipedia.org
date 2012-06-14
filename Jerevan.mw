@@ -1,20 +1,17 @@
-{| class="infobox bordered" align=right cellpadding=4 cellspacing=0 width=275 style="clear:right; margin: 0 0 1em 1em; background: #f9f9f9;  font-size: 95%;"
-|-
-|colspan=2 align=center bgcolor="#BFDFFF"|<big>'''Erevan'''</big>
-|-
-| align="center" | [[Fail:Yerevan coa.gif|100px]]
-| align="center" | [[Fail:Yerevan flag.gif|125px]]
-|-
-| align="center" | 
-| align="center" | 
-<br /><small></small>
-|-
-|Eläjiden lugu|| 1 119 000
-|-
-|Pind|| 300 km²
-|-
-|Mer|| 
-|}
+{{Eländpunkt
+ | Nimi = Jerevan<br/>Երևան
+ | Znam = Yerevan coa.gif
+ | Flag = Yerevan flag.gif
+ | Znam text = Jerevanan znam
+ | Flag text = Jerevanan flag
+ | Eläjiden lugu = 1,121,900
+ | Voz' = 2011
+ | Pind = 300
+ | Fail = Yerevan Armenia with the backdrop of Mount Ararat.JPG
+ | Pämez' = [[Margarän Taron|Taron Margarän]]
+ | Telefonkod = +374-10
+ | Aigvö = [[UTC]]+4
+}}
 '''Jerevan''' ({{lang-hy|Երևան}}) om [[Armenii|Armenijan]] pälidn.
 
 == Istorii ==
