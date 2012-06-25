@@ -1,26 +1,5 @@
 {{uzištused}}
-{| id="mp-topbanner" style="width:100%;  background:#f6f6f6; margin-top:1.2em; border:1px solid #ddd;"
-| style="width:56%; color:#000;" |
-{| style="width:520px; border:none; background:none;"
-| style="width:520px; text-align:center; white-space:nowrap; color:#000;" |
-<div style="font-size:162%; border:none; margin:0; padding:.1em; color:#000;">Tulgat tervhin Vepsän [[Vikipedii|Vikipedijaha]],</div>
-<div style="top:+0.2em; font-size:95%;">joudjaha enciklopedijaha, kudambad sab redaktiruida kaikuččele ristitule!</div>
-<div id="articlecount" style="width:100%; text-align:center; font-size:85%;"> [[Vepsän kel'|Vepsänkel'žes]] Vikipedijas om '''[[Specialine:Statistikad|{{NUMBEROFARTICLES}}]]''' kirjutust.</div>
-<div id="articlecount" style="width:100%; text-align:center; font-size:85%;"> [[Specialine:KaikLehtesed|Kaik kirjutused]] • [[Specialine:UdedLehtpoled|Uded lehtpoled]]</div>
-|}
-| style="width:13%; font-size:95%;" |
-*[[:Kategorii:Biografii|Biografii]]<br>
-*[[:Kategorii:Čomamahtod|Čomamahtod]]<br>
-*[[:Kategorii:Geografii|Geografii]]<br>
-| style="width:13%; font-size:95%;" |
-*[[:Kategorii:Istorii|Istorii]]<br>
-*[[:Kategorii:Matematik|Matematik]]<br>
-*[[:Kategorii:Kund|Kund]]<br>
-| style="width:13%; font-size:95%;" |
-*[[:Kategorii:Tedo|Tedo]]&nbsp;&nbsp;<br>
-*[[:Kategorii:Tehnologii|Tehnologii]]&nbsp;&nbsp;<br>
-*'''[[:Kategorii:Päkategorii|Kaik&nbsp;kategorijad]]'''&nbsp;&nbsp;
-|}
+{{pälehtpol'-intro}}
 {| id="mp-strapline" style="width:100%; background:none;"
 |}
 {| id="mp-upper" style="margin:0; background:none;"
