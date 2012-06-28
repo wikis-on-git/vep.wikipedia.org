@@ -287,7 +287,7 @@ color="#ffffff">{{{RD1-seed1|A1}}}</font>
 | style="border-width:0 0 2px 0; border-style:solid;border-color:black;"|&nbsp;
 
 |-
-| height="7" |
+| height="14" |
 | rowspan="2" align=center bgcolor="#98A1B2" style="border:1px solid #aaa;"| <font color="#ffffff">{{{RD1-seed2|B2}}}</font>
 | rowspan="2" style="border:1px solid #aaa;" bgcolor=#f9f9f9| &nbsp; [[Fail:Flag of Portugal.svg|20px]] '''[[Portugalii]]''' '''{{{RD1-team2|&nbsp;}}}
 | rowspan="2" align=center style="border:1px solid #aaa;" bgcolor=#f9f9f9| '''1''' {{{RD1-score2|&nbsp;}}}
@@ -297,7 +297,7 @@ color="#ffffff">{{{RD1-seed1|A1}}}</font>
 | height="7" |
 | rowspan="2" style="border-width:0 0 2px 0; border-style:solid;border-color:black;"|&nbsp;
 | rowspan="2" align=center bgcolor="#98A1B2" style="border:1px solid #aaa;"| <font color="#ffffff">{{{RD2-seed1|&nbsp;}}}</font>
-| rowspan="2" style="border:1px solid #aaa;" bgcolor=#f9f9f9| &nbsp; [[Fail:Flag of Portugal.svg|20px]] [[Portugalii]] {{{RD2-team1|&nbsp;}}}
+| rowspan="2" style="border:1px solid #aaa;" bgcolor=#f9f9f9| &nbsp; [[Fail:Flag of Portugal.svg|20px]] [[Portugalii]]| {{{RD2-team2|&nbsp;}}}
 | rowspan="2" align=center style="border:1px solid #aaa;" bgcolor=#f9f9f9| {{{RD2-score1|&nbsp;}}}
 | rowspan="2" style="border-width:0 0 2px 0; border-style:solid;border-color:black;"|&nbsp;
 
@@ -309,15 +309,15 @@ color="#ffffff">{{{RD1-seed1|A1}}}</font>
 | height="7" |
 | rowspan="2" style="border-width:2px 0 0 0; border-style:solid;border-color:black;"|&nbsp;
 | rowspan="2" align=center bgcolor="#98A1B2" style="border:1px solid #aaa;"| <font color="#ffffff">{{{RD2-seed2|&nbsp;}}}</font>
-| rowspan="2" style="border:1px solid #aaa;" bgcolor=#f9f9f9| &nbsp; 3. nelländezfinalan vägestai {{{RD2-team2|&nbsp;}}}
-| rowspan="2" align=center style="border:1px solid #aaa;" bgcolor=#f9f9f9| {{{RD2-score2|&nbsp;}}}
+| rowspan="2" style="border:1px solid #aaa;" bgcolor=#f9f9f9| &nbsp; [[Fail:Flag of Spain.svg|20px]] '''[[Ispanii]]''' {{{RD2-team2|&nbsp;}}}
+| rowspan="2" align=center style="border:1px solid #aaa;" bgcolor=#f9f9f9| '''0(4)'''{{{RD2-score3|&nbsp;}}}
 | rowspan="10" style="border-width:2px 2px 2px 0; border-style:solid;border-color:black;"|&nbsp;
 
 |-
 | height="7" |
 | rowspan="2" align=center bgcolor="#98A1B2" style="border:1px solid #aaa;"| <font color="#ffffff">{{{RD1-seed3|C1}}}</font>
-| rowspan="2" style="border:1px solid #aaa;" bgcolor=#f9f9f9| &nbsp; [[Fail:Flag of Spain.svg|20px]] [[Ispanii]] {{{RD1-team3|&nbsp;}}}
-| rowspan="2" align=center style="border:1px solid #aaa;" bgcolor=#f9f9f9| {{{RD1-score3|&nbsp;}}}
+| rowspan="2" style="border:1px solid #aaa;" bgcolor=#f9f9f9| &nbsp; [[Fail:Flag of Spain.svg|20px]] '''[[Ispanii]]''' {{{RD1-team3|&nbsp;}}}
+| rowspan="2" align=center style="border:1px solid #aaa;" bgcolor=#f9f9f9| {{{RD2-score3|2}}}
 
 |-
 | height="7" |
@@ -326,28 +326,28 @@ color="#ffffff">{{{RD1-seed1|A1}}}</font>
 | height="14" |&nbsp;
 | align=center bgcolor="#98A1B2" style="border:1px solid #aaa;"| <font color="#ffffff">{{{RD1-seed4|D2}}}</font>
 | style="border:1px solid #aaa;" bgcolor=#f9f9f9| &nbsp; [[Fail:Flag of France.svg|20px]] [[Francii]] '''{{{RD1-team4|&nbsp;}}}
-| align=center style="border:1px solid #aaa;" bgcolor=#f9f9f9|{{{RD1-score4|&nbsp;}}}
+| align=center style="border:1px solid #aaa;" bgcolor=#f9f9f9|{{{RD1-score4|0}}}
 | style="border-width:2px 0 0 0; border-style:solid;border-color:black;"|&nbsp;
 
 |-
-| height="14" colspan="2" |
+| height="7" colspan="2" |
 | colspan="8" rowspan="2"|&nbsp;
 | style="border-width:0 0 2px 0; border-style:solid;border-color:black;"|&nbsp;
-| align=center bgcolor="#98A1B2" style="border:1px solid #aaa;"| <font color="#ffffff">{{{RD3-seed1|&nbsp;}}}</font>
-| style="border:1px solid #aaa;" bgcolor=#f9f9f9| &nbsp; 1. pol'finalan vägestai  {{{RD3-team1|&nbsp;}}}
+| align=center bgcolor="#98A1B2" style="border:1px solid #aaa;"| <font color="#ffffff">{{{RD1-seed1|&nbsp;}}}</font>
+| style="border:1px solid #aaa;" bgcolor=#f9f9f9| &nbsp; [[Fail:Flag of Spain.svg|20px]] '''[[Ispanii]]'''  {{{RD1-team1|&nbsp;}}}
 | align=center style="border:1px solid #aaa;" bgcolor=#f9f9f9| {{{RD3-score1|&nbsp;}}}
 
 |-
 | height="14" colspan="2" |
 | style="border-width:2px 0 0 0; border-style:solid;border-color:black;"|&nbsp;
-| align=center bgcolor="#98A1B2" style="border:1px solid #aaa;"| <font color="#ffffff">{{{RD3-seed2|&nbsp;}}}</font>
-| style="border:1px solid #aaa;" bgcolor=#f9f9f9| &nbsp; 2. pol'finalan vägestai  '''{{{RD3-team2|&nbsp;}}}
+| align=center bgcolor="#98A1B2" style="border:1px solid #aaa;"| <font color="#ffffff">{{{RD1-seed2|&nbsp;}}}</font>
+| style="border:1px solid #aaa;" bgcolor=#f9f9f9| &nbsp; [[Flag of Italy.svg|20px]] '''[[Italii]]''' '''{{{RD3-team2|&nbsp;}}}
 | align=center style="border:1px solid #aaa;" bgcolor=#f9f9f9| {{{RD3-score2|&nbsp;}}}
 
 |-
 | height="14"|&nbsp;
 | align=center bgcolor="#98A1B2" style="border:1px solid #aaa;"| <font color="#ffffff">{{{RD1-seed5|B1}}}</font>
-| style="border:1px solid #aaa;" bgcolor=#f9f9f9| &nbsp; [[Fail:Flag of Germany.svg|20px]] [[Saksanma]] {{{RD1-team5|&nbsp;}}}
+| style="border:1px solid #aaa;" bgcolor=#f9f9f9| &nbsp; [[Fail:Flag of Germany.svg|20px]] '''[[Saksanma]]''' {{{RD1-team5|&nbsp;}}}
 | align=center style="border:1px solid #aaa;" bgcolor=#f9f9f9| '''4''' {{{RD1-score5|&nbsp;}}}
 | style="border-width:0 0 2px 0; border-style:solid;border-color:black;"|&nbsp;
 
@@ -363,7 +363,7 @@ color="#ffffff">{{{RD1-seed1|A1}}}</font>
 | rowspan="2" style="border-width:0 0 2px 0; border-style:solid;border-color:black;"|&nbsp;
 | rowspan="2" align=center bgcolor="#98A1B2" style="border:1px solid #aaa;"| <font color="#ffffff">{{{RD2-seed3|&nbsp;}}}</font>
 | rowspan="2" style="border:1px solid #aaa;" bgcolor=#f9f9f9| &nbsp; [[Fail:Flag of Germany.svg|20px]] [[Saksanma]]  {{{RD2-team3|&nbsp;}}}
-| rowspan="2" align=center style="border:1px solid #aaa;" bgcolor=#f9f9f9|  {{{RD2-score3|&nbsp;}}}
+| rowspan="2" align=center style="border:1px solid #aaa;" bgcolor=#f9f9f9| '''4''' {{{RD1-score7|&nbsp;}}}
 
 |-
 | height="7" |
@@ -372,25 +372,20 @@ color="#ffffff">{{{RD1-seed1|A1}}}</font>
 |-
 | height="7" |
 | rowspan="2" style="border-width:2px 0 0 0; border-style:solid;border-color:black;"|&nbsp;
-| rowspan="2" align=center bgcolor="#98A1B2" style="border:1px solid #aaa;"| <font color="#ffffff">{{{RD2-seed4|&nbsp;}}}</font>
-| rowspan="2" style="border:1px solid #aaa;" bgcolor=#f9f9f9| &nbsp; 4. nelländezfinalan vägestai '''{{{RD2-team4|&nbsp;}}}
-| rowspan="2" align=center style="border:1px solid #aaa;" bgcolor=#f9f9f9| {{{RD2-score4|&nbsp;}}}
+| rowspan="2" align=center bgcolor="#98A1B2" style="border:1px solid #aaa;"| <font color="#ffffff">{{{RD1-seed4|&nbsp;}}}</font>
+| rowspan="2" style="border:1px solid #aaa;" bgcolor=#f9f9f9| &nbsp; [[Fail:Flag of Italy.svg|20px]] '''[[Italii]]''' '''{{{RD2-team4|&nbsp;}}}
+| rowspan="2" align=center style="border:1px solid #aaa;" bgcolor=#f9f9f9| {{{RD1-score8|&nbsp;}}}
 | rowspan="2" style="border-width:2px 0 0 0; border-style:solid;border-color:black;"|&nbsp;
 
-|-
-| height="7" |
 | rowspan="2" align=center bgcolor="#98A1B2" style="border:1px solid #aaa;"| <font color="#ffffff">{{{RD1-seed7|D1}}}</font>
 | rowspan="2" style="border:1px solid #aaa;" bgcolor=#f9f9f9| &nbsp; [[Fail:Flag of England.svg|20px]] [[Anglii]]'''{{{RD1-team7|&nbsp;}}}
-| rowspan="2" align=center style="border:1px solid #aaa;" bgcolor=#f9f9f9|  {{{RD1-score7|&nbsp;}}}
-
-|-
-| height="7" |
+| rowspan="2" align=center style="border:1px solid #aaa;" bgcolor=#f9f9f9| 0(2){{{RD1-score7|&nbsp;}}}
 
 |-
 | height="14" |&nbsp;
 | align=center bgcolor="#98A1B2" style="border:1px solid #aaa;"| <font color="#ffffff">{{{RD1-seed8|C2}}}</font>
-| style="border:1px solid #aaa;" bgcolor=#f9f9f9| &nbsp; [[Fail:Flag of Italy.svg|20px]] [[Italii]] {{{RD1-team8|&nbsp;}}}
-| align=center style="border:1px solid #aaa;" bgcolor=#f9f9f9| {{{RD1-score8|&nbsp;}}}
+| style="border:1px solid #aaa;" bgcolor=#f9f9f9| &nbsp; [[Fail:Flag of Italy.svg|20px]] '''[[Italii]]''' {{{RD1-team8|&nbsp;}}}
+| align=center style="border:1px solid #aaa;" bgcolor=#f9f9f9| '''0(4)'''{{{RD1-score8|&nbsp;}}}
 | style="border-width:2px 0 0 0; border-style:solid;border-color:black;"|&nbsp;
 |}
 
