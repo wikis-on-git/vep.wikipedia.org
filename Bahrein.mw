@@ -1,8 +1,8 @@
 {{Valdkund
 | Nimi = Bahrein<br />البحرين
-| Znam = Coat of arms of Bahrain.svg
+| Valdkundzam = Coat of arms of Bahrain.svg
 | Flag = Flag of Bahrain.svg{{!}}border
-| Znam text = Bahreinan znam
+| Valdkundzam text = Bahreinan znam
 | Flag text = Bahreinan flag
 | Pälidn = Manam
 | Eläjiden lugu = 1.234.571
@@ -11,6 +11,7 @@
 | Kart = LocationBahrain.png
 | Kel' = [[araban kel'|araban]]
 | Valdkundan pämez' = [[Hamad ibn Isa al'-Halifa]]
+| Päministr = 
 | Religii = [[islam]]
 | Valüt = [[bahreinan dinar]]
 | Internet-domen = [[.bh]]
