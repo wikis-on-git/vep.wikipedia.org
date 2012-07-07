@@ -79,16 +79,16 @@ Gruppoiden stadijas vätas 16 joukud, kudambad oma jagatud nelläks gruppaks. Pl
 !width="20"|Sija!!width="100"|Valdkund!!width="20"|VD!!width="20"|VÄ!!width="20"|TL!!width="20"|IŠ!!width="20"|AG!!width="20"|SG!!width="20"|+/-!!width="20"|Punktad
 |- style="background:#cfc;"
 |style="text-align:left;"|1
-|style="text-align:left;"|{{CZE|20px}}||3||2||0||1||4||5||-1||'''6'''
+|style="text-align:left;"|{{CZE|WIDTH=20px}}||3||2||0||1||4||5||-1||'''6'''
 |- style="background:#cfc;"
 |style="text-align:left;"|2
-|style="text-align:left;"|{{GRC|20px}}||3||1||1||1||3||3||0||'''4'''
+|style="text-align:left;"|{{GRC|WIDTH=20px}}||3||1||1||1||3||3||0||'''4'''
 |- style="background:#fcc;"
 |style="text-align:left;"|3
-|style="text-align:left;"|{{RUS|20px}}||3||1||1||1||5||3||+2||'''4'''
+|style="text-align:left;"|{{RUS|WIDTH=20px}}||3||1||1||1||5||3||+2||'''4'''
 |- style="background:#fcc;"
 |style="text-align:left;"|4
-|style="text-align:left;"|{{POL|20px}}||3||0||2||1||2||3||-1||'''2'''
+|style="text-align:left;"|{{POL|WIDTH=20px}}||3||0||2||1||2||3||-1||'''2'''
 |}
 VD — vändod, VÄ — vägestused, TL — tazolugud, IŠ — iškused, AG — ajatud golad, SG — sadud golad, +/- — erinend
 
@@ -100,22 +100,22 @@ VD — vändod, VÄ — vägestused, TL — tazolugud, IŠ — iškused, AG — 
 |-
 |8. kezaku 2012
 |- style=font-size:100%
-|align=right|{{POL|20px}}||align=center|''' 1-1 '''||{{GRC|20px}}||  Nationaline stadion, [[Varšav]]
+|align=right|{{POL|WIDTH=20px}}||align=center|''' 1-1 '''||{{GRC|WIDTH=20px}}||  Nationaline stadion, [[Varšav]]
 |- style=font-size:90%
-|align=right|{{RUS|20px}}||align=center|''' 4-1 '''||{{CZE|20px}}|| Stadion Mašlicas, [[Vroclav]]
+|align=right|{{RUS|WIDTH=20px}}||align=center|''' 4-1 '''||{{CZE|WIDTH=20px}}|| Stadion Mašlicas, [[Vroclav]]
 |-
 |12. kezaku 2012
 |- style=font-size:100%
-|align=right|{{GRC|20px}}||align=center|''' 1-2 '''||{{CZE|20px}}|| Stadion Mašlicas, [[Vroclav]]
+|align=right|{{GRC|WIDTH=20px}}||align=center|''' 1-2 '''||{{CZE|WIDTH=20px}}|| Stadion Mašlicas, [[Vroclav]]
 |- style=font-size:90%
-|align=right|{{POL|20px}}||align=center|''' 1-1 '''||{{RUS|20px}}|| Nationaline stadion, [[Varšav]]
+|align=right|{{POL|WIDTH=20px}}||align=center|''' 1-1 '''||{{RUS|WIDTH=20px}}|| Nationaline stadion, [[Varšav]]
 
 |-
 |16. kezaku 2012
 |- style=font-size:100%
-|align=right|{{CZE|20px}}||align=center|''' 1:0 '''||{{POL|20px}}|| Stadion Mašlicas, [[Vroclav]]
+|align=right|{{CZE|WIDTH=20px}}||align=center|''' 1:0 '''||{{POL|WIDTH=20px}}|| Stadion Mašlicas, [[Vroclav]]
 |- style=font-size:90%
-|align=right|{{GRC|20px}}||align=center|''' 1:0 '''||{{RUS|20px}}|| Nationaline stadion, [[Varšav]]
+|align=right|{{GRC|WIDTH=20px}}||align=center|''' 1:0 '''||{{RUS|WIDTH=20px}}|| Nationaline stadion, [[Varšav]]
 |}
 
 ==== Grupp B ====
@@ -124,16 +124,16 @@ VD — vändod, VÄ — vägestused, TL — tazolugud, IŠ — iškused, AG — 
 !width="20"|Sija!!width="100"|Valdkund!!width="20"|VD!!width="20"|VÄ!!width="20"|TL!!width="20"|IŠ!!width="20"|AG!!width="20"|SG!!width="20"|+/-!!width="20"|Punktad
 |- style="background:#cfc;"
 |style="text-align:left;"|1
-|style="text-align:left;"|{{DEU|20px}}||3||3||0||0||5||2||+3||'''9'''
+|style="text-align:left;"|{{DEU|WIDTH=20px}}||3||3||0||0||5||2||+3||'''9'''
 |- style="background:#cfc;"
 |style="text-align:left;"|2
-|style="text-align:left;"|{{PRT|20px}}||3||2||0||1||5||4||1||'''6'''
+|style="text-align:left;"|{{PRT|WIDTH=20px}}||3||2||0||1||5||4||1||'''6'''
 |- style="background:#fcc;"
 |style="text-align:left;"|3
-|style="text-align:left;"|{{DNK|20px}}||3||1||0||2||4||5||-1||'''3'''
+|style="text-align:left;"|{{DNK|WIDTH=20px}}||3||1||0||2||4||5||-1||'''3'''
 |- style="background:#fcc;"
 |style="text-align:left;"|4
-|style="text-align:left;"|{{NLD|20px}}||3||0||0||3||2||5||-3||'''0'''
+|style="text-align:left;"|{{NLD|WIDTH=20px}}||3||0||0||3||2||5||-3||'''0'''
 |}
 VD — vändod, VÄ — vägestused, TL — tazolugud, IŠ — iškused, AG — ajatud golad, SG — sadud golad, +/- — erinend
 
@@ -145,21 +145,21 @@ VD — vändod, VÄ — vägestused, TL — tazolugud, IŠ — iškused, AG — 
 |-
 |9. kezaku 2012
 |- style=font-size:90%
-|align=right|{{NLD|20px}}||align=center|'''0-1'''||{{DNK|20px}}|| Metallist-stadion, [[Har'kov]]
+|align=right|{{NLD|WIDTH=20px}}||align=center|'''0-1'''||{{DNK|WIDTH=20px}}|| Metallist-stadion, [[Har'kov]]
 |- style=font-size:90%
-|align=right|{{DEU|20px}}||align=center|'''1-0'''||{{PRT|20px}}|| L'vov-Arena, [[L'vov]]
+|align=right|{{DEU|WIDTH=20px}}||align=center|'''1-0'''||{{PRT|WIDTH=20px}}|| L'vov-Arena, [[L'vov]]
 |-
 |13 kezaku 2012
 |- style=font-size:90%
-|align=right|{{DNK|20px}}||align=center|'''2-3'''||{{PRT|20px}}|| L'vov-Arena, [[L'vov]]
+|align=right|{{DNK|WIDTH=20px}}||align=center|'''2-3'''||{{PRT|WIDTH=20px}}|| L'vov-Arena, [[L'vov]]
 |- style=font-size:90%
-|align=right|{{NLD|20px}}||align=center|'''1-2'''||{{DEU|20px}}|| Metallist-stadion, [[Har'kov]]
+|align=right|{{NLD|WIDTH=20px}}||align=center|'''1-2'''||{{DEU|WIDTH=20px}}|| Metallist-stadion, [[Har'kov]]
 |-
 |17 kezaku 2012
 |- style=font-size:90%
-|align=right|{{PRT|20px}}||align=center|''' 2:1 '''||{{NLD|20px}}|| Metallist-stadion, [[Har'kov]]
+|align=right|{{PRT|WIDTH=20px}}||align=center|''' 2:1 '''||{{NLD|WIDTH=20px}}|| Metallist-stadion, [[Har'kov]]
 |- style=font-size:90%
-|align=right|{{DNK|20px}}||align=center|''' 1:2 '''||{{DEU|20px}}|| L'vov-Arena, [[L'vov]]
+|align=right|{{DNK|WIDTH=20px}}||align=center|''' 1:2 '''||{{DEU|WIDTH=20px}}|| L'vov-Arena, [[L'vov]]
 |}
 
 ==== Grupp C ====
@@ -169,16 +169,16 @@ VD — vändod, VÄ — vägestused, TL — tazolugud, IŠ — iškused, AG — 
 !width="20"|Sija!!width="100"|Valdkund!!width="20"|VD!!width="20"|VÄ!!width="20"|TL!!width="20"|IŠ!!width="20"|AG!!width="20"|SG!!width="20"|+/-!!width="20"|Punktad
 |- style="background:#cfc;"
 |style="text-align:left;"|1
-|style="text-align:left;"|{{ESP|20px}}||3||2||1||0||6||1||+5||'''7'''
+|style="text-align:left;"|{{ESP|WIDTH=20px}}||3||2||1||0||6||1||+5||'''7'''
 |- style="background:#cfc;"
 |style="text-align:left;"|2
-|style="text-align:left;"|{{ITA|20px}}||3||1||2||0||4||2||+2||'''5'''
+|style="text-align:left;"|{{ITA|WIDTH=20px}}||3||1||2||0||4||2||+2||'''5'''
 |- style="background:#fcc;"
 |style="text-align:left;"|3
-|style="text-align:left;"|{{HRV|20px}}||3||1||1||1||4||3||+1||'''4'''
+|style="text-align:left;"|{{HRV|WIDTH=20px}}||3||1||1||1||4||3||+1||'''4'''
 |- style="background:#fcc;"
 |style="text-align:left;"|4
-|style="text-align:left;"|{{IRL|20px}}||3||0||0||3||1||9||-2||'''0'''
+|style="text-align:left;"|{{IRL|WIDTH=20px}}||3||0||0||3||1||9||-2||'''0'''
 |}
 VD — vändod, VÄ — vägestused, TL — tazolugud, IŠ — iškused, AG — ajatud golad, SG — sadud golad, +/- — erinend
 
@@ -190,21 +190,21 @@ VD — vändod, VÄ — vägestused, TL — tazolugud, IŠ — iškused, AG — 
 |-
 |10 kezaku 2012
 |- style=font-size:90%
-|align=right|{{ESP|20px}}||align=center|''' 1-1 '''||{{ITA|20px}}|| PGE Arena, [[Gdan'sk]]
+|align=right|{{ESP|WIDTH=20px}}||align=center|''' 1-1 '''||{{ITA|WIDTH=20px}}|| PGE Arena, [[Gdan'sk]]
 |- style=font-size:90%
-|align=right|{{IRL|20px}}||align=center|''' 1-3 '''||{{HRV|20px}}|| Lidnan stadion, [[Poznan']]
+|align=right|{{IRL|WIDTH=20px}}||align=center|''' 1-3 '''||{{HRV|WIDTH=20px}}|| Lidnan stadion, [[Poznan']]
 |-
 |14 kezaku 2012
 |- style=font-size:90%
-|align=right|{{ITA|20px}}||align=center|''' 1-1 '''||{{HRV|20px}}|| Lidnan stadion, [[Poznan']]
+|align=right|{{ITA|WIDTH=20px}}||align=center|''' 1-1 '''||{{HRV|WIDTH=20px}}|| Lidnan stadion, [[Poznan']]
 |- style=font-size:90%
-|align=right|{{ESP|20px}}||align=center|''' 4-0 '''||{{IRL|20px}}|| PGE Arena, [[Gdan'sk]]
+|align=right|{{ESP|WIDTH=20px}}||align=center|''' 4-0 '''||{{IRL|WIDTH=20px}}|| PGE Arena, [[Gdan'sk]]
 |-
 |18 kezaku 2012
 |- style=font-size:90%
-|align=right|{{HRV|20px}}||align=center|''' 0:1 '''||{{ESP|20px}}||PGE Arena, [[Gdan'sk]]
+|align=right|{{HRV|WIDTH=20px}}||align=center|''' 0:1 '''||{{ESP|WIDTH=20px}}||PGE Arena, [[Gdan'sk]]
 |- style=font-size:90%
-|align=right|{{ITA|20px}}||align=center|''' 2:0 '''||{{IRL|20px}}|| Lidnan stadion, [[Poznan']]
+|align=right|{{ITA|WIDTH=20px}}||align=center|''' 2:0 '''||{{IRL|WIDTH=20px}}|| Lidnan stadion, [[Poznan']]
 |}
 
 ==== Grupp D ====
@@ -214,16 +214,16 @@ VD — vändod, VÄ — vägestused, TL — tazolugud, IŠ — iškused, AG — 
 !width="20"|Sija!!width="100"|Valdkund!!width="20"|VD!!width="20"|VÄ!!width="20"|TL!!width="20"|IŠ!!width="20"|AG!!width="20"|SG!!width="20"|+/-!!width="20"|Punktad
 |- style="background:#cfc;"
 |style="text-align:left;"|1
-|style="text-align:left;"|[[Fail:Flag of England.svg|border|20px]] [[Anglii]]||3||2||1||0||5||3||+2||'''7'''
+|style="text-align:left;"|[[Fail:Flag of England.svg|border|WIDTH=20px]] [[Anglii]]||3||2||1||0||5||3||+2||'''7'''
 |- style="background:#cfc;"
 |style="text-align:left;"|2
-|style="text-align:left;"|{{FRA|20px}}||3||1||1||1||5||3||0||'''4'''
+|style="text-align:left;"|{{FRA|WIDTH=20px}}||3||1||1||1||5||3||0||'''4'''
 |- style="background:#fcc;"
 |style="text-align:left;"|3
-|style="text-align:left;"|{{UKR|20px}}||3||1||0||2||2||4||-2||'''3'''
+|style="text-align:left;"|{{UKR|WIDTH=20px}}||3||1||0||2||2||4||-2||'''3'''
 |- style="background:#fcc;"
 |style="text-align:left;"|4
-|style="text-align:left;"|{{SWE|20px}}||3||1||0||2||5||5||0||'''3'''
+|style="text-align:left;"|{{SWE|WIDTH=20px}}||3||1||0||2||5||5||0||'''3'''
 |}
 VD — vändod, VÄ — vägestused, TL — tazolugud, IŠ — iškused, AG — ajatud golad, SG — sadud golad, +/- — erinend
 
@@ -235,21 +235,21 @@ VD — vändod, VÄ — vägestused, TL — tazolugud, IŠ — iškused, AG — 
 |-
 |11 kezaku 2012
 |- style=font-size:90%
-|align=right|{{FRA|20px}}||align=center|''' 1-1 '''||[[Fail:Flag of England.svg|border|20px]] [[Anglii]]|| Donbass Arena, [[Doneck]]
+|align=right|{{FRA|WIDTH=20px}}||align=center|''' 1-1 '''||[[Fail:Flag of England.svg|border|WIDTH=20px]] [[Anglii]]|| Donbass Arena, [[Doneck]]
 |- style=font-size:90%
-|align=right|{{UKR|20px}}||align=center|''' 2-1 '''||{{SWE|20px}}|| NSK Olimpialaine, [[Kijev]]
+|align=right|{{UKR|WIDTH=20px}}||align=center|''' 2-1 '''||{{SWE|WIDTH=20px}}|| NSK Olimpialaine, [[Kijev]]
 |-
 |15 kezaku 2012
 |- style=font-size:90%
-|align=right|{{UKR|20px}}||align=center|''' 0-2 '''||{{FRA|20px}}|| Donbass Arena, [[Doneck]]
+|align=right|{{UKR|WIDTH=20px}}||align=center|''' 0-2 '''||{{FRA|WIDTH=20px}}|| Donbass Arena, [[Doneck]]
 |- style=font-size:90%
-|align=right|{{SWE|20px}}||align=center|''' 2-3 '''||[[Fail:Flag of England.svg|border|20px]] [[Anglii]]|| NSK Olimpialaine, [[Kijev]]
+|align=right|{{SWE|WIDTH=20px}}||align=center|''' 2-3 '''||[[Fail:Flag of England.svg|border|WIDTH=20px]] [[Anglii]]|| NSK Olimpialaine, [[Kijev]]
 |-
 |19 kezaku 2012
 |- style=font-size:90%
-|align=right|{{SWE|20px}}||align=center|''' 2:0 '''||{{FRA|20px}}|| NSK Olimpialaine, [[Kijev]]
+|align=right|{{SWE|WIDTH=20px}}||align=center|''' 2:0 '''||{{FRA|WIDTH=20px}}|| NSK Olimpialaine, [[Kijev]]
 |- style=font-size:90%
-|align=right|[[Fail:Flag of England.svg|border|20px]] [[Anglii]]||align=center|''' 1:0 '''||{{UKR|20px}}|| Donbass Arena, [[Doneck]]
+|align=right|[[Fail:Flag of England.svg|border|WIDTH=20px]] [[Anglii]]||align=center|''' 1:0 '''||{{UKR|WIDTH=20px}}|| Donbass Arena, [[Doneck]]
 |}
 
 === Plei-off ===
@@ -281,14 +281,14 @@ VD — vändod, VÄ — vägestused, TL — tazolugud, IŠ — iškused, AG — 
 |- 
 | height="7" |
 | align=center bgcolor="#98A1B2" style="border:1px solid #aaa;"| <font color="#ffffff">{{{RD1-seed1|A1}}}</font>
-| style="border:1px solid #aaa;" bgcolor=#f9f9f9| &nbsp; [[Fail:Flag of the Czech Republic.svg|20px]] [[Čehii]] {{{RD1-team1|&nbsp;}}}
+| style="border:1px solid #aaa;" bgcolor=#f9f9f9| &nbsp; [[Fail:Flag of the Czech Republic.svg|WIDTH=20px]] [[Čehii]] {{{RD1-team1|&nbsp;}}}
 | align=center style="border:1px solid #aaa;" bgcolor=#f9f9f9| 0 {{{RD1-score1|&nbsp;}}}
 | style="border-width:0 0 2px 0; border-style:solid;border-color:black;"|&nbsp;
 
 |-
 | height="7" |
 | rowspan="2" align=center bgcolor="#98A1B2" style="border:1px solid #aaa;"| <font color="#ffffff">{{{RD1-seed2|B2}}}</font>
-| rowspan="2" style="border:1px solid #aaa;" bgcolor=#f9f9f9| &nbsp; [[Fail:Flag of Portugal.svg|20px]] '''[[Portugalii]]''' '''{{{RD1-team2|&nbsp;}}}
+| rowspan="2" style="border:1px solid #aaa;" bgcolor=#f9f9f9| &nbsp; [[Fail:Flag of Portugal.svg|WIDTH=20px]] '''[[Portugalii]]''' '''{{{RD1-team2|&nbsp;}}}
 | rowspan="2" align=center style="border:1px solid #aaa;" bgcolor=#f9f9f9| '''1''' {{{RD1-score2|&nbsp;}}}
 | rowspan="6" style="border-width:2px 2px 2px 0; border-style:solid;border-color:black;"|&nbsp;
 
@@ -296,7 +296,7 @@ VD — vändod, VÄ — vägestused, TL — tazolugud, IŠ — iškused, AG — 
 | height="7" |
 | rowspan="2" style="border-width:0 0 2px 0; border-style:solid;border-color:black;"|&nbsp;
 | rowspan="2" align=center bgcolor="#98A1B2" style="border:1px solid #aaa;"| <font color="#ffffff">B2{{{RD2-seed2|&nbsp;}}}</font>
-| rowspan="2" style="border:1px solid #aaa;" bgcolor=#f9f9f9| &nbsp; [[Fail:Flag of Portugal.svg|20px]] [[Portugalii]]| {{{RD2-team2|&nbsp;}}}
+| rowspan="2" style="border:1px solid #aaa;" bgcolor=#f9f9f9| &nbsp; [[Fail:Flag of Portugal.svg|WIDTH=20px]] [[Portugalii]]| {{{RD2-team2|&nbsp;}}}
 | rowspan="2" align=center style="border:1px solid #aaa;" bgcolor=#f9f9f9| 0(2){{{RD2-score2|&nbsp;}}}
 | rowspan="2" style="border-width:0 0 2px 0; border-style:solid;border-color:black;"|&nbsp;
 
@@ -308,14 +308,14 @@ VD — vändod, VÄ — vägestused, TL — tazolugud, IŠ — iškused, AG — 
 | height="7" |
 | rowspan="2" style="border-width:2px 0 0 0; border-style:solid;border-color:black;"|&nbsp;
 | rowspan="2" align=center bgcolor="#98A1B2" style="border:1px solid #aaa;"| <font color="#ffffff">C1{{{RD2-seed3|&nbsp;}}}</font>
-| rowspan="2" style="border:1px solid #aaa;" bgcolor=#f9f9f9| &nbsp; [[Fail:Flag of Spain.svg|20px]] '''[[Ispanii]]''' {{{RD2-team3|&nbsp;}}}
+| rowspan="2" style="border:1px solid #aaa;" bgcolor=#f9f9f9| &nbsp; [[Fail:Flag of Spain.svg|WIDTH=20px]] '''[[Ispanii]]''' {{{RD2-team3|&nbsp;}}}
 | rowspan="2" align=center style="border:1px solid #aaa;" bgcolor=#f9f9f9| '''0(4)'''{{{RD2-score3|&nbsp;}}}
 | rowspan="10" style="border-width:2px 2px 2px 0; border-style:solid;border-color:black;"|&nbsp;
 
 |-
 | height="7" |
 | rowspan="2" align=center bgcolor="#98A1B2" style="border:1px solid #aaa;"| <font color="#ffffff">{{{RD1-seed3|C1}}}</font>
-| rowspan="2" style="border:1px solid #aaa;" bgcolor=#f9f9f9| &nbsp; [[Fail:Flag of Spain.svg|20px]] '''[[Ispanii]]''' {{{RD1-team3|&nbsp;}}}
+| rowspan="2" style="border:1px solid #aaa;" bgcolor=#f9f9f9| &nbsp; [[Fail:Flag of Spain.svg|WIDTH=20px]] '''[[Ispanii]]''' {{{RD1-team3|&nbsp;}}}
 | rowspan="2" align=center style="border:1px solid #aaa;" bgcolor=#f9f9f9| '''2'''{{{RD1-score3|&nbsp;}}}
 
 |-
@@ -324,7 +324,7 @@ VD — vändod, VÄ — vägestused, TL — tazolugud, IŠ — iškused, AG — 
 |-
 | height="7" |&nbsp;
 | align=center bgcolor="#98A1B2" style="border:1px solid #aaa;"| <font color="#ffffff">{{{RD1-seed4|D2}}}</font>
-| style="border:1px solid #aaa;" bgcolor=#f9f9f9| &nbsp; [[Fail:Flag of France.svg|20px]] [[Francii]] '''{{{RD1-team4|&nbsp;}}}
+| style="border:1px solid #aaa;" bgcolor=#f9f9f9| &nbsp; [[Fail:Flag of France.svg|WIDTH=20px]] [[Francii]] '''{{{RD1-team4|&nbsp;}}}
 | align=center style="border:1px solid #aaa;" bgcolor=#f9f9f9|0{{{RD1-score4|&nbsp;}}}
 | style="border-width:2px 0 0 0; border-style:solid;border-color:black;"|&nbsp;
 
@@ -333,27 +333,27 @@ VD — vändod, VÄ — vägestused, TL — tazolugud, IŠ — iškused, AG — 
 | colspan="8" rowspan="2"|&nbsp;
 | style="border-width:0 0 2px 0; border-style:solid;border-color:black;"|&nbsp;
 | align=center bgcolor="#98A1B2" style="border:1px solid #aaa;"| <font color="#ffffff">C1{{{RD3-seed3|&nbsp;}}}</font>
-| style="border:1px solid #aaa;" bgcolor=#f9f9f9| &nbsp; [[Fail:Flag of Spain.svg|20px]] '''[[Ispanii]]'''  {{{RD3-team3|&nbsp;}}}
+| style="border:1px solid #aaa;" bgcolor=#f9f9f9| &nbsp; [[Fail:Flag of Spain.svg|WIDTH=20px]] '''[[Ispanii]]'''  {{{RD3-team3|&nbsp;}}}
 | align=center style="border:1px solid #aaa;" bgcolor=#f9f9f9| '''4'''{{{RD3-score3|&nbsp;}}}
 
 |-
 | height="7"|
 | style="border-width:2px 0 0 0; border-style:solid;border-color:black;"|&nbsp;
 | align=center bgcolor="#98A1B2" style="border:1px solid #aaa;"| <font color="#ffffff">C2{{{RD1-seed7|&nbsp;}}}</font>
-| style="border:1px solid #aaa;" bgcolor=#f9f9f9| &nbsp; [[Fail:Flag of Italy.svg|20px]] '''[[Italii]]''' '''{{{RD3-team7|&nbsp;}}}
+| style="border:1px solid #aaa;" bgcolor=#f9f9f9| &nbsp; [[Fail:Flag of Italy.svg|WIDTH=20px]] '''[[Italii]]''' '''{{{RD3-team7|&nbsp;}}}
 | align=center style="border:1px solid #aaa;" bgcolor=#f9f9f9| 0{{{RD3-score7|&nbsp;}}}
 
 |-
 | height="7"|&nbsp;
 | align=center bgcolor="#98A1B2" style="border:1px solid #aaa;"| <font color="#ffffff">{{{RD1-seed5|B1}}}</font>
-| style="border:1px solid #aaa;" bgcolor=#f9f9f9| &nbsp; [[Fail:Flag of Germany.svg|20px]] '''[[Saksanma]]''' {{{RD1-team5|&nbsp;}}}
+| style="border:1px solid #aaa;" bgcolor=#f9f9f9| &nbsp; [[Fail:Flag of Germany.svg|WIDTH=20px]] '''[[Saksanma]]''' {{{RD1-team5|&nbsp;}}}
 | align=center style="border:1px solid #aaa;" bgcolor=#f9f9f9| '''4''' {{{RD1-score5|&nbsp;}}}
 | style="border-width:0 0 2px 0; border-style:solid;border-color:black;"|&nbsp;
 
 |-
 | height="7" |
 | rowspan="2" align=center bgcolor="#98A1B2" style="border:1px solid #aaa;"| <font color="#ffffff">{{{RD1-seed6|A2}}}</font>
-| rowspan="2" style="border:1px solid #aaa;" bgcolor=#f9f9f9| &nbsp; [[Fail:Flag of Greece.svg|20px]] [[Grekanma]] {{{RD1-team6|&nbsp;}}}
+| rowspan="2" style="border:1px solid #aaa;" bgcolor=#f9f9f9| &nbsp; [[Fail:Flag of Greece.svg|WIDTH=20px]] [[Grekanma]] {{{RD1-team6|&nbsp;}}}
 | rowspan="2" align=center style="border:1px solid #aaa;" bgcolor=#f9f9f9| 2 {{{RD1-score6|&nbsp;}}}
 | rowspan="5" style="border-width:2px 2px 2px 0; border-style:solid;border-color:black;"|&nbsp;
 
@@ -361,7 +361,7 @@ VD — vändod, VÄ — vägestused, TL — tazolugud, IŠ — iškused, AG — 
 | height="7" |
 | rowspan="2" style="border-width:0 0 2px 0; border-style:solid;border-color:black;"|&nbsp;
 | rowspan="2" align=center bgcolor="#98A1B2" style="border:1px solid #aaa;"| <font color="#ffffff">B1{{{RD2-seed5|&nbsp;}}}</font>
-| rowspan="2" style="border:1px solid #aaa;" bgcolor=#f9f9f9| &nbsp; [[Fail:Flag of Germany.svg|20px]] [[Saksanma]]  {{{RD2-team5|&nbsp;}}}
+| rowspan="2" style="border:1px solid #aaa;" bgcolor=#f9f9f9| &nbsp; [[Fail:Flag of Germany.svg|WIDTH=20px]] [[Saksanma]]  {{{RD2-team5|&nbsp;}}}
 | rowspan="2" align=center style="border:1px solid #aaa;" bgcolor=#f9f9f9| 1 {{{RD2-score5|&nbsp;}}}
 
 |-
@@ -372,19 +372,19 @@ VD — vändod, VÄ — vägestused, TL — tazolugud, IŠ — iškused, AG — 
 | height="7" |
 | rowspan="2" style="border-width:0 0 0 0; border-style:solid;border-color:black;"|&nbsp;
 | align=center bgcolor="#98A1B2" style="border:1px solid #aaa;"| <font color="#ffffff">C2{{{RD1-seed7|&nbsp;}}}</font>
-| style="border:1px solid #aaa;" bgcolor=#f9f9f9| &nbsp; [[Fail:Flag of Italy.svg|20px]] '''[[Italii]]''' '''{{{RD2-team7|&nbsp;}}}
+| style="border:1px solid #aaa;" bgcolor=#f9f9f9| &nbsp; [[Fail:Flag of Italy.svg|WIDTH=20px]] '''[[Italii]]''' '''{{{RD2-team7|&nbsp;}}}
 | align=center style="border:1px solid #aaa;" bgcolor=#f9f9f9| '''2'''{{{RD2-score7|&nbsp;}}}
 
 |-
 | height="7" |
 | align=center bgcolor="#98A1B2" style="border:1px solid #aaa;"| <font color="#ffffff">{{{RD1-seed7|C2}}}</font>
-| style="border:1px solid #aaa;" bgcolor=#f9f9f9| &nbsp; [[Fail:Flag of Italy.svg|20px]] '''[[Italii]]''' {{{RD1-team7|&nbsp;}}}
+| style="border:1px solid #aaa;" bgcolor=#f9f9f9| &nbsp; [[Fail:Flag of Italy.svg|WIDTH=20px]] '''[[Italii]]''' {{{RD1-team7|&nbsp;}}}
 | align=center style="border:1px solid #aaa;" bgcolor=#f9f9f9| '''0(4)'''{{{RD1-score7|&nbsp;}}}
 
 |-
 | height="7" |
 | rowspan="2" align=center bgcolor="#98A1B2" style="border:1px solid #aaa;"| <font color="#ffffff">{{{RD1-seed8|D1}}}</font>
-| rowspan="2" style="border:1px solid #aaa;" bgcolor=#f9f9f9| &nbsp; [[Fail:Flag of England.svg|20px]] [[Anglii]]'''{{{RD1-team8|&nbsp;}}}
+| rowspan="2" style="border:1px solid #aaa;" bgcolor=#f9f9f9| &nbsp; [[Fail:Flag of England.svg|WIDTH=20px]] [[Anglii]]'''{{{RD1-team8|&nbsp;}}}
 | rowspan="2" align=center style="border:1px solid #aaa;" bgcolor=#f9f9f9| 0(2){{{RD1-score8|&nbsp;}}}
 |}
 
