@@ -3,7 +3,7 @@
 |----- bgcolor="#efefef" 
 | colspan=6 align="center" | '''Mötaliden klassifikacii'''
 |- style="background:#efefef" align="center"
-! Lp.
+! №
 ! align="left" | Valdkund
 ! kuld
 ! hobed
@@ -11,7 +11,7 @@
 ! kaik
 |- bgcolor="#FFFFFF" align="right"
 | 1.
-| align="left" | {{BRA}}
+| align="left" | [[Brazilii]]
 | style="background:#F7F6A8;" align=center| 1
 | style="background:#DCE5E5;" align=center| 0
 | style="background:#FFDAB9;" align=center| 1
@@ -39,21 +39,21 @@
 | align=center| 1
 |- bgcolor="#FFFFFF" align="right"
 | 3.
-| align="left" | {{RUS}}
-| style="background:#F7F6A8;" align=center| 1
-| style="background:#DCE5E5;" align=center| 0
-| style="background:#FFDAB9;" align=center| 0
+| align="left" | '''{{RUS}}'''
+| style="background:#F7F6A8;" align=center| '''1'''
+| style="background:#DCE5E5;" align=center| '''0'''
+| style="background:#FFDAB9;" align=center| '''0'''
 | align=center| 1
 |- bgcolor="#FFFFFF" align="right"
 | '''6.'''
-| align="left" | '''{{POL}}'''
-| style="background:#F7F6A8;" align=center| '''0'''
-| style="background:#DCE5E5;" align=center| '''1'''
-| style="background:#FFDAB9;" align=center| '''0'''
+| align="left" | {{POL}}
+| style="background:#F7F6A8;" align=center| 0
+| style="background:#DCE5E5;" align=center| 1
+| style="background:#FFDAB9;" align=center| 0
 | align=center| '''1'''
 |- bgcolor="#FFFFFF" align="right"
 | 6.
-| align="left" | {{COL}}
+| align="left" | [[Kolumbii]]
 | style="background:#F7F6A8;" align=center| 0
 | style="background:#DCE5E5;" align=center| 1
 | style="background:#FFDAB9;" align=center| 0
@@ -67,14 +67,14 @@
 | align=center| 1
 |- bgcolor="#FFFFFF" align="right"
 | 6.
-| align="left" | {{JPN}}
+| align="left" | [[Japonii]]
 | style="background:#F7F6A8;" align=center| 0
 | style="background:#DCE5E5;" align=center| 1
 | style="background:#FFDAB9;" align=center| 0
 | align=center| 1
 |- bgcolor="#FFFFFF" align="right"
 | 6.
-| align="left" | {{ROM}}
+| align="left" | [[Romanii]]
 | style="background:#F7F6A8;" align=center| 0
 | style="background:#DCE5E5;" align=center| 1
 | style="background:#FFDAB9;" align=center| 0
