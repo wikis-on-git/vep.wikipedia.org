@@ -11,18 +11,19 @@
 ! kaik
 |- bgcolor="#FFFFFF" align="right"
 | 1.
+| align="left" | {{CHN}}
+| style="background:#F7F6A8;" align=center| 2
+| style="background:#DCE5E5;" align=center| 0
+| style="background:#FFDAB9;" align=center| 1
+| align=center| 3
+|- bgcolor="#FFFFFF" align="right"
+| 2.
 | align="left" | [[Fail:Flag of Brazil.svg|border|20px]] [[Brazilii]]
 | style="background:#F7F6A8;" align=center| 1
 | style="background:#DCE5E5;" align=center| 0
 | style="background:#FFDAB9;" align=center| 1
 | align=center| 2
-|- bgcolor="#FFFFFF" align="right"
-| 1.
-| align="left" | {{CHN}}
-| style="background:#F7F6A8;" align=center| 1
-| style="background:#DCE5E5;" align=center| 0
-| style="background:#FFDAB9;" align=center| 1
-| align=center| 2
+
 |- bgcolor="#FFFFFF" align="right"
 | 3.
 | align="left" | {{KAZ}}
@@ -102,6 +103,13 @@
 | align=center| 1
 |- bgcolor="#FFFFFF" align="right"
 | 11.
+| align="left" | {{PRK}}
+| style="background:#F7F6A8;" align=center| 0
+| style="background:#DCE5E5;" align=center| 0
+| style="background:#FFDAB9;" align=center| 1
+| align=center| 1
+|- bgcolor="#FFFFFF" align="right"
+| 11.
 | align="left" | {{HUN}}
 | style="background:#F7F6A8;" align=center| 0
 | style="background:#DCE5E5;" align=center| 0
@@ -117,10 +125,10 @@
 |- bgcolor="#FFFFFF" align="right"
 | -
 | align="left" | '''Kaik'''
-| style="background:#F7F6A8;" align=center| '''5'''
-| style="background:#DCE5E5;" align=center| '''5'''
-| style="background:#FFDAB9;" align=center| '''7'''
-| align=center| '''17'''
+| style="background:#F7F6A8;" align=center| '''6'''
+| style="background:#DCE5E5;" align=center| '''6'''
+| style="background:#FFDAB9;" align=center| '''8'''
+| align=center| '''20'''
 |- bgcolor="#FFFFFF" align="right"
 |}
 
