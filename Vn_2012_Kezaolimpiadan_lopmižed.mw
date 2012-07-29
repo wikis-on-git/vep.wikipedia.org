@@ -12,23 +12,23 @@
 |- bgcolor="#FFFFFF" align="right"
 | 1.
 | align="left" | {{CHN}}
-| style="background:#F7F6A8;" align=center| 5
-| style="background:#DCE5E5;" align=center| 0
+| style="background:#F7F6A8;" align=center| 6
+| style="background:#DCE5E5;" align=center| 1
+| style="background:#FFDAB9;" align=center| 2
+| align=center| 9
+|- bgcolor="#FFFFFF" align="right"
+| 2.
+| align="left" | {{USA}}
+| style="background:#F7F6A8;" align=center| 2
+| style="background:#DCE5E5;" align=center| 3
 | style="background:#FFDAB9;" align=center| 2
 | align=center| 7
 |- bgcolor="#FFFFFF" align="right"
-| 2.
+| 3.
 | align="left" | {{ITA}}
 | style="background:#F7F6A8;" align=center| 2
 | style="background:#DCE5E5;" align=center| 2
 | style="background:#FFDAB9;" align=center| 1
-| align=center| 5
-|- bgcolor="#FFFFFF" align="right"
-| 3.
-| align="left" | {{USA}}
-| style="background:#F7F6A8;" align=center| 1
-| style="background:#DCE5E5;" align=center| 2
-| style="background:#FFDAB9;" align=center| 2
 | align=center| 5
 |- bgcolor="#FFFFFF" align="right"
 | 4.
@@ -46,50 +46,49 @@
 | align=center| 3
 |- bgcolor="#FFFFFF" align="right"
 | 6.
+| align="left" | [[Fail:Flag of the Netherlands.svg|border|20px]] [[Alamad]]
+| style="background:#F7F6A8;" align=center| 1
+| style="background:#DCE5E5;" align=center| 1
+| style="background:#FFDAB9;" align=center| 0
+| align=center| 2
+|- bgcolor="grass" align="right"
+| '''7.'''
+| align="left" | '''{{RUS}}'''
+| style="background:#F7F6A8;" align=center| '''1'''
+| style="background:#DCE5E5;" align=center| '''0'''
+| style="background:#FFDAB9;" align=center| '''1'''
+| align=center| '''2'''
+|- bgcolor="#FFFFFF" align="right"
+| 8.
 | align="left" | [[Fail:Flag of Australia.svg|border|20px]] [[Avstralii (valdkund)|Avstralii]]
 | style="background:#F7F6A8;" align=center| 1
 | style="background:#DCE5E5;" align=center| 0
 | style="background:#FFDAB9;" align=center| 0
 | align=center| 1
 |- bgcolor="#FFFFFF" align="right"
-| 7.
+| 9.
 | align="left" | {{KAZ}}
 | style="background:#F7F6A8;" align=center| 1
 | style="background:#DCE5E5;" align=center| 0
 | style="background:#FFDAB9;" align=center| 0
 | align=center| 1
-|- bgcolor="grass" align="right"
-| '''8.'''
-| align="left" | '''{{RUS}}'''
-| style="background:#F7F6A8;" align=center| '''1'''
-| style="background:#DCE5E5;" align=center| '''0'''
-| style="background:#FFDAB9;" align=center| '''0'''
-| align=center| '''1'''
 |- bgcolor="#FFFFFF" align="right"
-| 9.
+| 10.
 | align="left" | [[Fail:Flag of Japan.svg|border|20px]] [[Japonii]]
 | style="background:#F7F6A8;" align=center| 0
 | style="background:#DCE5E5;" align=center| 2
 | style="background:#FFDAB9;" align=center| 1
 | align=center| 3
 |- bgcolor="#FFFFFF" align="right"
-| 10.
-| align="left" | [[Fail:Flag of Colombia.svg|border|20px]] [[Kolumbii]]
-| style="background:#F7F6A8;" align=center| 0
-| style="background:#DCE5E5;" align=center| 1
-| style="background:#FFDAB9;" align=center| 0
-| align=center| 1
-|- bgcolor="#FFFFFF" align="right"
 | 11.
-| align="left" | {{FRA}}
+| align="left" | [[Fail:Flag of the United Kingdom.svg|border|20px]] [[Sur' Britanii]]
 | style="background:#F7F6A8;" align=center| 0
 | style="background:#DCE5E5;" align=center| 1
 | style="background:#FFDAB9;" align=center| 0
 | align=center| 1
-|- bgcolor="#FFFFFF" align="right"
 |- bgcolor="#FFFFFF" align="right"
 | 12.
-| align="left" | [[Fail:Flag of the Netherlands.svg|border|20px]] [[Alamad]]
+| align="left" | [[Fail:Flag of Colombia.svg|border|20px]] [[Kolumbii]]
 | style="background:#F7F6A8;" align=center| 0
 | style="background:#DCE5E5;" align=center| 1
 | style="background:#FFDAB9;" align=center| 0
@@ -100,7 +99,7 @@
 | style="background:#F7F6A8;" align=center| 0
 | style="background:#DCE5E5;" align=center| 1
 | style="background:#FFDAB9;" align=center| 0
-| align=center| '''1'''
+| align=center| 1
 |- bgcolor="#FFFFFF" align="right"
 | 14.
 | align="left" | [[Fail:Flag of Romania.svg|border|20px]] [[Romanii]]
@@ -110,48 +109,69 @@
 | align=center| 1
 |- bgcolor="#FFFFFF" align="right"
 | 15.
+| align="left" | {{FRA}}
+| style="background:#F7F6A8;" align=center| 0
+| style="background:#DCE5E5;" align=center| 1
+| style="background:#FFDAB9;" align=center| 0
+| align=center| 1
+|- bgcolor="#FFFFFF" align="right"
+| 16.
 | align="left" | {{BEL}}
 | style="background:#F7F6A8;" align=center| 0
 | style="background:#DCE5E5;" align=center| 0
 | style="background:#FFDAB9;" align=center| 1
 | align=center| 1
 |- bgcolor="#FFFFFF" align="right"
-| 16.
+| 17.
 | align="left" | {{HUN}}
 | style="background:#F7F6A8;" align=center| 0
 | style="background:#DCE5E5;" align=center| 0
 | style="background:#FFDAB9;" align=center| 1
 | align=center| 1
 |- bgcolor="#FFFFFF" align="right"
-| 17.
-| align="left" | {{PRK}}
-| style="background:#F7F6A8;" align=center| 0
-| style="background:#DCE5E5;" align=center| 0
-| style="background:#FFDAB9;" align=center| 1
-| align=center| 1
-|- bgcolor="#FFFFFF" align="right"
 | 18.
-| align="left" | {{NOR}}
+| align="left" | [[Fail:Flag of Canada.svg|border|20px]]
 | style="background:#F7F6A8;" align=center| 0
 | style="background:#DCE5E5;" align=center| 0
 | style="background:#FFDAB9;" align=center| 1
 | align=center| 1
 |- bgcolor="#FFFFFF" align="right"
 | 19.
-| align="left" | {{SRB}}
+| align="left" | {{PRK}}
 | style="background:#F7F6A8;" align=center| 0
 | style="background:#DCE5E5;" align=center| 0
 | style="background:#FFDAB9;" align=center| 1
 | align=center| 1
 |- bgcolor="#FFFFFF" align="right"
 | 20.
-| align="left" | {{UKR}}
+| align="left" | {{NOR}}
 | style="background:#F7F6A8;" align=center| 0
 | style="background:#DCE5E5;" align=center| 0
 | style="background:#FFDAB9;" align=center| 1
 | align=center| 1
 |- bgcolor="#FFFFFF" align="right"
 | 21.
+| align="left" | {{SRB}}
+| style="background:#F7F6A8;" align=center| 0
+| style="background:#DCE5E5;" align=center| 0
+| style="background:#FFDAB9;" align=center| 1
+| align=center| 1
+|- bgcolor="#FFFFFF" align="right"
+| 22.
+| align="left" | {{SVK}}
+| style="background:#F7F6A8;" align=center| 0
+| style="background:#DCE5E5;" align=center| 0
+| style="background:#FFDAB9;" align=center| 1
+| align=center| 1
+|- bgcolor="#FFFFFF" align="right"
+| 23.
+| align="left" | {{UKR}}
+| style="background:#F7F6A8;" align=center| 0
+| style="background:#DCE5E5;" align=center| 0
+| style="background:#FFDAB9;" align=center| 1
+| align=center| 1
+|- bgcolor="#FFFFFF" align="right"
+| 24.
 | align="left" | {{UZB}}
 | style="background:#F7F6A8;" align=center| 0
 | style="background:#DCE5E5;" align=center| 0
@@ -160,10 +180,10 @@
 |- bgcolor="#FFFFFF" align="right"
 | -
 | align="left" | '''Kaik'''
-| style="background:#F7F6A8;" align=center| '''13'''
-| style="background:#DCE5E5;" align=center| '''13'''
-| style="background:#FFDAB9;" align=center| '''15'''
-| align=center| '''41'''
+| style="background:#F7F6A8;" align=center| '''16'''
+| style="background:#DCE5E5;" align=center| '''16'''
+| style="background:#FFDAB9;" align=center| '''18'''
+| align=center| '''50'''
 |- bgcolor="#FFFFFF" align="right"
 |}
 
