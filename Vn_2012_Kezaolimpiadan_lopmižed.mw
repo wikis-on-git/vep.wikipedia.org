@@ -12,68 +12,82 @@
 |- bgcolor="#FFFFFF" align="right"
 | 1.
 | align="left" | {{CHN}}
-| style="background:#F7F6A8;" align=center| 2
+| style="background:#F7F6A8;" align=center| 4
 | style="background:#DCE5E5;" align=center| 0
-| style="background:#FFDAB9;" align=center| 1
-| align=center| 3
+| style="background:#FFDAB9;" align=center| 2
+| align=center| 6
 |- bgcolor="#FFFFFF" align="right"
 | 2.
 | align="left" | {{ITA}}
-| style="background:#F7F6A8;" align=center| 1
-| style="background:#DCE5E5;" align=center| 1
-| style="background:#FFDAB9;" align=center| 0
+| style="background:#F7F6A8;" align=center| 2
+| style="background:#DCE5E5;" align=center| 2
+| style="background:#FFDAB9;" align=center| 1
 | align=center| 2
 |- bgcolor="#FFFFFF" align="right"
 | 3.
+| align="left" | {{USA}}
+| style="background:#F7F6A8;" align=center| 1
+| style="background:#DCE5E5;" align=center| 2
+| style="background:#FFDAB9;" align=center| 2
+| align=center| 5
+|- bgcolor="#FFFFFF" align="right"
+| 4.
 | align="left" | [[Fail:Flag of Brazil.svg|border|20px]] [[Brazilii]]
 | style="background:#F7F6A8;" align=center| 1
-| style="background:#DCE5E5;" align=center| 0
+| style="background:#DCE5E5;" align=center| 1
 | style="background:#FFDAB9;" align=center| 1
-| align=center| 2
-|- bgcolor="#FFFFFF" align="right"
-| 3.
-| align="left" | {{KOR}}
-| style="background:#F7F6A8;" align=center| 1
-| style="background:#DCE5E5;" align=center| 0
-| style="background:#FFDAB9;" align=center| 1
-| align=center| 2
+| align=center| 3
 |- bgcolor="#FFFFFF" align="right"
 | 5.
+| align="left" | {{KOR}}
+| style="background:#F7F6A8;" align=center| 1
+| style="background:#DCE5E5;" align=center| 1
+| style="background:#FFDAB9;" align=center| 1
+| align=center| 3
+|- bgcolor="#FFFFFF" align="right"
+| 6.
+| align="left" | [[Fail:Flag of Australia.svg|border|20px]] [[Avstralii (valdkund)|Avstralii]]
+| style="background:#F7F6A8;" align=center| 1
+| style="background:#DCE5E5;" align=center| 0
+| style="background:#FFDAB9;" align=center| 0
+| align=center| 1
+|- bgcolor="#FFFFFF" align="right"
+| 7.
 | align="left" | {{KAZ}}
 | style="background:#F7F6A8;" align=center| 1
 | style="background:#DCE5E5;" align=center| 0
 | style="background:#FFDAB9;" align=center| 0
 | align=center| 1
 |- bgcolor="grass" align="right"
-| '''5.'''
+| '''8.'''
 | align="left" | '''{{RUS}}'''
 | style="background:#F7F6A8;" align=center| '''1'''
 | style="background:#DCE5E5;" align=center| '''0'''
 | style="background:#FFDAB9;" align=center| '''0'''
 | align=center| '''1'''
 |- bgcolor="#FFFFFF" align="right"
-| 7.
+| 9.
 | align="left" | [[Fail:Flag of Japan.svg|border|20px]] [[Japonii]]
 | style="background:#F7F6A8;" align=center| 0
 | style="background:#DCE5E5;" align=center| 2
-| style="background:#FFDAB9;" align=center| 0
-| align=center| 2
+| style="background:#FFDAB9;" align=center| 1
+| align=center| 3
 |- bgcolor="#FFFFFF" align="right"
-| 8.
+| 10.
 | align="left" | [[Fail:Flag of Colombia.svg|border|20px]] [[Kolumbii]]
 | style="background:#F7F6A8;" align=center| 0
 | style="background:#DCE5E5;" align=center| 1
 | style="background:#FFDAB9;" align=center| 0
 | align=center| 1
 |- bgcolor="#FFFFFF" align="right"
-| 8.
-| align="left" | [[Fail:Flag of Romania.svg|border|20px]] [[Romanii]]
+| 11.
+| align="left" | [[Fail:Flag of the Netherlands.svg|border|20px]] [[Alamad]]
 | style="background:#F7F6A8;" align=center| 0
 | style="background:#DCE5E5;" align=center| 1
 | style="background:#FFDAB9;" align=center| 0
 | align=center| 1
 |- bgcolor="#FFFFFF" align="right"
-| 8.
+| 12.
 | align="left" | {{POL}}
 | style="background:#F7F6A8;" align=center| 0
 | style="background:#DCE5E5;" align=center| 1
@@ -81,11 +95,11 @@
 | align=center| '''1'''
 |- bgcolor="#FFFFFF" align="right"
 | 8.
-| align="left" | {{USA}}
+| align="left" | [[Fail:Flag of Romania.svg|border|20px]] [[Romanii]]
 | style="background:#F7F6A8;" align=center| 0
 | style="background:#DCE5E5;" align=center| 1
 | style="background:#FFDAB9;" align=center| 0
-| align=center| '''1'''
+| align=center| 1
 |- bgcolor="#FFFFFF" align="right"
 | 13.
 | align="left" | {{NOR}}
