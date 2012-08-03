@@ -11,18 +11,18 @@
 ! kaik
 |- bgcolor="#FFFFFF" align="right"
 | 1.
+| align="left" | {{USA}}
+| style="background:#F7F6A8;" align=center| 18
+| style="background:#DCE5E5;" align=center| 9
+| style="background:#FFDAB9;" align=center| 10
+| align=center| 37
+|- bgcolor="#FFFFFF" align="right"
+| 2.
 | align="left" | {{CHN}}
 | style="background:#F7F6A8;" align=center| 15
 | style="background:#DCE5E5;" align=center| 11
 | style="background:#FFDAB9;" align=center| 4
 | align=center| 33
-|- bgcolor="#FFFFFF" align="right"
-| 2.
-| align="left" | {{USA}}
-| style="background:#F7F6A8;" align=center| 15
-| style="background:#DCE5E5;" align=center| 8
-| style="background:#FFDAB9;" align=center| 9
-| align=center| 32
 |- bgcolor="#FFFFFF" align="right"
 | 3.
 | align="left" | {{KOR}}
