@@ -14,10 +14,10 @@
 |- bgcolor="#FFFFFF" align="right"
 | 1.
 | align="left" | {{CHN}}
-| style="background:#F7F6A8;" align=center| 30
+| style="background:#F7F6A8;" align=center| 31
 | style="background:#DCE5E5;" align=center| 17
 | style="background:#FFDAB9;" align=center| 14
-| align=center| 61
+| align=center| 62
 |- bgcolor="#FFFFFF" align="right"
 | 2.
 | align="left" | {{USA}}
@@ -92,9 +92,9 @@
 | 12.
 | align="left" | [[Fail:Flag of the Netherlands.svg|border|20px]] [[Alamad]]
 | style="background:#F7F6A8;" align=center| 3
-| style="background:#DCE5E5;" align=center| 1
+| style="background:#DCE5E5;" align=center| 2
 | style="background:#FFDAB9;" align=center| 4
-| align=center| 8
+| align=center| 9
 |- bgcolor="#FFFFFF" align="right"
 | 13.
 | align="left" | [[Fail:Flag of South Africa.svg|border|20px]] [[Suviafrikan Tazovaldkund]]
@@ -300,21 +300,21 @@
 | align=center| 3
 |- bgcolor="#FFFFFF" align="right"
 | 42.
-| align="left" | [[Fail:Flag of India.svg|border|20px]] [[Indii]]
+| align="left" | {{BEL}}
 | style="background:#F7F6A8;" align=center| 0
 | style="background:#DCE5E5;" align=center| 1
 | style="background:#FFDAB9;" align=center| 2
 | align=center| 3
 |- bgcolor="#FFFFFF" align="right"
 | 43.
-| align="left" | {{ARM}}
+| align="left" | [[Fail:Flag of India.svg|border|20px]] [[Indii]]
 | style="background:#F7F6A8;" align=center| 0
 | style="background:#DCE5E5;" align=center| 1
-| style="background:#FFDAB9;" align=center| 1
-| align=center| 2
+| style="background:#FFDAB9;" align=center| 2
+| align=center| 3
 |- bgcolor="#FFFFFF" align="right"
 | 44.
-| align="left" | {{BEL}}
+| align="left" | {{ARM}}
 | style="background:#F7F6A8;" align=center| 0
 | style="background:#DCE5E5;" align=center| 1
 | style="background:#FFDAB9;" align=center| 1
@@ -441,10 +441,10 @@
 |- bgcolor="#FFFFFF" align="right"
 | -
 | align="left" | '''Kaik'''
-| style="background:#F7F6A8;" align=center| '''160'''
-| style="background:#DCE5E5;" align=center| '''162'''
-| style="background:#FFDAB9;" align=center| '''174'''
-| align=center| '''496'''
+| style="background:#F7F6A8;" align=center| '''161'''
+| style="background:#DCE5E5;" align=center| '''163'''
+| style="background:#FFDAB9;" align=center| '''175'''
+| align=center| '''499'''
 |- bgcolor="#FFFFFF" align="right"
 |}
 
