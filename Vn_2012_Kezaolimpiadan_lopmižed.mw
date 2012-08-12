@@ -15,30 +15,30 @@
 |- bgcolor="#FFFFFF" align="right"
 | 1.
 | align="left" | {{USA}}
-| style="background:#F7F6A8;" align=center| 41
-| style="background:#DCE5E5;" align=center| 26
-| style="background:#FFDAB9;" align=center| 27
-| align=center| 94
+| style="background:#F7F6A8;" align=center| 44
+| style="background:#DCE5E5;" align=center| 29
+| style="background:#FFDAB9;" align=center| 29
+| align=center| 102
 |- bgcolor="#FFFFFF" align="right"
 | 2.
 | align="left" | {{CHN}}
-| style="background:#F7F6A8;" align=center| 37
-| style="background:#DCE5E5;" align=center| 25
-| style="background:#FFDAB9;" align=center| 19
-| align=center| 81
+| style="background:#F7F6A8;" align=center| 38
+| style="background:#DCE5E5;" align=center| 27
+| style="background:#FFDAB9;" align=center| 22
+| align=center| 87
 |- bgcolor="#CCCCFF" align="right"
 | '''3.'''
 | align="left" | '''[[Fail:Flag of the United Kingdom.svg|border|20px]] [[Sur' Britanii]]'''
-| style="background:#F7F6A8;" align=center| '''25'''
+| style="background:#F7F6A8;" align=center| '''28'''
 | style="background:#DCE5E5;" align=center| '''15'''
-| style="background:#FFDAB9;" align=center| '''17'''
-| align=center| '''57'''
+| style="background:#FFDAB9;" align=center| '''19'''
+| align=center| '''62'''
 |- bgcolor="lime" align="right"
 | '''4.'''
 | align="left" | '''{{RUS}}'''
-| style="background:#F7F6A8;" align=center| '''15'''
-| style="background:#DCE5E5;" align=center| '''21'''
-| style="background:#FFDAB9;" align=center| '''27'''
+| style="background:#F7F6A8;" align=center| '''21'''
+| style="background:#DCE5E5;" align=center| '''25'''
+| style="background:#FFDAB9;" align=center| '''32'''
 | align=center| '''63'''
 |- bgcolor="#FFFFFF" align="right"
 | 5.
@@ -50,115 +50,136 @@
 |- bgcolor="#FFFFFF" align="right"
 | 6.
 | align="left" | [[Fail:Flag of Germany.svg|border|20px]] [[Saksanma]]
-| style="background:#F7F6A8;" align=center| 10
-| style="background:#DCE5E5;" align=center| 18
+| style="background:#F7F6A8;" align=center| 11
+| style="background:#DCE5E5;" align=center| 19
 | style="background:#FFDAB9;" align=center| 14
-| align=center| 42
+| align=center| 44
 |- bgcolor="#FFFFFF" align="right"
 | 7.
 | align="left" | {{FRA}}
-| style="background:#F7F6A8;" align=center| 9
-| style="background:#DCE5E5;" align=center| 9
+| style="background:#F7F6A8;" align=center| 10
+| style="background:#DCE5E5;" align=center| 11
 | style="background:#FFDAB9;" align=center| 12
-| align=center| 30
+| align=center| 33
 |- bgcolor="#FFFFFF" align="right"
 | 8.
+| align="left" | {{ITA}}
+| style="background:#F7F6A8;" align=center| 8
+| style="background:#DCE5E5;" align=center| 7
+| style="background:#FFDAB9;" align=center| 8
+| align=center| 23
+|- bgcolor="#FFFFFF" align="right"
+| 9.
 | align="left" | {{HUN}}
 | style="background:#F7F6A8;" align=center| 8
 | style="background:#DCE5E5;" align=center| 4
-| style="background:#FFDAB9;" align=center| 3
-| align=center| 15
-|- bgcolor="#FFFFFF" align="right"
-| 9.
-| align="left" | [[Fail:Flag of Australia.svg|border|20px]] [[Avstralii (valdkund)|Avstralii]]
-| style="background:#F7F6A8;" align=center| 7
-| style="background:#DCE5E5;" align=center| 14
-| style="background:#FFDAB9;" align=center| 10
-| align=center| 31
-|- bgcolor="#FFFFFF" align="right"
-| 10.
-| align="left" | {{ITA}}
-| style="background:#F7F6A8;" align=center| 7
-| style="background:#DCE5E5;" align=center| 6
-| style="background:#FFDAB9;" align=center| 8
-| align=center| 21
-|- bgcolor="#FFFFFF" align="right"
-| 11.
-| align="left" | [[Fail:Flag of the Netherlands.svg|border|20px]] [[Alamad]]
-| style="background:#F7F6A8;" align=center| 6
-| style="background:#DCE5E5;" align=center| 5
-| style="background:#FFDAB9;" align=center| 6
+| style="background:#FFDAB9;" align=center| 5
 | align=center| 17
 |- bgcolor="#FFFFFF" align="right"
+| 10.
+| align="left" | [[Fail:Flag of Australia.svg|border|20px]] [[Avstralii (valdkund)|Avstralii]]
+| style="background:#F7F6A8;" align=center| 7
+| style="background:#DCE5E5;" align=center| 16
+| style="background:#FFDAB9;" align=center| 12
+| align=center| 35
+|- bgcolor="#FFFFFF" align="right"
+| 11.
+| align="left" | [[Fail:Flag of Japan.svg|border|20px]] [[Japonii]]
+| style="background:#F7F6A8;" align=center| 6
+| style="background:#DCE5E5;" align=center| 14
+| style="background:#FFDAB9;" align=center| 17
+| align=center| 37
+|- bgcolor="#FFFFFF" align="right"
 | 12.
+| align="left" | [[Fail:Flag of the Netherlands.svg|border|20px]] [[Alamad]]
+| style="background:#F7F6A8;" align=center| 6
+| style="background:#DCE5E5;" align=center| 6
+| style="background:#FFDAB9;" align=center| 8
+| align=center| 20
+|- bgcolor="#FFFFFF" align="right"
+| 13.
 | align="left" | {{KAZ}}
 | style="background:#F7F6A8;" align=center| 6
 | style="background:#DCE5E5;" align=center| 0
 | style="background:#FFDAB9;" align=center| 4
 | align=center| 10
 |- bgcolor="#FFFFFF" align="right"
-| 13.
-| align="left" | [[Fail:Flag of Japan.svg|border|20px]] [[Japonii]]
-| style="background:#F7F6A8;" align=center| 5
-| style="background:#DCE5E5;" align=center| 14
-| style="background:#FFDAB9;" align=center| 16
-| align=center| 35
-|- bgcolor="#FFFFFF" align="right"
 | 14.
-| align="left" | [[Fail:Flag of Iran.svg|border|20px]] [[Iran]]
-| style="background:#F7F6A8;" align=center| 4
-| style="background:#DCE5E5;" align=center| 5
-| style="background:#FFDAB9;" align=center| 1
-| align=center| 10
+| align="left" | {{UKR}}
+| style="background:#F7F6A8;" align=center| 5
+| style="background:#DCE5E5;" align=center| 4
+| style="background:#FFDAB9;" align=center| 9
+| align=center| 18
 |- bgcolor="#FFFFFF" align="right"
 | 15.
 | align="left" | [[Fail:Flag of New Zealand.svg|border|20px]] [[Uz' Zelandii]]
+| style="background:#F7F6A8;" align=center| 5
+| style="background:#DCE5E5;" align=center| 3
+| style="background:#FFDAB9;" align=center| 5
+| align=center| 13
+|- bgcolor="#FFFFFF" align="right"
+| 16.
+| align="left" | [[Fail:Flag of Iran.svg|border|20px]] [[Iran]]
+| style="background:#F7F6A8;" align=center| 4
+| style="background:#DCE5E5;" align=center| 5
+| style="background:#FFDAB9;" align=center| 3
+| align=center| 12
+|- bgcolor="#FFFFFF" align="right"
+| 17.
+| align="left" | [[Fail:Flag of Jamaica.svg|border|20px]] [[Jamaik]]
+| style="background:#F7F6A8;" align=center| 4
+| style="background:#DCE5E5;" align=center| 4
+| style="background:#FFDAB9;" align=center| 4
+| align=center| 12
+|- bgcolor="#FFFFFF" align="right"
+| 18.
+| align="left" | [[Fail:Flag of Cuba.svg|border|20px]] [[Kuba]]
 | style="background:#F7F6A8;" align=center| 4
 | style="background:#DCE5E5;" align=center| 3
 | style="background:#FFDAB9;" align=center| 5
 | align=center| 12
 |- bgcolor="#FFFFFF" align="right"
-| 16.
+| 19.
 | align="left" | {{PRK}}
 | style="background:#F7F6A8;" align=center| 4
 | style="background:#DCE5E5;" align=center| 0
 | style="background:#FFDAB9;" align=center| 2
 | align=center| 6
 |- bgcolor="#FFFFFF" align="right"
-| 17.
-| align="left" | [[Fail:Flag of Jamaica.svg|border|20px]] [[Jamaik]]
-| style="background:#F7F6A8;" align=center| 3
-| style="background:#DCE5E5;" align=center| 4
-| style="background:#FFDAB9;" align=center| 3
-| align=center| 10
-|- bgcolor="#FFFFFF" align="right"
-| 18.
-| align="left" | {{BLR}}
-| style="background:#F7F6A8;" align=center| 3
-| style="background:#DCE5E5;" align=center| 3
-| style="background:#FFDAB9;" align=center| 4
-| align=center| 10
-|- bgcolor="#FFFFFF" align="right"
-| 18.
-| align="left" | [[Fail:Flag of Cuba.svg|border|20px]] [[Kuba]]
-| style="background:#F7F6A8;" align=center| 3
-| style="background:#DCE5E5;" align=center| 3
-| style="background:#FFDAB9;" align=center| 4
-| align=center| 10
-|- bgcolor="#FFFFFF" align="right"
 | 20.
-| align="left" | {{UKR}}
+| align="left" | [[Fail:Flag of Spain.svg|border|20px]] [[Ispanii]]
 | style="background:#F7F6A8;" align=center| 3
-| style="background:#DCE5E5;" align=center| 1
-| style="background:#FFDAB9;" align=center| 9
-| align=center| 13
+| style="background:#DCE5E5;" align=center| 9
+| style="background:#FFDAB9;" align=center| 4
+| align=center| 16
 |- bgcolor="#FFFFFF" align="right"
 | 21.
+| align="left" | [[Fail:Flag of Brazil.svg|border|20px]] [[Brazilii]]
+| style="background:#F7F6A8;" align=center| 3
+| style="background:#DCE5E5;" align=center| 4
+| style="background:#FFDAB9;" align=center| 8
+| align=center| 15
+|- bgcolor="#FFFFFF" align="right"
+| 22.
+| align="left" | {{BLR}}
+| style="background:#F7F6A8;" align=center| 3
+| style="background:#DCE5E5;" align=center| 4
+| style="background:#FFDAB9;" align=center| 5
+| align=center| 12
+|- bgcolor="#FFFFFF" align="right"
+| 23.
+| align="left" | {{CZE}}
+| style="background:#F7F6A8;" align=center| 3
+| style="background:#DCE5E5;" align=center| 3
+| style="background:#FFDAB9;" align=center| 3
+| align=center| 9
+|- bgcolor="#FFFFFF" align="right"
+| 24.
 | align="left" | [[Fail:Flag of South Africa.svg|border|20px]] [[Suviafrikan Tazovaldkund]]
 | style="background:#F7F6A8;" align=center| 3
-| style="background:#DCE5E5;" align=center| 1
+| style="background:#DCE5E5;" align=center| 2
 | style="background:#FFDAB9;" align=center| 1
-| align=center| 5
+| align=center| 6
 |- bgcolor="#FFFFFF" align="right"
 | 22.
 | align="left" | [[Fail:Flag of Ethiopia.svg|border|20px]] [[Efiopii]]
@@ -166,13 +187,6 @@
 | style="background:#DCE5E5;" align=center| 0
 | style="background:#FFDAB9;" align=center| 3
 | align=center| 6
-|- bgcolor="#FFFFFF" align="right"
-| 23.
-| align="left" | [[Fail:Flag of Spain.svg|border|20px]] [[Ispanii]]
-| style="background:#F7F6A8;" align=center| 2
-| style="background:#DCE5E5;" align=center| 8
-| style="background:#FFDAB9;" align=center| 3
-| align=center| 13
 |- bgcolor="#FFFFFF" align="right"
 | 24.
 | align="left" | [[Fail:Flag of Romania.svg|border|20px]] [[Romanii]]
@@ -194,20 +208,6 @@
 | style="background:#DCE5E5;" align=center| 3
 | style="background:#FFDAB9;" align=center| 3
 | align=center| 8
-|- bgcolor="#FFFFFF" align="right"
-| 26.
-| align="left" | {{CZE}}
-| style="background:#F7F6A8;" align=center| 2
-| style="background:#DCE5E5;" align=center| 3
-| style="background:#FFDAB9;" align=center| 3
-| align=center| 8
-|- bgcolor="#FFFFFF" align="right"
-| 28.
-| align="left" | [[Fail:Flag of Brazil.svg|border|20px]] [[Brazilii]]
-| style="background:#F7F6A8;" align=center| 2
-| style="background:#DCE5E5;" align=center| 2
-| style="background:#FFDAB9;" align=center| 8
-| align=center| 12
 |- bgcolor="#FFFFFF" align="right"
 | 29.
 | align="left" | {{POL}}
