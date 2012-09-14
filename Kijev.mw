@@ -1,18 +1,22 @@
-{| class="infobox bordered" align=right cellpadding=4 cellspacing=0 width=275 style="clear:right; margin: 0 0 1em 1em; background: #f9f9f9;  font-size: 95%;"
-|-
-|colspan=2 align=center bgcolor="#BFDFFF"|<big>'''Kijev'''</big>
-|-
-| align="center" | [[Fail:Coat of arms of Kiev.svg|100px|Kijevan lidnanznam]]
-| align="center" | [[Fail:Flag of Kiev.svg|125px|Kijevan flag]]
-|-
-|Eläjiden lugu||2 801 372
-|-
-|Pind|| 835,58 km²
-|}
+{{Eländpunkt
+ | Nimi = Kijev<br />Київ
+ | Lidnanznam = Coat of arms of Kiev.svg
+ | Flag = Flag of Kiev.svg
+ | Lidnanznam text = Kijevan lidnanznam
+ | Flag text = Kijevan flag
+ | Valdkund = Ukrain
+ | Eläjiden lugu = 2,814,043
+ | Voz' = 2012
+ | Pind = 836
+ | Fail = Het'mana Vadima street in Kyiv.jpg
+ | Pämez' = [[Gerega Galina|Galina Gerega]]
+ | Telefonkod = +380-44
+ | Aigvö = [[UTC]]+3
+}}
 '''Kijev''' om [[Ukrain]]an [[pälidn]]. Se om sijatud [[Dnepr]]anjogen randal.
 
 == Administrativiž-territorialine jagand ==
-[[Fail:Административное деление Киева.gif|thumb|250px|<div style="margin-left: 5px; border-width: 0; text-align: left;">
+[[Fail:Административное деление Киева.gif|thumb|left|250px|<div style="margin-left: 5px; border-width: 0; text-align: left;">
 '''Kijevan administrativine jagand voden 2001 jäl'ghe:'''<br />
 ''Г'' — Golosejevskii rajon<br />
 ''Дар'' — Darnickii rajon<br />
@@ -53,8 +57,6 @@
 |-
 |[[Desnänskii rajon (Kijev)|Desnänskii]] || 148 || 351 193
 |}
-
-[[Fail:Het'mana Vadima street in Kyiv.jpg|pisi|250px|Kijev]]
 {{stub}}
 [[Kategorii:Lidnad]]
 [[Kategorii:Pälidnad]]
