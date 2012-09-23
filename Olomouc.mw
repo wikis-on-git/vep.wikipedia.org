@@ -1,22 +1,18 @@
-{| class="infobox bordered" align=right cellpadding=4 cellspacing=0 width=275 style="clear:right; margin: 0 0 1em 1em; background: #f9f9f9;  font-size: 95%;"
-|-
-| colspan=2 align=center bgcolor="#BFDFFF"|<big>'''Olomouc'''</big>
-|-
-| colspan=2 align="center" | [[File:Olomouc-Horní náměstí.JPG|200px]]
-|-
-| align="center" | [[Image:Olomouc CZ CoA.png|100px]]
-| align="center" | [[Image:Olomouc flag.png|125px]]
-|-
-| align="center" | 
-| align="center" | 
-<br><small></small>
-|-
-|Eläjiden lugu|| 99 529 (2012)
-|-
-|Pind|| 103,36 km²
-|-
-|Mer|| 
-|}
+{{Eländpunkt
+ | Nimi = Olomouc
+ | Lidnanznam = Olomouc CZ CoA.png
+ | Flag = Olomouc flag.png
+ | Lidnanznam text = Olomoucan znam
+ | Flag text = Olomoucan flag
+ | Valdkund = Čehii
+ | Eläjiden lugu = 99,529
+ | Voz' = 2012
+ | Pind = 103
+ | Fail = Olomouc-Horní náměstí.JPG
+ | Pämez' = [[Notovni Martin|Martin Notovni]]
+ | Telefonkod = +7-861
+ | Aigvö = [[UTC]]+4
+}}
 '''Olomouc''' om lidn [[Čehii|Čehijas]].
 
 == Istorii ==
@@ -30,8 +26,9 @@
 == Ižanduz ==
 
 {{stub}}
-[[Kategorii:Lidnad]]
-[[Kategorii:Čehii]]
+[[Kategorii:Olomouc]]
+[[Kategorii:Čehijan lidnad]]
+[[Kategorii:Eländpunktad kirjamišton mödhe]]
 
 [[ar:أولوموتس]]
 [[az:Olomouç]]
