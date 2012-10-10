@@ -1,0 +1,109 @@
+{{Muzikgrupp
+ | Nimi = Metallica
+ | Logo = Metallica wordmark.svg
+ | Foto = Metallica at The O2 Arena London 2008.jpg
+ | Žanrad = [[trešmetal]], [[hevimetal]]
+ | Voded = 1981 - ...
+ | Valdkund = AÜV
+ | Lidn = Los-Anželes
+ | Kel' = [[anglijan kel'|anglijan]]
+ | Leiblad = 
+ | Toižed projektad = 
+ | Mülükund = Džeims Hetfild, Kirk Hemmett, Robert Truhil'o, Lars Ul'rih
+ | Eksühtnijad = Lloid Grant, Deiv Mastein, Ron Makgovni, Kliff Börton, Džeison N'justed
+ | Sait = http://www.metallica.com/
+}}
+'''Metallica''' om [[Amerikan Ühtenzoittud Valdkundad|amerikalaine]] muzikgrupp, kudamb edestab muzikad [[trešmetal]] da [[hevimetal]]-stiliš.
+
+Gruppan aluz om pandud vl 1981.
+
+== Mülükund ==
+
+;Nügudlaine mülükund
+* [[Hetfild Džeims|Džeims Hetfild]] (James Hetfield) — [[vokal]], [[ritmgitar]] <small>(1981—meiden päiväd)</small>
+* [[Hemmet Kirk|Kirk Hemmet]] (Kirk Hammett) — [[sologitar]] <small>(1983—meiden päiväd)</small>
+* [[Truhil'o Robert|Robert Truhil'o]] (Robert Trujillo) — [[basgitar]] <small>(2003—meiden päiväd)</small>
+* [[Ul'rih Lars|Lars Ul'rih]] (Lars Ulrich) — [[barabanad]] <small>(1981—meiden päiväd)</small>
+
+;Enččed ühtnijad
+* [[Grant Lloid|Lloid Grant]] — sologitar <small>(1981)</small>
+* [[Mastein Deiv|Deiv Mastein]] — sologitar <small>(1982—1983)</small>
+* [[Makgovni Ron|Ron Makgovni]] — basgitar <small>(1982)</small>
+* [[Börton Kliff|Kliff Börton]] — basgitar <small>(1982—1986)</small> †
+* [[N'justed Džeison|Džeison N'justed]] — basgitar <small>(1986—2001)</small>
+
+==== Aigpordhišt ====
+
+<timeline>
+ImageSize = width:800 height:auto barincrement:30
+PlotArea = left:100 bottom:60 top:0 right:10
+Alignbars = justify
+DateFormat = mm/dd/yyyy
+Period = from:08/08/1981 till:04/04/2012
+TimeAxis = orientation:horizontal format:yyyy
+Legend = orientation:vertical position:bottom columns:1
+ScaleMajor = increment:2 start:1982
+ScaleMinor = increment:1 start:1983
+
+Colors =
+ id:vocals value:red    legend:Vokal/Ritmgitar
+ id:guitar  value:blue  legend:Sologitar
+ id:bass    value:green   legend:Basgitar
+ id:drums   value:purple legend:Barabanad
+ id:lines   value:black  legend:Al'bom
+
+LineData =
+ at:07/25/1983 color:black layer:back
+ at:07/27/1984 color:black layer:back
+ at:03/03/1986 color:black layer:back
+ at:08/25/1988 color:black layer:back
+ at:08/13/1991 color:black layer:back
+ at:06/04/1996 color:black layer:back
+ at:11/18/1997 color:black layer:back
+ at:06/05/2003 color:black layer:back
+ at:08/12/2008 color:black layer:back
+
+BarData =
+ bar:Hetfield text:"Džeims Hetfild"
+ bar:Mustaine text:"Deiv Mastein"
+ bar:Kirk     text:"Kirk Hemmet"
+ bar:Ron      text:"Ron Makgovni"
+ bar:Cliff    text:"Kliff Börton"
+ bar:Newsted  text:"Džeison N'justed"
+ bar:Trujillo text:"Robert Truhil'o"
+ bar:Lars     text:"Lars Ul'rih"
+
+PlotData=
+ width:10 textcolor:black align:left anchor:from shift:(10,-4)
+ bar:Hetfield from:09/09/1981 till:end color:vocals
+ bar:Lars     from:09/09/1981 till:end color:drums
+ bar:Ron      from:02/02/1982 till:12/10/1982 color:bass
+ bar:Mustaine from:02/02/1982 till:04/01/1983 color:guitar
+ bar:Cliff    from:12/10/1982 till:09/27/1986 color:bass
+ bar:Kirk     from:04/02/1983 till:end color:guitar
+ bar:Newsted  from:09/28/1986 till:01/17/2001 color:bass
+ bar:Trujillo from:06/06/2003 till:end color:bass
+
+</timeline>
+
+== Diskografii ==
+
+* [[1983]] — [[Kill 'em All]]
+* [[1984]] — [[Ride the Lightning]]
+* [[1986]] — [[Master of Puppets]]
+* [[1988]] — [[...And Justice for All]]
+* [[1991]] — [[Metallica (al'bom)|Metallica]]
+* [[1996]] — [[Load]]
+* [[1997]] — [[Reload]]
+* [[2003]] — [[St. Anger]]
+* [[2008]] — [[Death Magnetic]]
+
+== Irdkosketused ==
+* [http://www.metallica.com/ Oficialine sait]
+* [http://www.metclub.ru MetClub.ru Venälaine fansait]
+* [http://www.metallica.ru Metallica.ru Toine venälaine fansait]
+
+{{stub}}
+[[Kategorii:Treštalgruppad]]
+[[Kategorii:Hevimetalgruppad]]
+[[Kategorii:Muzikgruppad kirjamišton mödhe]]
