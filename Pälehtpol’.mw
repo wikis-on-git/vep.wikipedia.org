@@ -10,9 +10,7 @@
 | style="color:#000;" | <div id="mp-tfa">
 <inputbox>
 type=create
-preload=<nowiki>Pangat formatiruimatoman tekstan nakhu
-== Pälkirjutesen teks''Kursivtekst'''Lihavoitud tekst''Kursivtekst[http://www.example.com kosketusen pälkirjutez]'''''''t ==
-</nowiki>
+preload=
 editintro=
 width=
 default=
