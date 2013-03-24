@@ -1,19 +1,18 @@
-{| class="infobox bordered" align=right cellpadding=4 cellspacing=0 width=275 style="clear:right; margin: 0 0 1em 1em; background: #f9f9f9;  font-size: 95%;"
-|-
-|colspan=2 align=center bgcolor="#BFDFFF"|<big>'''Saratov'''</big>
-|-
-| align="center" | [[Fail:Coat of Arms of Saratov.png|100px]]
-| align="center" | [[Fail:Flag of Saratov.png|125px]]
-|-
-| align="center" | 
-| align="center" | 
-<br /><small></small>
-|-
-|Eläjiden lugu|| 837 831
-|-
-|Pind|| 393 km²
-|}
-
+{{Eländpunkt
+ | Nimi = Saratov<br />Саратов
+ | Lidnanznam = Coat of Arms of Saratov.png
+ | Flag = Flag of Saratov.png
+ | Lidnanznam text = Saratovan lidnanznam
+ | Flag text = Saratovan flag
+ | Valdkund = Venäma
+ | Eläjiden lugu = 837,900
+ | Voz' = 2010
+ | Pind = 394
+ | Fail = Saratov klinicheskaya.jpg
+ | Pämez' = [[Prokopenko Aleksei|Aleksei Prokopenko]]
+ | Telefonkod = +7-8452
+ | Aigvö = [[UTC]]+4
+}}
 '''Saratov''' om lidn [[Venäma]]s. Se om [[Saratovan agj]]an keskuz.
 {{stub}}
 
