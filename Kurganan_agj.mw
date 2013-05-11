@@ -1,8 +1,8 @@
 {{Venälaižen Federacijan subjekt
 |Nimi           = Kurganan agj
 |Venälaine nimi = Курганская область
-|Flag           = [[File:Flag of Kurgan Oblast.svg|150px|Vologdan agjan flag]]
-|FSCoA          = [[File:Coat_of_Arms_of_Kurgan_oblast.png|125px|Vologdan agjan znam]]
+|Flag           = [[Fail:Flag of Kurgan Oblast.svg|150px|Kurganan agjan flag]]
+|FSCoA          = [[Fail:Coat_of_Arms_of_Kurgan_oblast.png|125px|Kurganan agjan znam]]
 |FlagLnk        = Kurganan agjan flag
 |CoALnk         = Kurganan agjan znam
 |FSMapName      = RussiaKurgan
@@ -11,24 +11,25 @@
 |AreaRnk        = 46
 |TotArea        = 71488
 |WaterPrcnt     =
-|PopRnk         = 42
-|Eläjiden lugu  = 911000
-|PopCtDate      = 2010
-|PopDens        = 12.7
-|GDP            =
+|PopRnk         = 53
+|Eläjiden lugu  = 885,759<ref>[http://www.gks.ru/free_doc/new_site/population/demo/PrPopul.xls Kaikenaigaine ristitišt vl. 2013 vilukun 1. päivän]</ref>
+|PopCtDate      = 2013
+|PopDens        = 12.4
+|GDP            = 
 |GDPCtDate      =
 |GDP(PPP)       =
-|FedDistrNm     = 
-|EcRegNm        = 
+|FedDistrNm     = Uraline
+|EcRegNm        = Uraline
 |CadNo          = 45
-|Прявтонть лем  = Gubernator
 |HeadTtl        = Gubernator
-|HeadNm         = Väčeslav Pozgalöv
-|MSKS           = 0
+|HeadNm         = Bogomolov Oleg Aleksejevič
+|LegislTtl      = Käskusenandajan tobmusen pämez'
+|LegislNm       = Habarov Vladimir Petrovič
+|MSK            = [[MSK]]+2 ([[UTC]]+6)
 }}
-'''Kurganan agj''' ([[Venäkel'|ven.]]: ''Курганская область'') om [[Venäma|Venälaižen Federacijan]] [[Venälaižen Federacijan subjektad|subjekt]]&nbsp;([[Agj|agj]]).
+'''Kurganan agj''' ([[Venäkel'|ven.]]: ''Курганская область'') om [[Venäma|Venälaižen Federacijan]] [[Venälaižen Federacijan subjektad|subjekt]]&nbsp;([[Agj|agj]]). Mülüb [[Uraline federaline ümbrik|Uraližhe federaližehe ümbrikho]].
 
-Sen keskuz om [[Kurgan]].
+Sen administrativine keskuz om [[Kurgan]].
 
 == Istorii ==
 
@@ -36,14 +37,129 @@ Sen keskuz om [[Kurgan]].
 
 == Geografijan andmused ==
 
+== Administrativine jagand ==
+Agj kogoneb 24 municipaližiš rajonoišpäi da 2 lidnanümbrikoišpäi.
+
+;Municipaližed rajonad
+[[Fail:Admin-map-Kurgan-region.gif|thumb|right|400px|Kurganan agjan administrativine kart]]
+{| class="wikitable" width="40%"
+|-
+! № j/m
+! Municipaline rajon
+! Administrativine keskuz
+|-
+| 1
+| Al'menevon rajon
+| Al'menevo-külä
+|-
+| 2
+| Belozerskojen rajon
+| Belozerskoje-külä
+|-
+| 3
+| Vargašiden rajon
+| Vargašid-žilo
+|-
+| 4
+| Dalmatovon rajon
+| [[Dalmatovo]]-lidn
+|-
+| 5
+| Zverinogolovskojen rajon
+| Zverinogolovskoje-külä
+|-
+| 6
+| Kargapoljen rajon
+| Kargapolje-žilo
+|-
+| 7
+| Kataiskan rajon
+| [[Kataisk]]-lidn
+|-
+| 8
+| Ketovon rajon
+| Ketovo-külä
+|-
+| 9
+| Kurtamišan rajon
+| [[Kurtamiš]]-lidn
+|-
+| 10
+| Lebäžjen rajon
+| Lebäžje-žilo
+|-
+| 11
+| Makušinon rajon
+| [[Makušino]]-lidn
+|-
+| 12
+| Miškinon rajon
+| Miškino-žilo
+|-
+| 13
+| Mokrousovon rajon
+| Mokrousovo-külä
+|-
+| 14
+| Petuhovon rajon
+| [[Petuhovo]]-lidn
+|-
+| 15
+| Polovinnojen rajon
+| Polovinnoje-külä
+|-
+| 16
+| Tobolanrandan rajon
+| Glädänskoje-külä
+|-
+| 17
+| Safakulevon rajon
+| Safakulevo-külä
+|-
+| 18
+| Celinnojen rajon
+| Celinnoje-külä
+|-
+| 19
+| Častoozerjen rajon
+| Častoozerje
+|-
+| 20
+| Šadrinskan rajon
+| [[Šadrinsk]]-lidn
+|-
+| 21
+| Šatrovon rajon
+| Šatrovo-külä
+|-
+| 22
+| Šumihan rajon
+| [[Šumih]]-lidn
+|-
+| 23
+| Ščučjen rajon
+| [[Ščučje]]-lidn
+|-
+| 24
+| Jurgamišan rajon
+| Jurgamiš-žilo
+|}
+
+;Lidnümbrikod
+# [[Šadrinsk]]
+# [[Kurgan]]
+
 == Eläjad ==
 
 == Ižanduz ==
 
+== Homaičendad ==
+{{Reflist}}
+
 {{Šablon:Venälaižen Federacijan subjektad}}
 
 {{DEFAULTSORT:Kurganan agj}}
-
 {{stub}}
+
 [[Kategorii:Kurganan agj| ]]
 [[Kategorii:Venäma]]
