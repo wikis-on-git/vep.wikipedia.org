@@ -1,21 +1,20 @@
 {{1000}}
-{| class="infobox bordered" align=right cellpadding=4 cellspacing=0 width=275 style="clear:right; margin: 0 0 1em 1em; background: #f9f9f9;  font-size: 95%;"
-|-
-|colspan=2 align=center bgcolor="#BFDFFF"|<big>'''Jerusalim'''</big>
-|-
-| align="center" | [[Fail:Jerusalem emblem.svg|100px]]
-| align="center" | [[Fail:Flag of Jerusalem.svg|125px]]
-|-
-| align="center" | 
-| align="center" | 
-<br /><small></small>
-|-
-|Eläjiden lugu|| 769 000
-|-
-|Pind|| 123 km²
-|-
-|Mer|| 
-|}
+{{Eländpunkt
+ | Nimi = Jerusalim
+ | Lidnanznam = Jerusalem emblem.svg
+ | Flag = Flag of Jerusalem.svg
+ | Lidnanznam text = 
+ | Flag text = 
+ | Valdkund = 
+ | Eläjiden lugu = 769 000
+ | Voz' = 
+ | Pind = 123
+ | Fail = 
+ | Pämez' = 
+ | Telefonkod = 
+ | Avtokod = 
+ | Aigvö = 
+}}
 [[Fail:Jerusalem Dome of the rock BW 14.JPG|250px|left|thumb|Jerusalim]]
 '''Jerusalim''' ([[Evrejan kel'|evr.]]: יְרוּשָׁלַיִם, ''Jerušalajim''; [[Araban kel'|arab.]]: ''القدس'', ''al'-Kuds'') om [[Izrail'|Izrailin]] pälidn.
 
