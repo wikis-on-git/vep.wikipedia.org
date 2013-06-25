@@ -1,23 +1,28 @@
 {{1000}}
-{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+<big><big>'''Canada'''<br />'''Kanad'''</big></big>
-|-
-| style="background:#efefef;" align="center" colspan=2 |
-{| border="0" cellpadding="2" cellspacing="0"
-|-
-| align="center" width="140px" | [[Fail:Flag of Canada.svg|border|right|150px]]
-| align="center" width="140px" | [[Fail:Canadian Coat of Arms Shield.svg|right|100px]]
-|-
-| align="center" width="140px" | Kanadan flag
-| align="center" width="140px" | Kanadan znam
-|}
-|-
-| align=center colspan=2 | [[Fail:Canada (orthographic projection).svg|300px]]
-|}
+{{Valdkund
+| Nimi = Kanad<br />Canada
+| Valdkundznam = Canadian Coat of Arms Shield.svg
+| Flag = Flag of Canada.svg
+| Valdkundznam text = Kanadan valdkundznam
+| Flag text = Kanadan flag
+| Pälidn = Ottav
+| Eläjiden lugu = 34.568.211
+| Voz' = 2013
+| Pind = 9.984.670
+| Kart = Canada blank.gif
+| Kel' = [[anglijan kel'|anglijan]], [[francijan kel'|francijan]]
+| Valdkundan pämez' = [[Elizavet Toine]]
+| Päministr = [[Džonston Devid Lloid|Devid Lloid Džonston]]
+| Religii = [[hristanuskond]]
+| Valüt = [[kanadan dollar]]
+| Internet-domen = [[.ca]]
+| Telefonkod = +1
+| Aigvö = [[UTC]]-3:30..-8
+}}
 '''Kanad''' ([[Anglijan kel'|angl.]] ''Canada'' [ˈkænədə]; [[Francijan kel'|fr.]] ''Canada'' [kanaˈda]) om valdkund [[Pohjoižamerik]]as.
 
 Sen pälidn om [[Ottav]].
 
 {{stub}}
 
-[[Kategorii:Kanad| ]]
+[[Kategorii:Kanad|*]]
