@@ -1,0 +1,23 @@
+'''Kahesan nellikoiden identižuz''' om [[matematine teorem]]. Avaidud [[Degen Karl Ferdinand|K. F. Degenalpäi]] 1818-žes vodes.
+{| style="background-color: #ffffff; margin-left: 4em; margin-right: 4em; border: {{{1|1px solid}}}; padding: 2px;"
+|
+'''Kahesan nellikoiden summoiden liža {{k|произведение}} om kahesan nellikoiden summ.'''
+|}
+Toziolendas:
+{| style="background-color: #ffffff; margin-left: 4em; margin-right: 4em; border: {{{1|1px solid}}}; padding: 2px;"
+|
+: <math>(a_1^2+a_2^2+a_3^2+a_4^2+a_5^2+a_6^2+a_7^2+a_8^2)\cdot (b_1^2+b_2^2+b_3^2+b_4^2+b_5^2+b_6^2+b_7^2+b_8^2)=\,</math>
+:: <math>= (a_1b_1 -a_2b_2 -a_3b_3 -a_4b_4 -a_5b_5 -a_6b_6 -a_7b_7 -a_8b_8)^2+\,</math>
+:: <math>(a_2b_1 +a_1b_2 +a_4b_3 -a_3b_4 +a_6b_5 -a_5b_6 -a_8b_7 +a_7b_8)^2+\,</math>
+:: <math>(a_3b_1 -a_4b_2 +a_1b_3 +a_2b_4 +a_7b_5 +a_8b_6 -a_5b_7 -a_6b_8)^2+\,</math>
+:: <math>(a_4b_1 +a_3b_2 -a_2b_3 +a_1b_4 +a_8b_5 -a_7b_6 +a_6b_7 -a_5b_8)^2+\,</math>
+:: <math>(a_5b_1 -a_6b_2 -a_7b_3 -a_8b_4 +a_1b_5 +a_2b_6 +a_3b_7 +a_4b_8)^2+\,</math>
+:: <math>(a_6b_1 +a_5b_2 -a_8b_3 +a_7b_4 -a_2b_5 +a_1b_6 -a_4b_7 +a_3b_8)^2+\,</math>
+:: <math>(a_7b_1 +a_8b_2 +a_5b_3 -a_6b_4 -a_3b_5 +a_4b_6 +a_1b_7 -a_2b_8)^2+\,</math>
+:: <math>(a_8b_1 -a_7b_2 +a_6b_3 +a_5b_4 -a_4b_5 -a_3b_6 +a_2b_7 +a_1b_8)^2\,</math>
+|}
+{{stub}}
+
+[[Kategorii:Matematik]]
+
+[[ru:Тождество восьми квадратов]]
