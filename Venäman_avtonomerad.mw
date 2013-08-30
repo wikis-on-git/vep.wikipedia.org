@@ -4,7 +4,7 @@
 ! align=center | '''Kod'''
 ! '''Region'''
 |-
-| align=center | '''01, 101'''
+| align=center | '''01'''
 | [[Adigejan Tazovaldkund]]
 |-
 | align=center | '''02, 102'''
@@ -34,7 +34,7 @@
 | align=center | '''10'''
 | [[Karjalan Tazovaldkund]]
 |-
-| align=center | '''11, 111'''
+| align=center | '''11'''
 | [[Komi Tazovaldkund]]
 |-
 | align=center | '''12'''
@@ -103,7 +103,7 @@
 | align=center | '''33'''
 | [[Vladimiran agj]]
 |-
-| align=center | '''34'''
+| align=center | '''34, 134'''
 | [[Volgogradan agj]]
 |-
 | align=center | '''35'''
@@ -115,7 +115,7 @@
 | align=center | '''37'''
 | [[Ivanovon agj]]
 |-
-| align=center | '''38, 85'''
+| align=center | '''38, 85, 138'''
 | [[Irkutskan agj]]
 |-
 | align=center | '''39, 91'''
@@ -199,7 +199,7 @@
 | align=center | '''65'''
 | [[Sahalinan agj]]
 |-
-| align=center | '''66, 96'''
+| align=center | '''66, 96, 196'''
 | [[Sverdlovan agj]]
 |-
 | align=center | '''67'''
@@ -232,7 +232,7 @@
 | align=center | '''76'''
 | [[Jaroslavlin agj]]
 |-
-| align=center | '''77, 97, 99, 177, 199, 197
+| align=center | '''77, 99, 97, 177, 199, 197, 777<ref>http://avto-nomer.ru/regionstat-777 Статистика региона г. Москва. Номера России, Автомобильные (тип 1, 1а)</ref>
 | [[Moskv]]
 |-
 | align=center | '''78, 98, 178, 198'''
@@ -244,7 +244,7 @@
 | align=center | '''83'''
 | [[Nencan avtonomine ümbrik]]
 |-
-| align=center | '''86'''
+| align=center | '''86, 186'''
 | [[Hanti-Mansiiskan avtonomine ümbrik]]
 |-
 | align=center | '''87'''
@@ -256,6 +256,9 @@
 | align=center | '''94'''
 | Röunantagaižed territorijad
 |}
+
+== Homaičendad ==
+<references />
 
 [[Kategorii:Transport]]
 [[Kategorii:Avtonomerad]]
