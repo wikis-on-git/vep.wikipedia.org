@@ -1,19 +1,24 @@
-{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+<big><big>'''Eesti Vabariik'''<br />'''Estinman Tazovaldkund'''</big></big>
-|-
-| style="background:#efefef;" align="center" colspan=2 |
-{| border="0" cellpadding="2" cellspacing="0"
-|-
-| align="center" width="140px" | [[Fail:Flag of Estonia.svg|150px|Estinman flag|border]]
-| align="center" width="140px" | [[Fail:Coat of arms of Estonia.svg|150px|Estinman znam]]
-|-
-| align="center" width="140px" | Estinman flag
-| align="center" width="140px" | Estinman znam
-|}
-|-
-| align=center colspan=2 | [[Fail:EU-Estonia.svg|300px]]
-|}
-'''Estinma''' vai '''Estonii''' (''Eesti'') — valdkund [[Evrop]]as, [[Baltijan meri|Baltijan meren]] randal. [[EÜ]]n ühtnii. Estinman oma mavaldkundröunad [[Latvii|Latvijanke]] da [[Venäma]]nke.
+{{Valdkund
+| Nimi = Estinma<br />Eesti
+| Flag = Flag of Estonia.svg
+| Valdkundznam = Coat of arms of Estonia.svg
+| Valdkundznam text = Estinman valdkundznam
+| Flag text = Estinman flag
+| Pälidn = Tallinn
+| Eläjiden lugu = 1 286 540
+| Voz' = 2013
+| Pind = 45 227
+| Kart = EU-Estonia.svg
+| Kel' = [[estin kel'|estin]]
+| Valdkundan pämez' = [[Il'ves Toomas Hendrik|Toomas Hendrik Il'ves]]
+| Päministr = [[Ansip Andrus|Andrus Ansip]]
+| Religii = [[ateizm]], [[hristanuskond]]
+| Valüt = [[evro]]
+| Internet-domen = [[.ee]]
+| Telefonkod = +372
+| Aigvö = [[UTC]]+3
+}}
+'''Estinma''' ([[estin kel'|est.]]: ''Eesti'', [[venäkel'|ven.]]: ''Эстония'') — valdkund [[Evrop]]as, [[Baltijan meri|Baltijan meren]] randal. [[EÜ]]:n ühtnii. Estinman oma mavaldkundröunad [[Latvii|Latvijanke]] da [[Venäma]]nke.
 
 Pälidn — [[Tallinn]].</br>
 Eläjiden lugu — 1,3 mil.</br>
@@ -30,7 +35,7 @@ Ohjandusen form — [[Parlamentine tazovaldkund]].
 
 == Ižanduz ==
 
-{{Evropa}}
+{{Evrop}}
 
 {{stub}}
 
