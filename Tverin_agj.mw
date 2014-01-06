@@ -25,7 +25,7 @@
 |HeadNm         = Ševelöv Andrei Vladimirovič<ref>[http://mediaryazan.ru/news/detail/92636.html Тверские депутаты наделили Андрея Шевелёва полномочиями губернатора. Медиарязань. 07.07.2011]</ref>
 |LegislTtl      = Käskusenandajan tobmusen pämez'
 |LegislNm       = Jepišin Andrei Nikolajevič
-|MSKS           = 0
+|MSK            = [[MSK|MSK-zon]] ([[UTC]]+4)
 }}
 '''Tverin agj''' ([[Venäkel'|ven.]]: ''Тверская область'') om [[Venäma|Venälaižen Federacijan]] [[Venälaižen Federacijan subjektad|subjekt]]&nbsp;([[agj]]), [[Federaline keskuzümbrik|Federaližes keskuzümbrikos]].
 
@@ -44,7 +44,7 @@ Agj kogoneb 7 lidnanümbrikoišpäi da 36 municipaližiš rajonoišpäi.
 {| class="wikitable"
 |+ Lidnanümbrikod
 ! Nimituz
-! Ristitišt,<br />mest (2013)<ref name="rahv">[http://www.gks.ru/free_doc/doc_2013/bul_dr/mun_obr2013.rar Численность населения РФ по муниципальным образованиям на 1 января 2013 года. — М.: Росстат, 2013. — 528 с. — Табл. 33.]</ref>
+! Ristitišt,<br />mest (2013)<ref name="rahv">[http://www.gks.ru/free_doc/doc_2013/bul_dr/mun_obr2013.rar (Численность населения РФ по муниципальным образованиям на 1 января 2013 года. — М.: Росстат, 2013. — 528 с. — Табл. 33 (Kaikenaigaine ristitišt vl. 2013 vilukun 1. päivän).]</ref>
 |-
 |[[Tver']]
 | align="right" | 408877
@@ -72,229 +72,266 @@ Agj kogoneb 7 lidnanümbrikoišpäi da 36 municipaližiš rajonoišpäi.
 |+ Rajonad
 ! No.
 ! Rajonan nimituz
+! Pind, km²
 ! Eläjiden lugu,<br /> (2013)<ref name="rahv"/>
 ! Rajonkeskuz
 ! Rajonkeskusen eläjiden lugu,<br /> (2013)<ref name="rahv"/>
 |-
 | 1
 | [[Andreapolin rajon]]
+| align="right" | 3051
 | align="right" | 12401
 | [[Andreapol']]-lidn
 | align="right" | 7669
 |-
 | 2
 | [[Bežeckan rajon]]
+| align="right" | 2810
 | align="right" | 35422
 | [[Bežeck]]-lidn
 | align="right" | 23560
 |-
 | 3
 | [[Belijan rajon]]
+| align="right" | 2135
 | align="right" | 6166
 | [[Belii]]-lidn
 | align="right" | 3558
 |-
 | 4
 | [[Bologojen rajon]]
+| align="right" | 2281
 | align="right" | 37004
 | [[Bologoje]]-lidn
 | align="right" | 22671
 |-
 | 5
 | [[Ves'jegonskan rajon]]
+| align="right" | 0000
 | align="right" | 12478
 | [[Ves'jegonsk]]-lidn
 | align="right" | 6868
 |-
 | 6
 | [[Višnijan Voločokan rajon]]
+| align="right" | 0000
 | align="right" | 25153
 | [[Višnii Voločok]]-lidn
 |
 |-
 | 7
 | [[Žarkovskijan rajon]]
+| align="right" | 0000
 | align="right" | 5700
 | [[Žarkovskii]]-žilo
 | align="right" | 3794
 |-
 | 8
 | [[Päivlaskmpol'žen Dvinan rajon]]
+| align="right" | 0000
 | align="right" | 15047
 | [[Päivlaskmpol'ne Dvin]]-lidn
 | align="right" | 8841
 |-
 | 9
 | [[Zubcovan rajon]]
+| align="right" | 0000
 | align="right" | 17211
 | [[Zubcov]]-lidn
 | align="right" | 6697
 |-
 | 10
 | [[Kalininan rajon (Tverin agj)]]
+| align="right" | 0000
 | align="right" | 50732
 | [[Tver']]-lidn
 |
 |-
 | 11
 | [[Kaläzinan rajon]]
+| align="right" | 0000
 | align="right" | 21125
 | [[Kaläzin]]-lidn
 | align="right" | 13630
 |-
 | 12
 | [[Kašinan rajon]]
+| align="right" | 0000
 | align="right" | 26648
 | [[Kašin]]-lidn
 | align="right" | 15419
 |-
 | 13
 | [[Kesovmägen rajon]]
+| align="right" | 0000
 | align="right" | 8129
 | [[Kesovmägi]]-žilo
 | align="right" | 3797
 |-
 | 14
 | [[Kimrin rajon]]
+| align="right" | 0000
 | align="right" | 12711
 | [[Kimri]]-lidn
 | 
 |-
 | 15
 | [[Konakovon rajon]]
+| align="right" | 0000
 | align="right" | 86571
 | [[Konakovo]]-lidn
 | align="right" | 41205
 |-
 | 16
 | [[Krasnijan Holman rajon]]
+| align="right" | 0000
 | align="right" | 11219
 | [[Krasnii Holm]]-lidn
 | align="right" | 5430
 |-
 | 17
 | [[Kuvšinovon rajon]]
+| align="right" | 0000
 | align="right" | 14992
 | [[Kuvšinovo]]-lidn
 | align="right" | 9787
 |-
 | 18
 | [[Lesnojen rajon (Tverin agj)|Lesnojen rajon]]
+| align="right" | 0000
 | align="right" | 5074
 | [[Lesnoje (Tverin agj)|Lesnoje]]-külä
 | align="right" | 2039
 |-
 | 19
 | [[Lihoslavlin rajon]]
+| align="right" | 0000
 | align="right" | 28198
 | [[Lihoslavl']]-lidn
 | align="right" | 12207
 |-
 | 20
 | [[Maksatihan rajon]]
+| align="right" | 0000
 | align="right" | 15876
 | [[Maksatih]]-žilo
 | align="right" | 8180
 |-
 | 21
 | [[Molokovon rajon]]
+| align="right" | 0000
 | align="right" | 4775
 | [[Molokovo (Tverin agj)|Molokovo]]-žilo
 | align="right" | 2169
 |-
 | 22
 | [[Nelidovon rajon]]
+| align="right" | 0000
 | align="right" | 29115
 | [[Nelidovo]]-lidn
 | align="right" | 21581
 |-
 | 23
 | [[Oleninon rajon]]
+| align="right" | 0000
 | align="right" | 12432
 | [[Olenino (Tverin agj)|Olenino]]-žilo
 | align="right" | 4855
 |-
 | 24
 | [[Ostaškovan rajon]]
+| align="right" | 0000
 | align="right" | 23323
 | [[Ostaškov]]-lidn
 | align="right" | 17321
 |-
 | 25
 | [[Penon rajon]]
+| align="right" | 0000
 | align="right" | 6557
 | [[Peno]]-žilo
 | align="right" | 4015
 |-
 | 26
 | [[Rameškiden rajon]]
+| align="right" | 0000
 | align="right" | 15535
 | [[Rameškid]]-žilo
 | align="right" | 4268
 |-
 | 27
 | [[Rževan rajon]]
+| align="right" | 0000
 | align="right" | 12211
 | [[Ržev]]-lidn
 |
 |-
 | 28
 | [[Sandovon rajon]]
+| align="right" | 0000
 | align="right" | 6330
 | [[Sandovo]]-žilo
 | align="right" | 3433
 |-
 | 29
 | [[Seližarovon rajon]]
+| align="right" | 0000
 | align="right" | 12524
 | [[Seližarovo]]-žilo
 | align="right" | 6429
 |-
 | 30
 | [[Sonkovon rajon]]
-| align="right" | 9,7
+| align="right" | 0000
+| align="right" | 8608
 | [[Sonkovo]]-žilo
-| align="right" | 4,3
+| align="right" | 4124
 |-
 | 31
 | [[Spirovon rajon]]
-| align="right" | 13,2
+| align="right" | 0000
+| align="right" | 11831
 | [[Spirovo (Tverin agj)|Spirovo]]-žilo
-| align="right" | 6,7
+| align="right" | 6104
 |-
 | 32
 | [[Starican rajon]]
-| align="right" | 25,5
+| align="right" | 0000
+| align="right" | 23706
 | [[Staric]]-lidn
-| align="right" | 9,2
+| align="right" | 8367
 |-
 | 33
 | [[Toržokan rajon]]
-| align="right" | 23,2
+| align="right" | 0000
+| align="right" | 23071
 | [[Toržok]]-lidn
 |
 |-
 | 34
 | [[Toropecan rajon]]
-| align="right" | 23,5
+| align="right" | 0000
+| align="right" | 19509
 | [[Toropec]]-lidn
-| align="right" | 14,0
+| align="right" | 12436
 |-
 | 35
 | [[Udomlin rajon]]
-| align="right" | 9,7
+| align="right" | 0000
+| align="right" | 39542
 | [[Udoml']]-lidn
-|
+| align="right" | 29911
 |-
 | 36
 | [[Firovon rajon]]
-| align="right" | 11,1
+| align="right" | 1747
+| align="right" | 9011
 | [[Firovo]]-žilo
-| align="right" | 2,7
+| align="right" | 2307
 |}
 
 === Lidnad da lidnanvuiččed žilod ===
-Lidnalaižed — 74.85 % (2013). Agjas oma 23 lidnad da 30 lidnanvuiččed žilod.
+Lidnalaižed — 74.85 % (2013). Agjas om 23 lidnad da 30 lidnanvuittušt žilod.
 
 == Transport ==
 Avtoted Moskv — Piter da Moskv — Rig läbitaba agjan.
@@ -313,3 +350,5 @@ Avtoted Moskv — Piter da Moskv — Rig läbitaba agjan.
 
 [[Kategorii:Tverin agj|*]]
 [[Kategorii:Venäma]]
+
+[[ru:Тверская область]]
