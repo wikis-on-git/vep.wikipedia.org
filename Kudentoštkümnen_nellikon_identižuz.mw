@@ -1,7 +1,6 @@
-'''Kuz'toštkümne nellikon identižuz''' om [[matematine teorem]]. 
+'''Kudentoštkümnen nellikon identižuz''' om [[matematine teorem]]. 
 
 Toziolendas:
-
 :<math>\,^{z_1 = x_1 y_1 - x_2 y_2 - x_3 y_3 - x_4 y_4 - x_5 y_5 - x_6 y_6 - x_7 y_7 - x_8 y_8 + u_1 y_9 - u_2 y_{10} - u_3 y_{11} - u_4 y_{12} - u_5 y_{13} - u_6 y_{14} - u_7 y_{15} - u_8 y_{16}}</math>
 :<math>\,^{z_2 = x_2 y_1 + x_1 y_2 + x_4 y_3 - x_3 y_4 + x_6 y_5 - x_5 y_6 - x_8 y_7 + x_7 y_8 + u_2 y_9 + u_1 y_{10} + u_4 y_{11} - u_3 y_{12} + u_6 y_{13} - u_5 y_{14} - u_8 y_{15} + u_7 y_{16}}</math>
 :<math>\,^{z_3 = x_3 y_1 - x_4 y_2 + x_1 y_3 + x_2 y_4 + x_7 y_5 + x_8 y_6 - x_5 y_7 - x_6 y_8 + u_3 y_9 - u_4 y_{10} + u_1 y_{11} + u_2 y_{12} + u_7 y_{13} + u_8 y_{14} - u_5 y_{15} - u_6 y_{16}}</math>
