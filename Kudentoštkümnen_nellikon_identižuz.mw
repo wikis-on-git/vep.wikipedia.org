@@ -1,4 +1,8 @@
-'''Kudentoštkümnen nellikon identižuz''' om [[matematine teorem]]. 
+'''Pfisteran kudentoštkümnen nellikon identižuz''' om [[matematine teorem]]. 
+{| style="background-color: #ffffff; margin-left: 4em; margin-right: 4em; border: {{{1|1px solid}}}; padding: 2px;"
+|
+'''Kudentoštkümnen nellikon summoiden liža {{k|произведение}} om kudentoštkümnen nellikon summ.'''
+|}
 
 Toziolendas:
 :<math>\,^{z_1 = x_1 y_1 - x_2 y_2 - x_3 y_3 - x_4 y_4 - x_5 y_5 - x_6 y_6 - x_7 y_7 - x_8 y_8 + u_1 y_9 - u_2 y_{10} - u_3 y_{11} - u_4 y_{12} - u_5 y_{13} - u_6 y_{14} - u_7 y_{15} - u_8 y_{16}}</math>
@@ -19,7 +23,6 @@ Toziolendas:
 :<math>\,^{z_{16} = x_{16} y_1 - x_{15} y_2 + x_{14} y_3 + x_{13} y_4 - x_{12} y_5 - x_{11} y_6 + x_{10} y_7 + x_9 y_8 + x_8 y_9 - x_7 y_{10} + x_6 y_{11} + x_5 y_{12} - x_4 y_{13} - x_3 y_{14} + x_2 y_{15} + x_1 y_{16}}</math>
 
 kus
-
 :<math>u_1 = \tfrac{(ax_1^2+x_2^2+x_3^2+x_4^2+x_5^2+x_6^2+x_7^2+x_8^2)x_9 - 2x_1(bx_1 x_9 +x_2 x_{10} +x_3 x_{11} +x_4 x_{12} +x_5 x_{13} +x_6 x_{14} +x_7 x_{15} +x_8 x_{16})}{c}</math>
 :<math>u_2 = \tfrac{(x_1^2+ax_2^2+x_3^2+x_4^2+x_5^2+x_6^2+x_7^2+x_8^2)x_{10} - 2x_2(x_1 x_9 +bx_2 x_{10} +x_3 x_{11} +x_4 x_{12} +x_5 x_{13} +x_6 x_{14} +x_7 x_{15} +x_8 x_{16})}{c}</math>
 :<math>u_3 = \tfrac{(x_1^2+x_2^2+ax_3^2+x_4^2+x_5^2+x_6^2+x_7^2+x_8^2)x_{11} - 2x_3(x_1 x_9 +x_2 x_{10} +bx_3 x_{11} +x_4 x_{12} +x_5 x_{13} +x_6 x_{14} +x_7 x_{15} +x_8 x_{16})}{c}</math>
@@ -30,9 +33,7 @@ kus
 :<math>u_8 = \tfrac{(x_1^2+x_2^2+x_3^2+x_4^2+x_5^2+x_6^2+x_7^2+ax_8^2)x_{16} - 2x_8(x_1 x_9 +x_2 x_{10} +x_3 x_{11} +x_4 x_{12} +x_5 x_{13} +x_6 x_{14} +x_7 x_{15} +bx_8 x_{16})}{c}</math>
 
 da
-
 :<math>a=-1,\;\;b=0,\;\;c=x_1^2+x_2^2+x_3^2+x_4^2+x_5^2+x_6^2+x_7^2+x_8^2\,.</math>
-
 {{stub}}
 
 [[Kategorii:Matematik]]
