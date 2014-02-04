@@ -9,6 +9,9 @@ Voden 2013 uhokun surembaižes tetabas palatomas lugus om 17,425,170 decimališt
 Palatomiden luguiden jäl’genduz zavodiše muga:
 : <!-- lugu 1 ei ole paratoi ! -->[[2 (lugu)|2]], [[3 (lugu)|3]], [[5 (lugu)|5]], [[7 (lugu)|7]], [[11 (lugu)|11]], [[13 (lugu)|13]], [[17 (lugu)|17]], [[19 (lugu)|19]], [[23 (lugu)|23]], [[29 (lugu)|29]], [[31 (lugu)|31]], [[37 (lugu)|37]], [[41 (lugu)|41]], [[43 (lugu)|43]], [[47 (lugu)|47]], [[53 (lugu)|53]], [[59 (lugu)|59]], [[61 (lugu)|61]], [[67 (lugu)|67]], [[71 (lugu)|71]], [[73 (lugu)|73]], [[79 (lugu)|79]], [[83 (lugu)|83]], [[89 (lugu)|89]], [[97 (lugu)|97]], [[101 (lugu)|101]], [[103 (lugu)|103]], [[107 (lugu)|107]], [[109 (lugu)|109]], [[113 (lugu)|113]], [[127 (lugu)|127]], [[131 (lugu)|131]], [[137 (lugu)|137]], [[139 (lugu)|139]], [[149 (lugu)|149]], [[151 (lugu)|151]], [[157 (lugu)|157]], … ([[A000040]]-jäl’genduz [[OEIS]]as).
 
+== Palatoi lugu-teorem ==
+:<math>\pi(x)\sim\frac{x}{\ln x} </math>
+
 {{stub}}
 
 [[Kategorii:Matematik]]
