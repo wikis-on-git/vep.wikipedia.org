@@ -1,19 +1,24 @@
 {{1000}}
-{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+<big><big>'''מדינת ישראל'''<br />'''دولة إسرائيل'''<br />'''Izrail''''</big></big>
-|-
-| style="background:#efefef;" align="center" colspan=2 |
-{| border="0" cellpadding="2" cellspacing="0"
-|-
-| align="center" width="140px" | [[Fail:Flag of Israel.svg|150px|Izrail'an flag]]
-| align="center" width="140px" | [[Fail:Coat of arms of Israel.svg|150px|Izrail'an valdkundznam]]
-|-
-| align="center" width="140px" | 
-| align="center" width="140px" | 
-|}
-|-
-| align=center colspan=2 | [[Fail:LocationIsrael.svg|300px]]
-|}
+{{Valdkund
+| Nimi = Izrail' (Evrejanma)<br />ישראל<br />إسرائيل
+| Valdkundznam = Emblem of Israel.svg
+| Flag = Flag of Israel.svg
+| Valdkundznam text = Izrailin valdkundznam
+| Flag text = Izrailin flag
+| Pälidn = Jerusalim
+| Eläjiden lugu = 8.051.200
+| Voz' = 2013
+| Pind = 20.770
+| Kart = LocationIsrael.PNG
+| Kel' = [[evrejan kel'|evrejan]], [[araban kel'|araban]]
+| Valdkundan pämez' = [[Peres Šimon|Šimon Peres]]
+| Päministr = [[Netan'jahu Ben'jamin|Ben'jamin Netan'jahu]]
+| Religii = [[iudaizm]], [[ateizm]], [[islam]], [[hristanuskond]]
+| Valüt = [[uz' izrailin šekel']]
+| Internet-domen = [[.il]]
+| Telefonkod = +972
+| Aigvö = [[UTC]]+3
+}}
 '''Izrail'''' ({{Kel’+he|מְדִינַת יִשְׂרָאֵל, ''Medīnat Yisrā'el''}}; {{Lang-ar|دَوْلَة إِسْرَائِيل, ''Dawlat Isrā'īl''}}) om valdkund [[Azii|Azijas]]. Sen pälidn om [[Jerusalim]].
 
 Izrailin prezident om [[Peres Šimon|Šimon Peres]].</br>
