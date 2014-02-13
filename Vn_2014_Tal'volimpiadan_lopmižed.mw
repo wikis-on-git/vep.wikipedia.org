@@ -12,118 +12,167 @@
 ! [[Fail:GoldSilverBronze medals.svg|20px|Bronz]] kaik
 |- bgcolor="#FFFFFF" align="right"
 | 1.
-| align="left" | {{NOR}}
-| style="background:#F7F6A8;" align=center| 2
+| align="left" | {{GER}}
+| style="background:#F7F6A8;" align=center| 6
 | style="background:#DCE5E5;" align=center| 1
-| style="background:#FFDAB9;" align=center| 4
-| align=center| 7
+| style="background:#FFDAB9;" align=center| 1
+| align=center| 8
 |- bgcolor="#FFFFFF" align="right"
 | 2.
+| align="left" | {{CAN}}
+| style="background:#F7F6A8;" align=center| 4
+| style="background:#DCE5E5;" align=center| 4
+| style="background:#FFDAB9;" align=center| 2
+| align=center| 10
+|- bgcolor="#FFFFFF" align="right"
+| 3.
+| align="left" | {{NOR}}
+| style="background:#F7F6A8;" align=center| 4
+| style="background:#DCE5E5;" align=center| 3
+| style="background:#FFDAB9;" align=center| 5
+| align=center| 12
+|- bgcolor="#FFFFFF" align="right"
+| 4.
 | align="left" | {{NLD}}
-| style="background:#F7F6A8;" align=center| 2
+| style="background:#F7F6A8;" align=center| 4
+| style="background:#DCE5E5;" align=center| 2
+| style="background:#FFDAB9;" align=center| 4
+| align=center| 10
+|- bgcolor="#FFFFFF" align="right"
+| 5.
+| align="left" | {{USA}}
+| style="background:#F7F6A8;" align=center| 3
 | style="background:#DCE5E5;" align=center| 1
+| style="background:#FFDAB9;" align=center| 5
+| align=center| 9
+|- bgcolor="#FFFFFF" align="right"
+| 6.
+| align="left" | {{SUI}}
+| style="background:#F7F6A8;" align=center| 3
+| style="background:#DCE5E5;" align=center| 0
 | style="background:#FFDAB9;" align=center| 1
 | align=center| 4
 |- bgcolor="#FFFFFF" align="right"
-| 3.
-| align="left" | {{USA}}
-| style="background:#F7F6A8;" align=center| 2
-| style="background:#DCE5E5;" align=center| 0
+| '''7.'''
+| align="left" | '''{{RUS}}'''
+| style="background:#F7F6A8;" align=center| '''2'''
+| style="background:#DCE5E5;" align=center| '''4'''
+| style="background:#FFDAB9;" align=center| '''3'''
+| align=center| '''9'''
+|- bgcolor="#CCCCFF" align="right"
+| 8.
+| align="left" | {{AUT}}
+| style="background:#F7F6A8;" align=center| 1
+| style="background:#DCE5E5;" align=center| 4
+| style="background:#FFDAB9;" align=center| 0
+| align=center| 5
+|- bgcolor="#FFFFFF" align="right"
+| 9.
+| align="left" | {{SVN}}
+| style="background:#F7F6A8;" align=center| 1
+| style="background:#DCE5E5;" align=center| 1
 | style="background:#FFDAB9;" align=center| 2
 | align=center| 4
 |- bgcolor="#FFFFFF" align="right"
-| 4.
-| align="left" | {{CAN}}
-| style="background:#F7F6A8;" align=center| 1
-| style="background:#DCE5E5;" align=center| 2
-| style="background:#FFDAB9;" align=center| 1
-| align=center| 4
-|- bgcolor="#CCCCFF" align="right"
-| '''4.'''
-| align="left" | '''{{RUS}}'''
-| style="background:#F7F6A8;" align=center| '''1'''
-| style="background:#DCE5E5;" align=center| '''2'''
-| style="background:#FFDAB9;" align=center| '''1'''
-| align=center| '''4'''
-|- bgcolor="#FFFFFF" align="right"
-| 6.
-| align="left" | {{AUT}}
-| style="background:#F7F6A8;" align=center| 1
-| style="background:#DCE5E5;" align=center| 1
-| style="background:#FFDAB9;" align=center| 0
-| align=center| 2
-|- bgcolor="#FFFFFF" align="right"
-| 7.
-| align="left" | {{GER}}
+| 10.
+| align="left" | {{FRA}}
 | style="background:#F7F6A8;" align=center| 1
 | style="background:#DCE5E5;" align=center| 0
-| style="background:#FFDAB9;" align=center| 0
-| align=center| 1
+| style="background:#FFDAB9;" align=center| 2
+| align=center| 3
 |- bgcolor="#FFFFFF" align="right"
-| 7.
-| align="left" | {{POL}}
-| style="background:#F7F6A8;" align=center| 1
-| style="background:#DCE5E5;" align=center| 0
-| style="background:#FFDAB9;" align=center| 0
-| align=center| 1
-|- bgcolor="#FFFFFF" align="right"
-| 7.
-| align="left" | {{SVK}}
-| style="background:#F7F6A8;" align=center| 1
-| style="background:#DCE5E5;" align=center| 0
-| style="background:#FFDAB9;" align=center| 0
-| align=center| 1
-|- bgcolor="#FFFFFF" align="right"
-| 7.
-| align="left" | {{SUI}}
+| 11.
+| align="left" | {{BLR}}
 | style="background:#F7F6A8;" align=center| 1
 | style="background:#DCE5E5;" align=center| 0
 | style="background:#FFDAB9;" align=center| 0
 | align=center| 1
 |- bgcolor="#FFFFFF" align="right"
 | 11.
+| align="left" | {{POL}}
+| style="background:#F7F6A8;" align=center| 1
+| style="background:#DCE5E5;" align=center| 0
+| style="background:#FFDAB9;" align=center| 0
+| align=center| 1
+|- bgcolor="#FFFFFF" align="right"
+| 11.
+| align="left" | {{SVK}}
+| style="background:#F7F6A8;" align=center| 1
+| style="background:#DCE5E5;" align=center| 0
+| style="background:#FFDAB9;" align=center| 0
+| align=center| 1
+|- bgcolor="#FFFFFF" align="right"
+| 11.
+| align="left" | {{KOR}}
+| style="background:#F7F6A8;" align=center| 1
+| style="background:#DCE5E5;" align=center| 0
+| style="background:#FFDAB9;" align=center| 0
+| align=center| 1
+|- bgcolor="#FFFFFF" align="right"
+| 15.
 | align="left" | {{SWE}}
 | style="background:#F7F6A8;" align=center| 0
-| style="background:#DCE5E5;" align=center| 2
-| style="background:#FFDAB9;" align=center| 0
-| align=center| 2
+| style="background:#DCE5E5;" align=center| 3
+| style="background:#FFDAB9;" align=center| 1
+| align=center| 4
 |- bgcolor="#FFFFFF" align="right"
-| 12.
+| 16.
+| align="left" | {{CZE}}
+| style="background:#F7F6A8;" align=center| 0
+| style="background:#DCE5E5;" align=center| 2
+| style="background:#FFDAB9;" align=center| 1
+| align=center| 3
+|- bgcolor="#FFFFFF" align="right"
+| 16.
+| align="left" | {{JPN}}
+| style="background:#F7F6A8;" align=center| 0
+| style="background:#DCE5E5;" align=center| 2
+| style="background:#FFDAB9;" align=center| 1
+| align=center| 3
+|- bgcolor="#FFFFFF" align="right"
+| 18.
 | align="left" | {{ITA}}
 | style="background:#F7F6A8;" align=center| 0
 | style="background:#DCE5E5;" align=center| 1
 | style="background:#FFDAB9;" align=center| 1
 | align=center| 2
 |- bgcolor="#FFFFFF" align="right"
-| 12.
-| align="left" | {{CZE}}
-| style="background:#F7F6A8;" align=center| 0
-| style="background:#DCE5E5;" align=center| 1
-| style="background:#FFDAB9;" align=center| 1
-| align=center| 2
-|- bgcolor="#FFFFFF" align="right"
-| 14.
-| align="left" | {{SVN}}
+| 19.
+| align="left" | {{AUS}}
 | style="background:#F7F6A8;" align=center| 0
 | style="background:#DCE5E5;" align=center| 1
 | style="background:#FFDAB9;" align=center| 0
 | align=center| 1
 |- bgcolor="#FFFFFF" align="right"
-| 14.
+| 19.
+| align="left" | {{CHN}}
+| style="background:#F7F6A8;" align=center| 0
+| style="background:#DCE5E5;" align=center| 1
+| style="background:#FFDAB9;" align=center| 0
+| align=center| 1
+|- bgcolor="#FFFFFF" align="right"
+| 19.
 | align="left" | {{FIN}}
 | style="background:#F7F6A8;" align=center| 0
 | style="background:#DCE5E5;" align=center| 1
 | style="background:#FFDAB9;" align=center| 0
 | align=center| 1
 |- bgcolor="#FFFFFF" align="right"
-| 16.
-| align="left" | {{GBR}}
+| 22.
+| align="left" | [[File:Flag of United Kingdom.svg|20px]] [[Sur' Britanii]]
 | style="background:#F7F6A8;" align=center| 0
 | style="background:#DCE5E5;" align=center| 0
 | style="background:#FFDAB9;" align=center| 1
 | align=center| 1
 |- bgcolor="#FFFFFF" align="right"
-| 16.
+| 22.
+| align="left" | [[File:Flag of Latvia.svg|20px]] [[Latvii]]
+| style="background:#F7F6A8;" align=center| 0
+| style="background:#DCE5E5;" align=center| 0
+| style="background:#FFDAB9;" align=center| 1
+| align=center| 1
+|- bgcolor="#FFFFFF" align="right"
+| 22.
 | align="left" | {{UKR}}
 | style="background:#F7F6A8;" align=center| 0
 | style="background:#DCE5E5;" align=center| 0
@@ -132,10 +181,10 @@
 |- bgcolor="#FFFFFF" align="right"
 | '''—'''
 | align="left" | '''Kaik'''
-| style="background:#F7F6A8;" align=center| '''13'''
-| style="background:#DCE5E5;" align=center| '''13'''
-| style="background:#FFDAB9;" align=center| '''13'''
-| align=center| '''39'''
+| style="background:#F7F6A8;" align=center| '''33'''
+| style="background:#DCE5E5;" align=center| '''31'''
+| style="background:#FFDAB9;" align=center| '''32'''
+| align=center| '''96'''
 |}
 
 [[Kategorii:Tal'volimpiad-2014|*]]
