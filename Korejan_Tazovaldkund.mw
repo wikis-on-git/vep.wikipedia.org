@@ -6,7 +6,7 @@
 | Valdkundznam text = Korejan Tazovaldkundan valdkundznam
 | Flag text = Korejan Tazovaldkundan flag
 | Pälidn = Seul
-| Eläjiden lugu = 48,955,203<ref>[http://www.census.gov/population/international/data/countryrank/rank.php Country Rank. Countries and Areas Ranked by Population: 2013. Census.gov. U.S. Department of Commerce]</ref>
+| Eläjiden lugu = 48,955,203<ref>[http://www.census.gov/population/international/data/countryrank/rank.php Country Rank. Countries and Areas Ranked by Population: 2013. Census.gov. U.S. Department of Commerce.]</ref>
 | Voz' = 2013
 | Pind = 99.392
 | Kart = Locator map of South Korea.svg
@@ -48,8 +48,8 @@ Suvikorejas om 9 provincijad, 6 lidnad provincijan oiktusidenke da 1 lidn erili�
 {| class="standard" border="1"
  !№
  !Lidn
- !Pind,<br />km²
- !Ristitišt,<br />mest (2010)
+ !Pind, km²
+ !Ristitišt, mest (2010)
  |-
  | colspan=4 align=center bgcolor="#EFEFEF" | Lidn eriližen statusanke
  |-
@@ -157,8 +157,10 @@ Suvikorejas om 9 provincijad, 6 lidnad provincijan oiktusidenke da 1 lidn erili�
  | align="right" | 11 987
  | align="right" | 1 741 499
  |-
+ | colspan=5 align=center bgcolor="#EFEFEF" | Eriline avtonomine provincii
+ |-
  | 9
- | [[Čedžudo]] (eriline avtonomine provincii)
+ | [[Čedžudo]]
  | [[Čedžu]] 
  | align="right" | 1 846
  | align="right" | 531 905
