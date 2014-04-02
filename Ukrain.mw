@@ -1,20 +1,24 @@
 {{1000}}
-{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+<big><big>'''Україна'''<br />'''Ukrain'''</big></big>
-|-
-| style="background:#efefef;" align="center" colspan=2 |
-{| border="0" cellpadding="2" cellspacing="0"
-|-
-| align="center" width="140px" | [[Fail:Flag of Ukraine.svg|150px]]
-| align="center" width="140px" | [[Fail:Lesser Coat of Arms of Ukraine.svg|150px]]
-|-
-| align="center" width="140px" | 
-| align="center" width="140px" | 
-|}
-|-
-| align=center colspan=2 | [[Fail:Map of Ukraine political Crimea.png|300px]]
-|}
-
+{{Valdkund
+| Nimi = Ukrain<br />Україна
+| Valdkundznam = Coat of arms of Ukraine.svg
+| Flag = Flag of Ukraine.svg
+| Valdkundznam text = Ukrainan valdkundznam
+| Flag text = Ukrainan flag
+| Pälidn = Kijev
+| Eläjiden lugu = Krimata — 42.201.302
+| Voz' = 2014
+| Pind = Krimanke — 603.628
+| Kart = Europe-Ukraine-Disputed.svg
+| Kel' = [[ukrainan kel'|ukrainan]]
+| Valdkundan pämez' = [[Janukovič Viktor|Viktor Janukovič]]
+| Päministr = [[Jacenük Arsenii|Arsenii Jacenük]]
+| Religii = [[hristanuskond]], [[ateizm]], [[paganuz]]
+| Valüt = [[ukrainan grivn]]
+| Internet-domen = [[.ua]]
+| Telefonkod = +380
+| Aigvö = [[UTC]]+3
+}}
 '''Ukrain''' (ukr.: ''Україна'') — valdkund [[Evropa]]s.
 Pälidn — [[Kijev]].
 Eläjiden lugu — 46 mil.</br>
@@ -25,7 +29,7 @@ Ohjandusen form — Prezidentine valdkund.
 
 == Politine sistem ==
 
-== Geografijan andmused ==
+== Geografižed andmused ==
 
 == Eläjad ==
 
