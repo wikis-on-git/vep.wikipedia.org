@@ -25,8 +25,6 @@
 |-
 | <CENTER>'''10'''</CENTER> || <CENTER>[[Fail:Flag_of_Argentina.svg|100px]]</CENTER> || <CENTER>[[Argentin]]</CENTER> || <CENTER>[[Buenos Aires]]</CENTER>
 |-
-| <CENTER>'''11'''</CENTER> || <CENTER>[[Fail:Flag_of_Armenia.svg|100px]]</CENTER> || <CENTER>[[Armenii]]</CENTER> || <CENTER>[[Jerevan]]</CENTER>
-|-
 | <CENTER>'''12'''</CENTER> || <CENTER>[[Fail:Flag_of_Azerbaijan.svg|100px]]</CENTER> || <CENTER>[[Azerbaidžan]]</CENTER> || <CENTER>[[Baku]]</CENTER>
 |-
 | <CENTER>'''13'''</CENTER> || <CENTER>[[Fail:Flag_of_Australia.svg|100px]]</CENTER> || <CENTER>[[Avstralii (valdkund)|Avstralii]]</CENTER> || <CENTER>[[Kanberr]]</CENTER>
@@ -139,8 +137,6 @@
 |-
 | <CENTER>'''67'''</CENTER> || <CENTER>[[Fail:Flag_of_Spain.svg|100px]]</CENTER> || <CENTER>[[Ispanii]]</CENTER> || <CENTER>[[Madrid]]</CENTER>
 |-
-| <CENTER>'''68'''</CENTER> || <CENTER>[[Fail:Flag_of_Israel.svg|100px]]</CENTER> || <CENTER>[[Izrail']]</CENTER> || <CENTER>[[Jerusalim]]</CENTER>
-|-
 | <CENTER>'''69'''</CENTER> || <CENTER>[[Fail:Flag_of_Italy.svg|100px]]</CENTER> || <CENTER>[[Italii]]</CENTER> || <CENTER>[[Rim]]</CENTER>
 |-
 | <CENTER>'''70'''</CENTER> || <CENTER>[[Fail:Flag_of_Jamaica.svg|100px]]</CENTER> || <CENTER>[[Jamaik]]</CENTER> || <CENTER>[[Kingston]]</CENTER>
@@ -165,13 +161,9 @@
 |-
 | <CENTER>'''80'''</CENTER> || <CENTER>[[Fail:Flag_of_the_Central_African_Republic.svg|100px]]</CENTER> || <CENTER>[[Keskafrikan Tazovaldkund]]</CENTER> || <CENTER>[[Bangi]]</CENTER>
 |-
-| <CENTER>'''81'''</CENTER> || <CENTER>[[Fail:Flag_of_Cyprus.svg|100px]]</CENTER> || <CENTER>[[Kipr]]</CENTER> || <CENTER>[[Nikosii]]</CENTER>
-|-
 | <CENTER>'''82'''</CENTER> || <CENTER>[[Fail:Flag_of_Kyrgyzstan.svg|100px]]</CENTER> || <CENTER>[[Kirgizii]]</CENTER> || <CENTER>[[Biškek]]</CENTER>
 |-
 | <CENTER>'''83'''</CENTER> || <CENTER>[[Fail:Flag_of_Kiribati.svg|100px]]</CENTER> || <CENTER>[[Kiribati]]</CENTER> || <CENTER>[[Suvitarav]]</CENTER>
-|-
-| <CENTER>'''84'''</CENTER> || <CENTER>[[Fail:Flag_of_China.svg|100px]]</CENTER> || <CENTER>[[Kitai]]</CENTER> || <CENTER>[[Pekin]]</CENTER>
 |-
 | <CENTER>'''85'''</CENTER> || <CENTER>[[Fail:Flag_of_Colombia.svg|100px]]</CENTER> || <CENTER>[[Kolumbii]]</CENTER> || <CENTER>[[Bogot]]</CENTER>
 |-
@@ -180,10 +172,6 @@
 | <CENTER>'''87'''</CENTER> || <CENTER>[[Fail:Flag of the Democratic Republic of the Congo.svg|100px]]</CENTER> || <CENTER>[[Kongon Demokratine Tazovaldkund]]</CENTER> || <CENTER>[[Kinšas]]</CENTER>
 |-
 | <CENTER>'''88'''</CENTER> || <CENTER>[[Fail:Flag of the Republic of the Congo.svg|100px]]</CENTER> || <CENTER>[[Kongon Tazovaldkund]]</CENTER> || <CENTER>[[Brazzavil']]</CENTER>
-|-
-| <CENTER>'''89'''</CENTER> || <CENTER>[[Fail:Flag_of_North_Korea.svg|100px]]</CENTER> || <CENTER>[[Korejan Rahvahaliž-Demokratine Tazovaldkund]]</CENTER> || <CENTER>[[Phönjan]]</CENTER>
-|-
-| <CENTER>'''90'''</CENTER> || <CENTER>[[Fail:Flag_of_South_Korea.svg|100px]]</CENTER> || <CENTER>[[Korejan Tazovaldkund]]</CENTER> || <CENTER>[[Seul]]</CENTER>
 |-
 | <CENTER>'''91'''</CENTER> || <CENTER>[[Fail:Flag_of_Costa_Rica.svg|100px]]</CENTER> || <CENTER>[[Kostarik]]</CENTER> || <CENTER>[[San Hose]]</CENTER>
 |-
@@ -408,6 +396,18 @@
 ! № !! Flag !! Valdkund !! Pälidn
 |-
 | <CENTER>'''1'''</CENTER> || <CENTER>[[Fail:Flag of Abkhazia.svg|border|100px]]</CENTER> || <CENTER>[[Abhazii]]</CENTER> || <CENTER>[[Suhum]]</CENTER>
+|-
+| <CENTER>'''11'''</CENTER> || <CENTER>[[Fail:Flag_of_Armenia.svg|100px]]</CENTER> || <CENTER>[[Armenii]]</CENTER> || <CENTER>[[Jerevan]]</CENTER>
+|-
+| <CENTER>'''68'''</CENTER> || <CENTER>[[Fail:Flag_of_Israel.svg|100px]]</CENTER> || <CENTER>[[Izrail']]</CENTER> || <CENTER>[[Jerusalim]]</CENTER>
+|-
+| <CENTER>'''81'''</CENTER> || <CENTER>[[Fail:Flag_of_Cyprus.svg|100px]]</CENTER> || <CENTER>[[Kipr]]</CENTER> || <CENTER>[[Nikosii]]</CENTER>
+|-
+| <CENTER>'''84'''</CENTER> || <CENTER>[[Fail:Flag_of_China.svg|100px]]</CENTER> || <CENTER>[[Kitai]]</CENTER> || <CENTER>[[Pekin]]</CENTER>
+|-
+| <CENTER>'''89'''</CENTER> || <CENTER>[[Fail:Flag_of_North_Korea.svg|100px]]</CENTER> || <CENTER>[[Korejan Rahvahaliž-Demokratine Tazovaldkund]]</CENTER> || <CENTER>[[Phönjan]]</CENTER>
+|-
+| <CENTER>'''90'''</CENTER> || <CENTER>[[Fail:Flag_of_South_Korea.svg|100px]]</CENTER> || <CENTER>[[Korejan Tazovaldkund]]</CENTER> || <CENTER>[[Seul]]</CENTER>
 |-
 | <CENTER>'''2'''</CENTER> || <CENTER>[[Fail:Flag of Kosovo.svg|border|100px]]</CENTER> || <CENTER>[[Kosov (valdkund)|Kosov]]</CENTER> || <CENTER>[[Prištin]]</CENTER>
 |-
