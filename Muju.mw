@@ -8,42 +8,49 @@ Pagištes jogapäiväližel kelel, muju om ''mujand'', kudambad ristit sab vaukt
 Nene mujud erašti nimitadas völ [[jumalanbembel'|jumalanbemblen]] mujuikš.
 
 {| border=1
-!Muju!![[Lainhen piduz|Lainhiden pidusiden]] diapazon, nm!!Paksuziden diapazon, TGc!![[Foton]]iden energijan diapazon, [[Elektronvol't|eV]]
+!Muju!![[Lainhen piduz|Lainhiden pidusiden]] diapazon, nm!!Paksuziden diapazon, TGc!![[Foton]]iden energijan diapazon, [[Elektronvol't|eV]]!!Mujun kuva
 |-
 |[[Rusked muju|Rusked]]
 |align=center bgcolor=#FF0000 |625—740
 |align=center bgcolor=#FF0000 |405—480
 |align=center bgcolor=#FF0000 |1,68—1,98
+|align=center bgcolor="#FF0000"|<span style="color:black">#FF0000</span><!-- Red     -->&nbsp;
 |-
 |[[Ruskedpakuine muju|Ruskedpakuine]]
 |align=center bgcolor=#FF8C00|590—625
 |align=center bgcolor=#FF8C00|480—510
 |align=center bgcolor=#FF8C00|1,98—2,10
+|align=center bgcolor="#FF8C00"|<span style="color:black">#FF8C00</span><!-- Orange     -->&nbsp;
 |-
 |[[Pakuine muju|Pakuine]]
 |align=center bgcolor=#FFDF00|565—590
 |align=center bgcolor=#FFDF00|510—530
 |align=center bgcolor=#FFDF00|2,10—2,19
+|align=center bgcolor="#FFDF00"|<span style="color:black">#FFDF00</span><!-- Yellow     -->&nbsp;
 |-
 |[[Vihand muju|Vihand]]
 |align=center bgcolor="#00C43A" |500—565
 |align=center bgcolor="#00C43A" |530—600
 |align=center bgcolor="#00C43A" |2,19—2,48
+|align=center bgcolor="#00C43A"|<span style="color:black">#00C43A</span><!-- Green     -->&nbsp;
 |-
 |[[Sinivauvaz muju|Sinivauvaz]]
-|align=center bgcolor="#00B8D9"|485—500
-|align=center bgcolor="#00B8D9"|600—620
-|align=center bgcolor="#00B8D9"|2,48—2,56
+|align=center bgcolor="#00BFFF"|485—500
+|align=center bgcolor="#00BFFF"|600—620
+|align=center bgcolor="#00BFFF"|2,48—2,56
+|align=center bgcolor="#00BFFF"|<span style="color:black">#00BFFF</span><!-- Sky Blue     -->&nbsp;
 |-
 |[[Sinine muju|Sinine]]
 |align=center bgcolor="#004DFF" style="color:white;"|440—485
 |align=center bgcolor="#004DFF" style="color:white;"|620—680
 |align=center bgcolor="#004DFF" style="color:white;"|2,56—2,82
+|align=center bgcolor="#004DFF"|<span style="color:white">#004DFF</span><!-- Blue     -->&nbsp;
 |-
 |[[Ruskedsinine muju|Ruskedsinine]]
-|align=center bgcolor=#7100c4 style="color:white;"|380—440
-|align=center bgcolor=#7100c4 style="color:white;"|680—790
-|align=center bgcolor=#7100c4 style="color:white;"|2,82—3,26
+|align=center bgcolor=#8000FF style="color:white;"|380—440
+|align=center bgcolor=#8000FF style="color:white;"|680—790
+|align=center bgcolor=#8000FF style="color:white;"|2,82—3,26
+|align=center bgcolor="#8000FF"|<span style="color:white">#8000FF</span><!-- Violet     -->&nbsp;
 |}
 
 == Erased toižed mujud, sidä kesken spektralitomad ==
@@ -51,58 +58,58 @@ Nene mujud erašti nimitadas völ [[jumalanbembel'|jumalanbemblen]] mujuikš.
 !Muju!!Mujun kuva
 |-
 |[[Must muju]]
-|bgcolor=black|&nbsp;
+|align=center bgcolor=black|<span style="color:white">#000000 black</span><!-- Black     -->&nbsp;
 |-
 |[[Hahk muju]]
-|bgcolor=gray|&nbsp;
+|align=center bgcolor=gray|<span style="color:white">#808080 gray</span><!-- Gray     -->&nbsp;
 |-
 |[[Hobedakaz muju]]
-|bgcolor="#CECECE"|&nbsp;
+|align=center bgcolor="#CECECE"|<span style="color:black">#CECECE</span><!-- Silver     -->&nbsp;
 |-
 |[[Vauged muju]]
-|bgcolor="white"|&nbsp;
+|align=center bgcolor=white|<span style="color:black">#FFFFFF white</span><!-- White     -->&nbsp;
 |-
 |[[Kuldakaz muju]]
-|bgcolor="gold"|&nbsp;
+|align=center bgcolor=gold|<span style="color:black">#FFD700 gold</span><!-- Gold     -->&nbsp;
 |-
 |[[Koričma]]
-|bgcolor="#964B00"|&nbsp;
+|align=center bgcolor="#964B00"|<span style="color:white">#964B00</span><!-- Brown     -->&nbsp;
 |-
 |[[Olivanmuju]]
-|bgcolor="olive"|&nbsp;
+|align=center bgcolor=olive|<span style="color:black">#808000 olive</span><!-- Olive     -->&nbsp;
 |-
 |[[Soheinän muju]]
-|bgcolor="#ACB78E"|&nbsp;
+|align=center bgcolor="#ACB78E"|<span style="color:black">#ACB78E</span><!-- Swamp Green     -->&nbsp;
 |-
 |[[Laiman muju]]
-|bgcolor="lime"|&nbsp;
+|align=center bgcolor=lime|<span style="color:black">#BFFF00 lime</span><!-- Lime     -->&nbsp;
 |-
 |[[Akvamarinsinine muju]]
-|bgcolor="#7FFFD4"|&nbsp;
+|align=center bgcolor="#7FFFD4"|<span style="color:black">#7FFFD4</span><!-- Aguamarine     -->&nbsp;
 |-
 |[[Ruskedvauvaz muju]]
-|bgcolor="#FFCBDB"|&nbsp;
+|align=center bgcolor="#FFCBDB"|<span style="color:black">#FFCBDB</span><!-- Pink     -->&nbsp;
 |-
 |[[Babarmmuju]]
-|bgcolor="#DC143C"|&nbsp;
+|align=center bgcolor="#DC143C"|<span style="color:black">#DC143C</span><!-- Crimson     -->&nbsp;
 |-
 |[[Purpurine muju]]
-|bgcolor="C400AB"|&nbsp;
+|align=center bgcolor="#C400AB"|<span style="color:white">#C400AB</span><!-- Purple     -->&nbsp;
 |-
 |[[Sandal'ne muju]]
-|bgcolor="#FF2400"|&nbsp;
+|align=center bgcolor="#FF2400"|<span style="color:black">#FF2400</span><!-- Scarlet     -->&nbsp;
 |-
 |[[Bordon muju]]
-|bgcolor="#B00000"|&nbsp;
+|align=center bgcolor="#B00000"|<span style="color:white">#B00000</span><!-- Bordo     -->&nbsp;
 |-
 |[[Elefantanlun muju]]
-|bgcolor="#FFFFF0"|&nbsp;
+|align=center bgcolor="#FFFFF0"|<span style="color:black">#FFFFF0</span><!-- Ivory     -->&nbsp;
 |-
 |[[Haki muju]]
-|bgcolor="#C3B091"|&nbsp;
+|align=center bgcolor="#C3B091"|<span style="color:white">#C3B091</span><!-- Khaki     -->&nbsp;
 |-
 |[[Bežine muju]]
-|bgcolor="#F5F5DC"|&nbsp;
+|align=center bgcolor="#F5F5DC"|<span style="color:black">#F5F5DC</span><!-- Beige     -->&nbsp;
 |}
 
 == Kacu mugažo ==
