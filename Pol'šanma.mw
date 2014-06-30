@@ -1,22 +1,27 @@
 {{1000}}
-{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+<big><big>'''Pol'šanman Tazovaldkund'''<br />'''Rzeczpospolita Polska'''</big></big>
-|-
-| style="background:#efefef;" align="center" colspan=2 |
-{| border="0" cellpadding="2" cellspacing="0"
-|-
-| align="center" width="140px" | [[Fail:Herb_Polski.svg|100px|Pol'šanman valdkundznam]]
-| align="center" width="140px" | [[Fail:Flag_of_Poland.svg|170px|border|Pol'šanman valdkundflag]]
-|-
-| align="center" width="140px" | Pol'šanman znam 
-| align="center" width="140px" | Pol'šanman flag
-|}
-|-
-| align=center colspan=2 | [[Fail:EU-Poland.svg|300px]]
-|}
+{{Valdkund
+| Nimi = Pol'šanman Tazovaldkund<br />Rzeczpospolita Polska
+| Valdkundznam = Herb_Polski.svg
+| Flag = Flag_of_Poland.svg
+| Valdkundznam text = Pol'šanman valdkundznam
+| Flag text = Pol'šanman flag
+| Pälidn = Varšav
+| Eläjiden lugu = 38,383,809<ref>[http://www.census.gov/population/international/data/countryrank/rank.php Country Rank. Countries and Areas Ranked by Population: 2013 //U.S. Department of Commerce. — Census.gov.]</ref>
+| Voz' = 2013
+| Pind = 312.679
+| Kart = EU-Poland.svg
+| Kel' = [[pol'šan kel'|pol'šan]]
+| Valdkundan pämez' = [[Bronislav Komorovski]]
+| Päministr = [[Donal'd Tusk]]
+| Religii = [[hristanuskond]]
+| Valüt = [[pol'šan zlotii]]
+| Internet-domen = [[.pl]]
+| Telefonkod = +48
+| Aigvö = kezal [[UTC]]+2,<br />tal'vel [[UTC]]+1
+}}
 '''Pol'šanma''' ([[Pol'šan kel'|pol'šan kelel]]: ''Polska'', oficialine nimi - '''Pol'šanman Tazovaldkund''' ([[Pol'šan kel'|pol'šan kelel]]: ''Rzeczpospolita Polska'')) om valdkund [[Evrop|Keskevropas]]. Sen sijaduz om [[Baltijan meri|Baltijan meren]] randal. Pol'šanmal oma mavaldkundröunad [[Saksanma]]nke pohjoižel, [[Čehanma]]nke suvipäivlaskmal, [[Slovakii|Slovakijanke]] suvel, [[Ukrain]]anke suvipäivnouzmal, [[Vaugedvenäma]]nke päivnouzmal, [[Litvanma]]nke da [[Venäma]]nke ([[Kaliningradan agj]]anke) pohjoižpäivnouzmal. Valdkundal oma mugažo merivaldkundröunad [[Danii|Danijanke]] da [[Ročinma]]nke.
 
-Pol'šanman pind om 312 679 km² (ühesanz' sija [[Evrop]]as). Eläjiden lugu om 38,1 millionad ristitud (koumanz’kümnenz’ koumnanz’ sija [[Ma]]l). Pol'šanman Tazovaldkund [[Pol'šanman administrativiž-territorialine jagand|jagase]] 16 sodaveikundoihe (vojevodstvoihe), kudambad jagase povätihe (ujezdoihe) da gminoihe (volostihe).
+Pol'šanman pind om 312 679 km² (ühesanz' sija [[Evrop]]as). Vl. 2008 eläjiden lugu om 38,1 millionad ristitud (koumanz'kümnenz' koumnanz' sija [[Ma]]l). Pol'šanman Tazovaldkund [[Pol'šanman administrativiž-territorialine jagand|jagase]] 16 sodaveikundoihe (vojevodstvoihe), kudambad jagase povätihe (ujezdoihe) da gminoihe (volostihe).
 
 Pälidn da kaikiš järedamb lidn om [[Varšav]].
 
@@ -32,6 +37,9 @@ Fail:5 Lublin 04.jpg|Lüblin
 Fail:Lublin trybunal noc.jpg|Lüblin
 Fail:Pl-gdansk-neptun2004.jpg|[[Gdan'sk]]
 </gallery>
+
+== Homaičendad ==
+<references />
 
 == Irdkosketused ==
 * [http://polshainfo.ru/ Pol'šan portal]
