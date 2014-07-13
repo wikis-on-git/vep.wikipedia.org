@@ -1,75 +1,125 @@
 {{1000}}
-{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+<big><big>'''United Kingdom'''<br />'''Sur' Britanii'''</big></big>
-|-
-| style="background:#efefef;" align="center" colspan=2 |
-{| border="0" cellpadding="2" cellspacing="0"
-|-
-| align="center" width="140px" | [[Fail:Flag of United Kingdom.svg|150px]]
-| align="center" width="140px" | [[Fail:Royal Coat of Arms of the United Kingdom.svg|150px]]
-|-
-| align="center" width="140px" | Sur' Britanijan flag
-| align="center" width="140px" | Sur' Britanijan znam
-|}
-|-
-| align=center colspan=2 | [[Fail:EU-United Kingdom.svg|300px]]
-|}
-'''Sur' Britanii''' ('''Suren Britanijan da Pohjoižen Irlandijan Ühtenzoittud kunigahuz''', anglijan kelel: ''United Kingdom of Great Britain and Northern Ireland'') om sar'hine valdkund Paivlaskmpol'žes Evropas. Ohjandusen form — Parlamentine monarhii. Pälidn om [[London]]. [[EÜ|Evropan Ühtištusen]] ühtnii.
- 
-Valdukundan sijaduz om Britanijan saril (Suren Britanijan sarel, Irlandijan saren pohjoižpäivnouzmpol'ne palal, Normandijan saril), Atlantižen valdmeren randal. Pind om 244 820 km<sup>2</sup>. Kaikiš korktamb čokkoim om Ben-Nevis mägi (1343 m) Šotlandijas. Kaikiš alahaižemb čokkoim om Fenland (-4 m).
+{{Valdkund
+| Nimi = Sur' Britanii<br />United Kingdom
+| Valdkundznam = Royal Coat of Arms of the United Kingdom
+| Flag = Flag of United Kingdom.svg
+| Valdkundznam text = Suren Britanijan znam
+| Flag text = Suren Britanijan flag
+| Pälidn = London
+| Eläjiden lugu = 64.100.000<ref>[http://www.ons.gov.uk/ons/rel/pop-estimate/population-estimates-for-uk--england-and-wales--scotland-and-northern-ireland/2013/index.html Population Estimates for UK, England and Wales, Scotland and Northern Ireland, Mid-2013. — Office for National Statistics (ons.gov.uk).]</ref>
+| Voz' = 2013
+| Pind = 243.610
+| Kart = EU-United Kingdom.svg
+| Kel' = [[anglijan kel'|anglijan]]
+| Valdkundan pämez' = [[Elizavet Toine]]
+| Päministr = [[Kemeron Devid|Devid Kemeron]]
+| Religii = [[hristanuskond]], [[ateizm]]
+| Valüt = [[sterlingiden funt]] (GBP)
+| Internet-domen = [[.uk]]<ref>Mugažo [[.eu]] kuti [[EÜ]]:n ühtnii; [[.gb]]-domen om kävutamatoi.</ref>
+| Telefonkod = +44
+| Aigvö = tal'vel [[UTC]],<br />kezal [[UTC]]+1
+}}
+'''Sur' Britanii''' ('''Suren Britanijan da Pohjoižen Irlandijan Ühtenzoittud kunigahuz''', anglijan kelel: ''United Kingdom of Great Britain and Northern Ireland'') om sar'hine valdkund [[Päivlaskmpol'ne Evrop|Päivlaskmpol'žes Evropas]]. Päine da sen kaikiš suremb lidn om [[London]]. [[EÜ|Evropan Ühtištusen]] ühtnii. Se om valdkund südäitukuižen azegištonke, [[ÜRO]]:n Varuitomuden nevondkundan kaikenaigaine ühtnii.
 
-Pohjoižel da Päivlaskmal om mäged (Pohjoine Šotlandijan mägišt, Penninan da Kembrinin mäged). Suvel da Suvenpäivnouzmal om kukhan tazangišt. Klimat om okeanine, neps. Uhokun kesklämuz' +3...+7 grad. da heinkun +11...+17 grad. Päjoged oma [[Temz]] (334 km), [[Severn]] (310 km), [[Trent]] (298 km), [[Mersi]] (109 km) da [[Klajd]] (170 km). Kaikiš jaredamb jarv' om [[Loh-Nej]] (396 km²).
+Üks'jäine röun kuivudme om [[Irlandii|Irlandijanke]] (360 km). Suren Britanijan suvirandištospäi [[Francii|Francijan]] pohjoižrandištho om vaiše 35 km [[La Manš]]-sal'men kal't, ned oma ühtenzoittud vižkümnekilometraižel [[evrotonnel'|evrotonnelil]].
+
+== Geografii da klimat == 
+[[Fail:Satellite image of Great Britain and Northern Ireland in April 2002.jpg|thumb|right|200px|Suren Britanijan fotokuva kaimdajaspäi (2002).]]
+Valdukundan sijaduz om [[Britanižed sared|Britanižil saril]] ([[Sur' Britanii (sar')|Sur' Britanii]]-sarel, [[Irlandii (sar')|Irlandii]]-saren pohjoižpäivnouzmpol'žel palal, [[Normandižed sared|Normandižil saril]]), [[Atlantine valdmeri|Atlantižen valdmeren]] randal. Pind om 243 610 km²<ref>[https://www.cia.gov/library/publications/the-world-factbook/geos/uk.html The World Factbook of CIA. — Cia.gov.]</ref>. Ümbärdajad mered: [[Irlandijan meri|Irlandijan]], [[Kel'tine meri|Kel'tine]], [[Gebridmeri|Gebrid-]] da [[Pohjoižmeri|Pohjoiž-]]. Randpird om läz 31 368 km<ref>[http://www.cartography.org.uk/default.asp?contentID=749 How long is the UK coastline?] {{ref-en}}</ref>. Kaikiš korktemb čokkoim om [[Ben Nevis]]-mägi (1343 m) [[Šotlandii|Šotlandijas]]. Kaikiš alahaižemb čokkoim om Fenland (-4 m).
+
+Pohjoižel da päivlaskmal om mäged ([[Pohjoine Šotlandijan mägišt]], [[Penninad]] da [[Kembrižed mäged]]). Suvel da suvenpäivnouzmal oma kukhikahad tazangištod. Klimat om okeanine, neps. Uhokun keskmäine lämuz' +3...+7 grad. da heinkun +11...+17 grad. Päjoged oma [[Temz]] (334 km), [[Severn]] (310 km), [[Trent]] (298 km), [[Mersi]] (109 km) da [[Klajd]] (170 km). Kaikiš jaredamb jarv' om [[Loh Nej]] (396 km²) [[Pohjoine Irlandii|Pohjoižen Irlandijan]] territorijal.
 
 == Administrativiž-territorialine jagand ==
 Sures Britanijas om 4 administrativiž-territorialižed palad:
-* '''[[Anglii]]''', adm. keskuz om [[London]]
-* '''[[Uel's]]''', adm. keskuz om [[Kardiff]]
-* '''[[Šotlandii]]''', adm. keskuz om [[Edinburg]]
-* '''[[Pohjoine Irlandii]]''', adm. keskuz om [[Belfast]]
+* '''[[Anglii]]''' (9 regionad, [[anglijan kel'|angl.]] ''Government Office Regions''), adm. keskuz om [[London]]
+* '''[[Uel's]]''' (22 agjad (administrativišt ühtnikad), [[anglijan kel'|angl.]] ''Single-tier Principal Area''), adm. keskuz om [[Kardiff]]
+* '''[[Šotlandii]]''' (32 agjad, [[anglijan kel'|angl.]] ''Council Area''), adm. keskuz om [[Edinburg]]
+* '''[[Pohjoine Irlandii]]''' (6 grafkundad (angl. ''County'') vai 26 rajonad, [[anglijan kel'|angl.]], ''District''), adm. keskuz om [[Belfast]]
+
+Jäl'gmäižed koume palad oma znamasišt avtonomijanke Anglijaspäi.
+
+Sen ližaks, Sur' Britanii valdoičeb 14 merentagaižil territorijoil da 3 kunigahan mail. Ned eile Suren Britanijan palad juridižikš.
+
+== Tobmuz ==
+Istorikad lugedas Surt Britanijad nügüd'aigaižen parlamentaižen [[demokratii|demokratijan]] kodimaks. Sur' Britanii om unitarine valdkund administrativižikš. Valdkundan ohjandusen form om parlamentine monarhii. Sen pämez' om [[Elizavet Toine]]-kunigaznaine.
+
+Monarh om koumiden tobmuden sarakoiden pämeheks. Hän voib pästta radmaspäi suim, panda ministroid radnikusele, tedotada sodad verast valdkundad vaste ülembaižeks armijan käskmeheks. Ei ole ühtenzoittud konstitucijad valdkundas nügüd'aighasai. Parlament om kaks'kodine. Valičendad oleskeleba paksumb, mi kerdan videks vodeks. Lordoiden kodi (angl. ''House of Lords'') om üläkodi, sen ühtnijoiden lugumärad eile röunatusid, nügüd' mülüb 763 ühtnijoid (heid valitadas alakodin partijoišpäi tobjimalaz, vai pandas radnikusele elon hätkte). Alakodi, Kundoiden kodi (angl. ''House of Commons''), mülüb 650 ristitud (niid rahvaz valitab). Päministr om üks' parlamentan ühtnijoišpäi, iče paneb ministrid radsijaha (monarh vaiše hüvästab hänen valičend), händast alakodin ühtnijad valitas järgeližen äniden enambusen mödhe.
 
 == Eläjad ==
 === Eläjiden lugu ===
-Suren Britanijan eläjiden lugu (1900 - 2009)
+Sur' Britanii om [[EÜ]]:n koumanz' valdkund ičeze ristitišton lugumäran mödhe.
+
+Kaikuččen voden 1-lopunke tegese valdkundan rahvahanlugemine, kerdan kümnes vodes. Suren Britanijan eläjiden lugu (1901 — 2011)<ref>[http://www.ons.gov.uk/ons/rel/ctu/annual-abstract-of-statistics/quarter-3-2011/chap-15-population.xls Annual abstract of statistics. Chapter 15 Population and vital statistics. — Office for National Statistics (ons.gov.uk).]</ref>
 
 {| class="wikitable sortable"
  ! width="30%" align="center" |Voz'
  ! width="30%" align="center" |Eläjiden lugu
  |-
- | align="center" |[[1900 voz'|1900]]
- | align="center" | 35 405 900
+ | align="center" |[[1901 voz'|1901]]
+ | align="center" | 38 237 000
  |-
- | align="center" |[[1949 voz'|1949]]
- | align="center" | 50 300 000
+ | align="center" |[[1911 voz'|1911]]
+ | align="center" | 42 082 000
  |-
- | align="center" |[[1959 voz'|1959]]
- | align="center" | 51 900 000
+ | align="center" |[[1921 voz'|1921]]
+ | align="center" | 44 027 000
  |-
- | align="center" |[[1976 voz'|1976]]
- | align="center" | 55 900 000
+ | align="center" |[[1931 voz'|1931]]
+ | align="center" | 46 038 000
+ |-
+ | align="center" |[[1951 voz'|1951]]
+ | align="center" | 50 225 000
+ |-
+ | align="center" |[[1961 voz'|1961]]
+ | align="center" | 52 709 000
+ |-
+ | align="center" |[[1973 voz'|1973]]
+ | align="center" | 56 223 000
+ |-
+ | align="center" |[[1981 voz'|1981]]
+ | align="center" | 56 357 000
+ |-
+ | align="center" |[[1991 voz'|1991]]
+ | align="center" | 57 439 000
  |-
  | align="center" |[[1998 voz'|1998]]
- | align="center" | 59 100 000
+ | align="center" | 58 475 000
  |-
- | align="center" |[[2004 voz'|2004]]
- | align="center" | 59 834 900
+ | align="center" |[[2001 voz'|2001]]
+ | align="center" | 59 113 000
  |-
  | align="center" |[[2005 voz'|2005]]
- | align="center" | 60 441 457
+ | align="center" | 60 235 000
  |-
  | align="center" |[[2007 voz'|2007]]
- | align="center" | 60 776 238
+ | align="center" | 60 986 000
  |-
  | align="center" |[[2009 voz'|2009]]
- | align="center" | 61 millionad
- |}
+ | align="center" | 61 792 000
+ |-
+ | align="center" |[[2011 voz'|2011]]
+ | align="center" | 63 181 775<ref>[http://www.ons.gov.uk/ons/dcp171778_292378.pdf 2011 Census: Population Estimates for the United Kingdom, 27 March 2011. — Office for National Statistics (ons.gov.uk), 2012-12-17.]</ref>
+|}
 
-=== Suren Britanijan rahvahid ===			
-Jur’eläid - 92 %. (2001):	
+=== Suren Britanijan rahvahad ===			
+Jur'eläjad - 92 % (2001)<ref>[http://www.statistics.gov.uk/CCI/nugget.asp?ID=764&Pos=4&ColRank=1&Rank=176 Vn. 2001 rahvahanlugemižen andmused: etnižuz. — Statistics.gov.uk.]</ref>:	
 * [[anglijalaižed]] — 83,6 %,
 * [[šotlandijalaižed]] — 8,5 %,
 * [[uel'slaižed]] — 4,9 %,
 * [[irlandijalaižed]] — 2,9 %. 
 
-{{Evropa}}
+=== Lidnad (Sitid) ===
+Kaik om 69 lidnad (sitid). Suren Britanijan kaikiš surembad lidnad (enamba 500 tuh. rist., 2011<ref>[http://www.ons.gov.uk/ons/rel/census/2011-census/key-statistics-for-local-authorities-in-england-and-wales/rft-table-ks101ew.xls  2011 Census: KS101EW Usual resident population, local authorities in England and Wales. — Office for National Statistics (ons.gov.uk).]</ref>): [[London]], [[Birmingem]], [[Glazgo]], [[Šeffild]], [[Liverpul']], [[Bredford]], [[Lids]], [[Mančester]].
+
+== Homaičendad ==
+<references />
+
+== Irdkosketused ==
+* [http://www.gov.uk/ Hänen Mažesteten ohjastusen oficialine sait.] {{ref-en}}
+* [http://www.royal.gov.uk/ Britanižen monarhijan oficialine sait.] {{ref-en}}
+* [http://news.bbc.co.uk/hi/russian/uk/default.stm BBC-uzištused Suren Britanijan polhe.] {{ref-en}}
+* [http://www.visitbritain.com/en/EN/ Suren Britanijan oficialine turistine gid.] {{ref-en}}
+
+{{Evrop}}
 
 [[Kategorii:Sur' Britanii|*]]
