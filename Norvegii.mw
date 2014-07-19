@@ -1,23 +1,24 @@
-{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+<big><big>'''Norge'''<br />'''Noreg'''<br />'''Norvegii'''</big></big>
-|-
-| style="background:#efefef;" align="center" colspan=2 |
-{| border="0" cellpadding="2" cellspacing="0"
-|-
-| align="center" width="140px" | [[Fail:Flag of Norway.svg|150px]]
-| align="center" width="140px" | [[Fail:Coat of Arms of Norway.svg|150px]]
-|-
-| align="center" width="140px" | 
-| align="center" width="140px" | 
-|}
-|-
-| align=center colspan=2 | [[Fail:Europe-Norway.svg|300px]]
-|}
-'''Norvegii''' ([[Norvegijan kel'|norv.]]: ''Norge, Noreg'') — valdkund [[Evrop]]as.
-
-Pälidn — [[Oslo]].</br>
-Eläjiden lugu — 4,8 mln.</br>
-Pind — 385 178 km<sup>2</sup>.
+{{Valdkund
+| Nimi = Norvegijan kunigahuz<br />Kongeriket Norge<small>(bukmol)</small><br />Kongeriket Noreg<small>(nünošk)</small>
+| Valdkundznam = Coat of Arms of Norway.svg
+| Flag = Flag of Norway.svg
+| Valdkundznam text = Norvegijan valdkundznam
+| Flag text = Norvegijan flag
+| Pälidn = Oslo
+| Eläjiden lugu = 5.063.709<ref>[http://www.ssb.no/101850/population-by-age.per-1.january Population, by age. Per 1 January (2013). — Statistics Norway (Statistisk sentralbyrå) (ssb.no).] {{ref-en}}</ref>
+| Voz' = 2013
+| Pind = 385.186<ref>[http://www.ssb.no/a/english/aarbok/tab/tab-019.html Statistical Yearbook of Norway 2012, Table 19: Total area, distribution of area and length of coastline, by county. — Statistics Norway (ssb.no).] {{ref-en}}</ref>
+| Kart = Europe-Norway.svg
+| Kel' = [[norvegijan kel'|norvegijan]] ([[bukmol]] da [[nünošk]])
+| Valdkundan pämez' = [[Haral'd V]]
+| Päministr = [[Solberg Erna|Erna Solberg]]
+| Religii = [[hristanuskond]]
+| Valüt = [[norvegijan kron]] (NOK)
+| Internet-domen = [[.no]]
+| Telefonkod = +47
+| Aigvö = tal'vel [[UTC]]+1,<br />kezal [[UTC]]+2
+}}
+'''Norvegii''' ([[Norvegijan kel'|norv.]]: ''Norge, Noreg'') om valdkund [[Evrop]]as. Pälidn — [[Oslo]].
 
 == Istorii ==
 
@@ -28,6 +29,12 @@ Pind — 385 178 km<sup>2</sup>.
 == Eläjad ==
 
 == Ižanduz ==
+
+== Homaičendad ==
+<references />
+
+== Irdkosketused ==
+* []
 
 {{Evrop}}
 
