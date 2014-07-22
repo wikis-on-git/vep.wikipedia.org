@@ -1,31 +1,37 @@
-{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+<big><big>'''Suomen tasavalta'''<br />'''Suomenman Tazovaldkund'''</big></big>
-|-
-| style="background:#efefef;" align="center" colspan=2 |
-{| border="0" cellpadding="2" cellspacing="0"
-|-
-| align="center" width="140px" | [[Fail:Flag of Finland.svg|border|150px]]
-| align="center" width="140px" | [[Fail:Coat of arms of Finland.svg|150px]]
-|-
-| align="center" width="140px" | Suomenman flag
-| align="center" width="140px" | Suomenman znam
-|}
-|-
-| align=center colspan=2 | [[Fail:EU-Finland.svg|300px]]
-|}
-'''Suomenma''', oficialine nimi om '''Suomenman Tazovaldkund''' ({{Kel’+fi|''Suomi, Suomen tasavalta''}}) om valdkund Pohjoiževropas. [[EÜ]]:n ühtnii.
+{{Valdkund
+| Nimi = Suomenman Tazovaldkund<br />Suomen tasavalta<small>{{ref-fi}}</small><br />Republiken Finland<small>{{ref-sv}}</small>
+| Valdkundznam = Coat of arms of Finland.svg
+| Flag = Flag of Finland.svg|border
+| Valdkundznam text = Suomenman valdkundznam
+| Flag text = Suomenman flag
+| Pälidn = Hel'sinki
+| Eläjiden lugu = 5.450.614<ref>[YLE-N|7055597 Прирост населения Финляндии происходит за счёт миграции|28|1|2014|29|1|2014] {{ref-en}}</ref>
+| Voz' = 2013
+| Pind = 338.424
+| Kart = EU-Finland.svg
+| Kel' = [[suomen kel'|suomen]], [[ročin kel'|ročin]]
+| Valdkundan pämez' = [[Niinistö Sauli|Sauli Niinistö]]
+| Päministr = [[Stubb Aleksandr|Aleksandr Stubb]]
+| Religii = [[hristanuskond]]
+| Valüt = [[evro]] (EUR)<ref>Edel 2002 vot — [[suomenman mark]]</ref>
+| Internet-domen = [[.fi]]<ref>Mugažo [[.eu]] kuti [[EÜ]]:n ühtnii.</ref>,<br />[[.ax]] ([[Ahvenanma]]l)
+| Telefonkod = +354
+| Aigvö = tal'vel [[UTC]]+2,<br />kezal [[UTC]]+3
+}}
+'''Suomenma''', oficialine nimi om '''Suomenman Tazovaldkund''' ([[suomen kel'|suom.]] ''Suomi, Suomen tasavalta'', [[ročin kel'|roč.]] ''Finland, Republiken Finland'') om valdkund [[Pohjoiževrop]]as. [[EÜ]]:n ühtnii. Suomenman [[pälidn]] da kaikiš järedamb lidn om [[Hel'sinki]].
 
-Suomenman [[pälidn]] om [[Hel'sinki]]. 
+Suomenma om röunoiš [[Ročinma]]nke pohjoižes, [[]]...
 
-Pind: kaik — 338 424,38 km², saum vezid — 34 525,54 km² (10,2 %). Kaikiš korktamb čokkoim — [[Haltitunturi]] (1324 m).
+== Geografijan andmused ==
+Pind: kaik — 338 424,38 km², saum vezid — 34 525,54 km² (10,2 %). Kaikiš korktamb čokkoim — [[Haltitunturi]]-mägi (1324 m).
 
 == Politine sistem ==
-Suomenma om [[Parlamentine tazovaldkund|parlamentine]] [[tazovaldkund]].
+Suomenma om [[segoitadud tazovaldkund|prezidentiž-parlamentine]] tazovaldkund.
 
 === Valdkundan pämehed ===
-Suomenman pämez' om prezident, kudambad eläjäd valitas kudeks vodeks.
+Suomenman pämez' om prezident, kudambad eläjad valitas kudeks vodeks.
 
-Suomenman prezidentoiden nimikirjutez:
+Suomenman prezidentiden nimikirjutez:
 * [[Štol'berg Kaarlo Juho|Kaarlo Juho Štol'berg]] (1919-1925)
 * [[Relander Lauri Kristian|Lauri Kristian Relander]] (1925-1931)
 * [[Svinhufvud Per Evind]] (1931-1937)
@@ -40,7 +46,7 @@ Suomenman prezidentoiden nimikirjutez:
 * [[Niinistö Sauli|Sauli Niinistö]] (2012-)
 
 == Regionad ==
-[[Fail:Regions in Finland.svg|right|300 px]]
+[[Fail:Regions in Finland.svg|right|300px]]
 {| 
 ! <small>Region
 ! <small>Pälidn
@@ -122,6 +128,11 @@ Suomenman prezidentoiden nimikirjutez:
 | [[Mariehamn]]
 | align=center | 34 014
 |} 
+
+== Homaičendad ==
+<references />
+
+== Irdkosketused ==
 
 {{Evrop}}
 
