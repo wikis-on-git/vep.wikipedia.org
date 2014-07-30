@@ -1,28 +1,29 @@
-{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+<big><big>'''Chile'''<br />'''Čili'''</big></big>
-|-
-| style="background:#efefef;" align="center" colspan=2 |
-{| border="0" cellpadding="2" cellspacing="0"
-|-
-| align="center" width="140px" | [[Fail:Flag of Chile.svg|border|190px]]
-| align="center" width="140px" | [[Fail:Coat of arms of Chile.svg|100px]]
-|-
-| align="center" width="140px" | 
-| align="center" width="140px" | 
-|}
-|-
-| align=center colspan=2 | [[Fail:CHL orthographic.svg|300px]]
-|}
-
-'''Čili''' (isp.:''Chile'') om valdkund [[Suviamerik]]as.
-
-Pälidn — [[Sant'jago]].</br>
-Eläjiden lugu — 17,4 mln.</br>
-Pind — 756 102 km2.
+{{Valdkund
+| Nimi = Čilin Tazovaldkund<br />República de Chile
+| Valdkundznam = Coat of arms of Chile.svg
+| Flag = Flag of Chile.svg|border
+| Valdkundznam text = Čilin valdkundznam
+| Flag text = Čilin flag
+| Pälidn = Sant'jago
+| Eläjiden lugu = 17.216.945<ref>[http://www.census.gov/population/international/data/countryrank/rank.php Country Rank. Countries and Areas Ranked by Population: 2013. — U.S. Department of Commerce — Census.gov.] {{ref-en}}</ref>
+| Voz' = 2013
+| Pind = 756.950<ref>[[Antarktid]]an 1 250 000 km² ei mülüden, kudambid Čili tahtoib.</ref>
+| Kart = LocationChile.svg
+| Kel' = [[ispanijan kel'|ispanijan]]
+| Valdkundan pämez' = [[Bačelet Mišel'|Mišel' Bačelet]]
+| Päministr = ''hän-žo''
+| Religii = [[hristanuskond]]
+| Valüt = [[čilin peso]] (CLP)
+| Internet-domen = [[.cl]]
+| Telefonkod = +56
+| Aigvö = tal'vel [[UTC]]-4 da -6<br />kezal [[UTC]]-3 da -5
+}}
+'''Čili''' ([[ispanijan kel'|isp.]]: ''Chile''), täuz' oficialine nimi — '''Čilin Tazovaldkund''' ([[ispanijan kel'|isp.]] ''República de Chile'') om valdkund [[Suviamerik]]as. Sen pälidn om [[Sant'jago]].
 
 == Istorii ==
 
 == Politine sistem ==
+Čili om unitarine konstitucine prezidentine tazovaldkund. Valdkundan da radonoigendajan tobmuden pämez' om prezident (kaik rahvaz valičeb händast 4 vodeks, ei sa tošti). Parlament, Čilin Nacionaline Kongress, om kaks'kodine.
 
 == Geografijan andmused ==
 
@@ -30,9 +31,14 @@ Pind — 756 102 km2.
 
 == Ižanduz ==
 
+== Homaičendad ==
+<references />
+
 == Irdkosketused ==
-* [http://www.thisischile.cl/ ThisisChile.cl - Official Chile website - English and Spanish version]
+* [http://www.gobiernodechile.cl/ Čilin ohjastusen sait.] {{ref-es}}
+* [http://www.thisischile.cl/ ThisisChile.cl — oficialine Čilin sait.] {{ref-es}} {{ref-en}}
+* [https://commons.wikimedia.org/wiki/Atlas_of_Chile Čilin atlas Vikiaitas.]
 
 {{Suviamerik}}
 
-[[Kategorii:Čili]]
+[[Kategorii:Čili|*]]
