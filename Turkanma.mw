@@ -1,26 +1,30 @@
 {{1000}}
-{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+<big><big>'''Türkiye'''<br />'''Turkanma (Turcii)'''</big></big>
-|-
-| style="background:#efefef;" align="center" colspan=2 |
-{| border="0" cellpadding="2" cellspacing="0"
-|-
-| align="center" width="140px" | [[Fail:Flag of Turkey.svg|150px]]
-| align="center" width="140px" | [[Fail:Türkiye arması.svg|150px]]
-|-
-| align="center" width="140px" | 
-| align="center" width="140px" | 
-|}
-|-
-| align=center colspan=2 | [[Fail:Turkey in its region.svg|300px]]
-|}
-'''Turkanma''' (vai '''Turcii''') ([[Turkan kel'|turkan kelel]]: ''Türkiye'') — valdkund [[Evrop]]as. Eläjiden lugu — 72,5 mln. Pind — 780 580 km<sup>2</sup>. Ohjandusen form om Prezidentine tazovaldkund.
-
-Pälidn om [[Ankar]], kaikiš suremb lidn — [[Stambul]].
+{{Valdkund
+| Nimi = Turkanman (Turcijan) Tazovaldkund<br />Türkiye Cumhuriyeti
+| Valdkundznam = Türkiye arması.svg
+| Flag = Flag of Turkey.svg
+| Valdkundznam text = Turkanman valdkundznam
+| Flag text = Turkanman flag
+| Pälidn = Ankar
+| Eläjiden lugu = 76.667.864<ref>[.]</ref>
+| Voz' = 2013
+| Pind = 783.562<ref>[.]</ref>
+| Kart = Turkey in its region.svg
+| Kel' = [[turkan kel'|turkan]]
+| Valdkundan pämez' = [[Gül' Abdulla|Abdulla Gül']]
+| Päministr = [[Erdogan Redžep Tajip|Redžep Tajip Erdogan]]
+| Religii = [[islam]]
+| Valüt = [[turkanman lir]] (TRY)
+| Internet-domen = [[.tr]]
+| Telefonkod = +90
+| Aigvö = tal'vel [[UTC]]+2<br />kezal [[UTC]]+3
+}}
+'''Turkanma''' (vai '''Turcii''') ([[Turkan kel'|turkan kelel]]: ''Türkiye'') — valdkund [[Evrop]]as. Pälidn om [[Ankar]], kaikiš suremb lidn — [[Stambul]].
 
 == Istorii ==
 
 == Politine sistem ==
+Ohjandusen form om prezidentine tazovaldkund.
 
 == Geografijan andmused ==
 
@@ -30,5 +34,7 @@ Pälidn om [[Ankar]], kaikiš suremb lidn — [[Stambul]].
 
 {{Evrop}}
 {{Azii}}
+
+{{stub}}
 
 [[Kategorii:Turkanma|*]]
