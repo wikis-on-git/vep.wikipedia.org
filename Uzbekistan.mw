@@ -1,33 +1,57 @@
-{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+<big><big>'''O‘zbekiston'''<br />'''Uzbekistan'''</big></big>
-|-
-| style="background:#efefef;" align="center" colspan=2 |
-{| border="0" cellpadding="2" cellspacing="0"
-|-
-| align="center" width="140px" | [[Fail:Flag of Uzbekistan.svg|150px|border]]
-| align="center" width="140px" | [[Fail:Coat of Arms of Uzbekistan.svg|150px]]
-|-
-| align="center" width="140px" | 
-| align="center" width="140px" | 
-|}
-|-
-| align=center colspan=2 | [[Fail:Uzbekistan in its region.svg|300px]]
-|}
-'''Uzbekistan''' (uzb.: ''O‘zbekiston'') om valdkund [[Azii|Azijas]]. Pälidn — [[Taškent]]
+{{Valdkund
+| Nimi = Uzbekistanan Tazovaldkund<br />O‘zbekiston Respublikasi,<br /><small>''vai''</small> Oʻzbekiston Jumhuriyati
+| Valdkundznam = Coat of Arms of Uzbekistan.svg
+| Flag = Flag of Uzbekistan.svg
+| Valdkundznam text = Uzbekistanan valdkundznam
+| Flag text = Uzbekistanan flag
+| Pälidn = Taškent
+| Eläjiden lugu = 30.183.400<ref name="stat20140319">[http://www.stat.uz/press/1/8195/ Demografine situacii (2014-03-19). — Uzbekistanan Tazovaldkundan Statistikan valdkundaline komitet (stat.uz).] {{ref-ru}}</ref><ref>[http://news.uzreport.uz/news_3_r_117663.html Muloi Uzbekistanan ristitišt ližazi 495,1 tuhal eläjil. — Uzreport.com.] {{ref-ru}}</ref>
+| Voz' = 2014
+| Pind = 447.400<ref>[https://www.cia.gov/library/publications/the-world-factbook/geos/uz.html Uzbekistan. — Mail'man faktoiden kirj (Cia.gov).]</ref>
+| Kart = LocationUzbekistan.svg
+| Kel' = [[uzbekan kel'|uzbekan]]
+| Valdkundan pämez' = [[Karimov Islam|Islam Karimov]]
+| Päministr = [[Mirzijajev Šavkat|Šavkat Mirzijajev]]
+| Religii = [[islam]]
+| Valüt = [[uzbekistanan sum]] (UZS)
+| Internet-domen = [[.uz]]
+| Telefonkod = +998
+| Aigvö = [[UTC]]+5
+}}
+[[Fail:Uzbekistan in its region.svg|300px]]
+'''Uzbekistan''', '''Uzbekistanan Tazovaldkund''' ([[uzbekan kel'|uzb.]]: ''O‘zbekiston'' (''Ўзбекистон''), ''O‘zbekiston Respublikasi'' (''Ўзбекистон Республикаси'') vai ''Oʻzbekiston Jumhuriyati'' (''Ўзбекистон Жумҳурияти'')), om valdkund [[Keskmäine Azii|Keskmäižes Azijas]]. Sen pälidn da kaikiš järedamb lidn om [[Taškent]].
 
-Eläjiden lugu — 28,1 mln.</br>
-Pind — 447 400 km<sup>2</sup>.
+Uzbekistan om [[neitraline valdkund|neitraline]] valdkund.
 
 == Istorii ==
 
 == Politine sistem ==
+Uzbekistan om unitarine prezidentine tazovaldkund. Parlament, Olii Mažlis ([[uzbekan kel'|uzb.]] ''Oliy Majlis''), om kaks'kodine. Sen üläkodi om Senat, a alakodi om Käskusenandmižkodi.
 
 == Geografijan andmused ==
+Uzbekistan om röunoiš [[Turkmenistan]]anke (röunan piduz — 1621 km) suves da suvipäivlaskmas, [[Kazahstan]]anke (2203 km) lodehes, pohjoižes da pohjoižpäivnouzmas, [[Kirgizstan]]anke päivnouzmas (1099 km), [[Tadžikistan]]anke suvipäivnouzmas (1161 km) da [[Afganistan]]anke suves (137 km). Ühthine röunoiden piduz om 6221 km.
+
+Kaikiš korktemb čokkoim om Gissaran-mägisel'gal, 4643 m meren pindan päl. Kaikiš alahaižemb čokkoim om [[Sarikamiš]]-järven Minbulak-alang (-12,8 metrad) [[Kizilkum]]-rahvahatomas mas.
+
+Kaikiš järedambad joged oma [[Amudarj]] da [[Sirdarj]], niiden veziden enambuz ei sabuta [[Aralmeri|Aralmert]], sen tagut Aralmeri kuivab voz' voden jäl'ghe.
+
+Klimat om terav kontinentaline.
 
 == Eläjad ==
+Uzbekistanan toižed järedad lidnad (enamba 200 tuh. rist., 2010<ref></ref>, surembaspäi penembha): [[Samarkand]], [[Namangan]], [[Andižan]], [[Buhar]], [[Nukus]], [[Karši]]. Vl 2014 kaik valdkundas om 120 lidnad da 115 lidnanvuittušt žilod<ref name="stat20140319"/>.
 
 == Ižanduz ==
 
+== Homaičendad ==
+<references />
+
+== Irdkosketused ==
+* [http://parliament.gov.uz/ Uzbekistanan parlamentan alakodin oficialine sait.] {{ref-en}}
+* [http://www.gov.uz/ru/ Uzbekistanan Tazovaldkundan ohjastusen portal.] {{ref-ru}}
+* [http://www.facebook.com/ozbekistan1 Uzbekistanan Tazovaldkundan lehtpol' «Feisbuk»:as].
+
 {{Azii}}
+
+{{stub}}
 
 [[Kategorii:Uzbekistan| ]]
