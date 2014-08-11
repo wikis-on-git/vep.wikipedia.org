@@ -1,27 +1,33 @@
 {{1000}}
-{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+<big><big>'''Status Civitatis Vaticanae'''<br />'''Stato della Città del Vaticano'''<br />'''Vatikan'''</big></big>
-|-
-| style="background:#efefef;" align="center" colspan=2 |
-{| border="0" cellpadding="2" cellspacing="0"
-|-
-| align="center" width="140px" | [[Fail:Flag of the Vatican City.svg|border|150px]]
-| align="center" width="140px" | [[Fail:Vatican City CoA.svg|150px]]
-|-
-| align="center" width="140px" | 
-| align="center" width="140px" | 
-|}
-|-
-| align=center colspan=2 | [[Fail:LocationVaticanCity.svg|300px]]
-|}
-'''Vatikan''' ({{kel’+la|''Status Civitatis Vaticanae''}}, [[Italijan kel'|ital.]]: ''Stato della Città del Vaticano'') — valdkund [[Evrop]]as. Nece om kaikiš penemb ripmatoi valdkund [[Ma]]s. 
+{{Valdkund
+| Nimi = Vatikan<br />Status Civitatis Vaticanae <small>(latin.)</small><br />Stato della Città del Vaticano <small>(ital.)</small>
+| Valdkundznam = Vatican City CoA.svg
+| Flag = Flag of the Vatican City.svg|border
+| Valdkundznam text = Vatikanan valdkundznam
+| Flag text = Vatikanan flag
+| Pälidn = 
+| Eläjiden lugu = 839<ref>[https://www.cia.gov/library/publications/the-world-factbook/geos/vt.html Täuz' kaceg (Vatikan-lidn). — Mail'man faktoiden kirj. — Cia.gov.] {{ref-en}}</ref>
+| Voz' = 2013
+| Pind = 0.44
+| Kart = LocationVaticanCity.svg
+| Kel' = [[latinan kel'|latinan]], [[italijan kel'|italijan]]
+| Valdkundan pämez' = [[Francisk (Rimalaine papa)]]
+| Päministr = [[Parolin Pjetro|Pjetro Parolin]]
+| Religii = [[hristanuskond]]
+| Valüt = [[evro]] (€)(EUR)<ref>Edel 1999 vot — [[vatikanan lir]].</ref>
+| Internet-domen = [[.va]]
+| Telefonkod = +379, +3906698
+| Aigvö = tal'vel [[UTC]]+1,<br />kezal [[UTC]]+2
+}}
+'''Vatikan''' ([[latinan kel'|latin.]] ''Status Civitatis Vaticanae'', [[italijan kel'|ital.]] ''Stato della Città del Vaticano'') — valdkund da lidn [[Suvievrop]]as. Se om [[Italii|Italijanke]] associacijoiš.
 
-Eläjiden lugu — 829.</br>
-Pind — 0,44 km<sup>2</sup>.
+Iče ičeleze pälidn, se om [[anklav]] [[Rim]]an südäimes. Vatikan om kaikiš penemb ripmatoi valdkund [[Ma]]s. Verazmaižed sur'oigenduzkundad sijadase [[Rim]]an territorijal.
 
 == Istorii ==
+Vn. 1929 uhokun 11. päivän Vatikan sai ripmatomut [[Italii|Italijaspäi]].
 
 == Politine sistem ==
+Ohjandusen form om absolütine teokratine monarhii.
 
 == Geografijan andmused ==
 
@@ -30,6 +36,7 @@ Pind — 0,44 km<sup>2</sup>.
 == Ižanduz ==
 
 {{Evrop}}
+
 {{stub}}
 
-[[Kategorii:Vatikan| ]]
+[[Kategorii:Vatikan|*]]
