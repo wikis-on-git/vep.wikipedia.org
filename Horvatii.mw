@@ -1,34 +1,50 @@
-{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+<big><big>'''Republika Hrvatska'''<br />'''Horvatii'''</big></big>
-|-
-| style="background:#efefef;" align="center" colspan=2 |
-{| border="0" cellpadding="2" cellspacing="0"
-|-
-| align="center" width="140px" | [[Fail:Flag of Croatia.svg|150px|border]]
-| align="center" width="140px" | [[Fail:Coat of arms of Croatia.svg|150px]]
-|-
-| align="center" width="140px" | 
-| align="center" width="140px" | 
-|}
-|-
-| align=center colspan=2 | [[Fail:Europe-Croatia.svg|300px]]
-|}
-'''Horvatii''' ([[Horvatan kel'|horvatan kelel]]: ''Republika Hrvatska'') — valdkund [[Evrop]]as.
-
-Eläjiden lugu — 4,5 mln.</br>
-Pind — 56 594 km<sup>2</sup>.
+{{Valdkund
+| Nimi = Horvatijan Tazovaldkund<br />Republika Hrvatska
+| Valdkundznam = Coat of arms of Croatia.svg
+| Flag = Flag of Croatia.svg|border
+| Valdkundznam text = Horvatijan valdkundznam
+| Flag text = Horvatijan flag
+| Pälidn = Zagreb
+| Eläjiden lugu = 4.284.889<ref>[http://www.dzs.hr/Eng/censuses/census2011/results/htm/E01_01_01/e01_01_01 Horvatijan ristitišt igän, sugun da eländpunktoiden mödhe vn 2011 rahvahanlugemižen aigan. — Horvatijan statistikan radnikoičend (Zagreb, 2012. tal'vku) (dzs.hr).]</ref>
+| Voz' = 2011
+| Pind = 56.594<ref name="yearbook2011">[http://www.dzs.hr/Hrv_Eng/ljetopis/2011/SLJH2011.pdf Geographical and Meteorological Data. //Statistical Yearbook of the Republic of Croatia. Croatian Bureau of Statistics. December, 2011. Vol.43. 576 lpp. — Lp. 40.] ISSN 1333-3305. {{ref-hr}} {{ref-en}}</ref>
+| Kart = Europe-Croatia.svg
+| Kel' = [[horvatan kel'|horvatan]]
+| Valdkundan pämez' = [[Josipovič Ivo|Ivo Josipovič]]
+| Päministr = [[Milanovič Zoran|Zoran Milanovič]]
+| Religii = [[hristanuskond]]
+| Valüt = [[horvatijan kun]] (HRK)
+| Internet-domen = [[.hr]]<ref>Mugažo [[.eu]] kuti [[EÜ]]:n ühtnii.</ref>
+| Telefonkod = +385
+| Aigvö = tal'vel [[UTC]]+1,<br />kezal [[UTC]]+2
+}}
+'''Horvatii''', täuz' oficialine nimituz '''Horvatijan Tazovaldkund''' ([[horvatan kel'|horv.]]: ''Republika Hrvatska''), — valdkund [[Keskevrop]]an suves. Vs 2013 heinkun 1. päiväspäi [[EÜ]]:n ühtnii. Vspäi 2009 [[PAKO]]:n ühtnii. Sen pälidn da kaikiš suremb lidn om [[Zagreb]].
 
 == Istorii ==
 
 == Politine sistem ==
+Ohjandusen form om unitarine konstitucine [[parlamentine tazovaldkund]].
 
 == Geografijan andmused ==
+Horvatii sijadase [[Balkanan pol'sar'|Balkanan pol'saren]] lodehes. Valdkund om kaks'poline: kontinentaline pala sijadase [[Sav]]-jogen basseinas, a mererandaline pala levigandeb [[Adriatine meri|Adriatižen meren]] randištol suvipäivlaskmas. Meren akvatorijan pind — 33 200 km², sigä om 1185 sarid, niišpäi 67 elänzoittud, [[Krk]]- da [[Cres]]-sared oma kaikiš surembad Horvatijas. Randanpird om 1777 km kontinentas da sen ližaks 4058 km saril.
+
+Horvatii om mavaldkundröunoiš [[Slovenii|Slovenijanke]] pohjoižes (röunan piduz — 667 km), [[Mad'jaranma]]nke pohjoižpäuvnouzmas (355 km), [[Serbii|Serbijanke]] päivnouzmas (317 km), [[Bosnii da Gercegovin|Bosnijan da Gercegovinanke]] (1011 km) i [[Mustmägi|Mustmägenke]] (22 km) suves. Röunoiden kuivmadme ühthine piduz om 2374 km<ref name="yearbook2011"/>.
+
+Kaikiš korktemb čokkoim om [[Dinar (mägi)|Dinar]]-mägi, 1831 m meren pindan päl.
 
 == Eläjad ==
+Vl 2013 kaik oli 128 lidnad valdkundas. Horvatijan toižed järedad lidnad (enamba 50 tuh. rist., vn. 2011 rahvahanlugemižen mödhe, surembaspäi penembha): [[Split]], [[Rijek]], [[Osijek]], [[Zadar]], [[Pul]], [[Slavonski Brod]].
 
 == Ižanduz ==
 
+== Homaičendad ==
+<references />
+
+== Irdkosketused ==
+* [http://www.vlada.hr/ Horvatijan Tazovaldkundan tobmuden oficialine portal.] {{ref-hr}}
+
 {{Evrop}}
+
 {{stub}}
 
 [[Kategorii:Horvatii|*]]
