@@ -9,7 +9,7 @@
  | Voz' = 2014
  | Pind = 12.84
  | Fail = Lobez main street.jpg
- | Pämez' = Piotr Ćwikła
+ | Pämez' = Pötr C'vikla
  | Telefonkod = +48-91
  | Aigvö = [[UTC]]+2
 }}
@@ -64,7 +64,7 @@ PlotData=
   bar:1957 at: 6026 text: 6 shift:(0)
   bar:1970 at: 7355 text: 7,4 shift:(0)
   bar:1990 at: 10953 text:11 shift:(0)
-  </timeline>
+  </timeline><!--
 == Pämez' ==
 {| class="wikitable"
 | 1632 - Carsten Beleke ||  || 1809 – Johann Georg Falck
@@ -106,7 +106,7 @@ PlotData=
 |1806 – Zuther ( 1712)||  || 
 |-
 |1806 – Nemitz||  ||
-|}
+|}-->
 
 == Sebruzlidnad ==
 * [[Fail:Flag of Germany.svg|20px|border]]  [[Affing]], [[Saksanma]]
