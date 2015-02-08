@@ -1,318 +1,420 @@
 {| border="1" cellpadding="4" cellspacing="0" style="border:1px solid #aaa; border-collapse:collapse;"
 |- style="background:#ececec;"
 ! [[Valdkund]]
+! Lüh. ISO<br />3166-1<br />mödhe
+! Valdkundkel'
 ! Pind<br />(km²)
-! Ristitišt
+! Ristitišt<br />(2010)
 ! Rist./km²
 ! [[Pälidn]]
 |-
-| colspan=5 style="background:#eee;" | '''[[Keskuzazii]]:'''
+| colspan=7 style="background:#eee;" | '''[[Keskuzazii]]:'''
 |-
 | {{KAZ}}
+| KAZ
+| [[kazahan kel'|kazahan]], [[venäkel']]
 | style="text-align:right;"| 2.724.927
 | style="text-align:right;"| 15.666.533
 | style="text-align:right;"| 5,7
 | [[Astan]]
 |-
 | {{KGZ}}
+| KGZ
+| [[kirgizan kel'|kirgizan]], [[venäkel']]
 | style="text-align:right;"| 198.500
 | style="text-align:right;"| 5.356.869
 | style="text-align:right;"| 24,3
 | [[Biškek]]
 |-
 | {{TJK}}
+| TJK
+| [[tadžikan kel'|tadžikan]], [[venäkel']]
 | style="text-align:right;"| 143.100
 | style="text-align:right;"| 7.211.884
 | style="text-align:right;"| 47,0
 | [[Dušanbe]]
 |-
 | {{TKM}}
+| TKM
+| [[turkmenan kel'|turkmenan]]
 | style="text-align:right;"| 488.100
 | style="text-align:right;"| 5.179.573
 | style="text-align:right;"| 9,6
 | [[Ašhabad]]
 |-
 | {{UZB}}
+| UZB
+| [[uzbekan kel'|uzbekan]]
 | style="text-align:right;"| 447.400
 | style="text-align:right;"| 28.268.441
 | style="text-align:right;"| 57,1
 | [[Taškent]]
 |-
-| colspan=5 style="background:#eee;" | '''[[Päivnouzmaine Azii]]:'''
+| colspan=7 style="background:#eee;" | '''[[Päivnouzmaine Azii]]:'''
+|-
+| {{JAP}}
+| JAP
+| [[|]]
+| style="text-align:right;"| 377.835
+| style="text-align:right;"| 127.288,628
+| style="text-align:right;"| 336,1
+| [[Tokio]]
 |-
 | {{CHN}}
+| CHN
+| [[kitain kel'|kitain]]
 | style="text-align:right;"| 9.640.821
 | style="text-align:right;"| 1.322.044,605
 | style="text-align:right;"| 134,0
 | [[Pekin]]
 |-
 | {{PRK}}
+| PRK
+| [[|]]
 | style="text-align:right;"| 120.540
 | style="text-align:right;"| 23.479.095
 | style="text-align:right;"| 184,4
 | [[Phönjan]]
 |-
 | {{KOR}}
+| KOR
+| [[|]]
 | style="text-align:right;"| 98.480
 | style="text-align:right;"| 49.232.844
 | style="text-align:right;"| 490,7
 | [[Seul]]
 |-
-| {{JAP}}
-| style="text-align:right;"| 377.835
-| style="text-align:right;"| 127.288,628
-| style="text-align:right;"| 336,1
-| [[Tokio]]
-|-
 | {{MNG}}
+| MNG
+| [[|]]
 | style="text-align:right;"| 1.565.000
 | style="text-align:right;"| 2.996.082
 | style="text-align:right;"| 1,7
 | [[Ulan Bator]]
 |-
 | {{ROC}}
+| ROC
+| [[|]]
 | style="text-align:right;"| 35.980
 | style="text-align:right;"| 22.920.946
 | style="text-align:right;"| 626,7
 | [[Taipei]]
 |-
-| colspan=5 style="background:#eee;" | '''[[Pohjoine Azii]]:'''
+| colspan=7 style="background:#eee;" | '''[[Pohjoine Azii]]:'''
 |-
 | {{RUS}}
+| RUS
+| [[venäkel']]
 | style="text-align:right;"| 17.075.400
 | style="text-align:right;"| 142.200.000
 | style="text-align:right;"| 26,8
 | [[Moskv]]
 |-
-| colspan=5 style="background:#eee;" | '''[[Suvipäivnouzmaine Azii]]:'''
+| colspan=7 style="background:#eee;" | '''[[Suvipäivnouzmaine Azii]]:'''
 |-
 | {{BRN}}
+| BRN
+| [[|]]
 | style="text-align:right;"| 5.770
 | style="text-align:right;"| 381.371
 | style="text-align:right;"| 66,1
 | [[Bandar Seri Begavan]]
 |-
-| {{MMR}}
-| style="text-align:right;"| 676.578
-| style="text-align:right;"| 47.758.224
-| style="text-align:right;"| 70,3
-| [[Naip'jido]]
-|-
-| {{CAM}}
-| style="text-align:right;"| 181.035
-| style="text-align:right;"| 13.388.910
-| style="text-align:right;"| 74
-| [[Pnompen']]
-|-
 | {{FIL}}
+| FIL
+| [[|]]
 | style="text-align:right;"| 300.000
 | style="text-align:right;"| 92.681.453
 | style="text-align:right;"| 308,9
 | [[Manil]]
 |-
 | {{INA}}
+| INA
+| [[|]]
 | style="text-align:right;"| 1.919.440
 | style="text-align:right;"| 230.512.000
 | style="text-align:right;"| 120,1
 | [[Džakart]]
 |-
+| {{CAM}}
+| CAM
+| [[|]]
+| style="text-align:right;"| 181.035
+| style="text-align:right;"| 13.388.910
+| style="text-align:right;"| 74
+| [[Pnompen']]
+|-
 | {{LAO}}
+| LAO
+| [[|]]
 | style="text-align:right;"| 236.800
 | style="text-align:right;"| 6.677.534
 | style="text-align:right;"| 28,2
 | [[V'jent'jan]]
 |-
 | {{MAL}}
+| MAL
+| [[|]]
 | style="text-align:right;"| 329.847
 | style="text-align:right;"| 27.780.000
 | style="text-align:right;"| 84,2
 | [[Kuala Lumpur]]
 |-
+| {{MMR}}
+| MMR
+| [[|]]
+| style="text-align:right;"| 676.578
+| style="text-align:right;"| 47.758.224
+| style="text-align:right;"| 70,3
+| [[Naip'jido]]
+|-
+| {{TLS}}
+| TLS
+| [[|]]
+| style="text-align:right;"| 15.007
+| style="text-align:right;"| 1.108.777
+| style="text-align:right;"| 73,8
+| [[Dili]]
+|-
 | {{SIN}}
+| SIN
+| [[|]]
 | style="text-align:right;"| 704
 | style="text-align:right;"| 4.608.167
 | style="text-align:right;"| 6.545,7
 | [[Singapur]]
 |-
 | {{THA}}
+| THA
+| [[|]]
 | style="text-align:right;"| 514.000
 | style="text-align:right;"| 65.493.298
 | style="text-align:right;"| 127,4
 | [[Bangkok]]
 |-
-| {{TLS}}
-| style="text-align:right;"| 15.007
-| style="text-align:right;"| 1.108.777
-| style="text-align:right;"| 73,8
-| [[Dili]]
-|-
 | {{VIE}}
+| VIE
+| [[|]]
 | style="text-align:right;"| 331.690
 | style="text-align:right;"| 86.116.559
 | style="text-align:right;"| 259,6
 | [[Hanoi]]
 |-
-| colspan=5 style="background:#eee;" | '''[[Suviazii]]:'''
+| colspan=7 style="background:#eee;" | '''[[Suviazii]]:'''
 |-
 | {{AFG}}
+| AFG
+| [[puštu]], [[dari]]
 | style="text-align:right;"| 647.500
 | style="text-align:right;"| 32.738.775
 | style="text-align:right;"| 42,9
 | [[Kabul]]
 |-
 | {{BGD}}
+| BGD
+| [[|]]
 | style="text-align:right;"| 147.570
 | style="text-align:right;"| 153.546.901
 | style="text-align:right;"| 1040,5
 | [[Dakk]]
 |-
 | {{BTN}}
+| BTN
+| [[|]]
 | style="text-align:right;"| 38.394
 | style="text-align:right;"| 682.321
 | style="text-align:right;"| 17,8
 | [[Thimphu]]
 |-
 | {{IND}}
+| IND
+| [[|]]
 | style="text-align:right;"| 3.287.263
 | style="text-align:right;"| 1.147.995.226
 | style="text-align:right;"| 349,2
 | [[Uz' Deli]]
 |-
 | {{MDV}}
+| MDV
+| [[|]]
 | style="text-align:right;"| 300
 | style="text-align:right;"| 379.174
 | style="text-align:right;"| 1.263,3
 | [[Male]]
 |-
 | {{NPL}}
+| NPL
+| [[|]]
 | style="text-align:right;"| 147.181
 | style="text-align:right;"| 29.519.114
 | style="text-align:right;"| 200,5
 | [[Katmandu]]
 |-
 | {{PAK}}
+| PAK
+| [[|]]
 | style="text-align:right;"| 803.940
 | style="text-align:right;"| 167.762.049
 | style="text-align:right;"| 208,7
 | [[Islamabad]]
 |-
 | {{SRI}}
+| SRI
+| [[|]]
 | style="text-align:right;"| 65.610
 | style="text-align:right;"| 21.128.773
 | style="text-align:right;"| 322,0
 | [[Šri Džajavardenepura Kotte]]
 |-
-| colspan=5 style="background:#eee;" | '''[[Päivlaskmaine Azii]]:'''
+| colspan=7 style="background:#eee;" | '''[[Päivlaskmaine Azii]]:'''
 |-
-| {{SAU}}
-| style="text-align:right;"| 1.960.582
-| style="text-align:right;"| 23.513.330
-| style="text-align:right;"| 12,0
-| [[Er Rijad]]
+| {{ARE}}
+| ARE
+| [[|]]
+| style="text-align:right;"| 82.880
+| style="text-align:right;"| 4.621.399
+| style="text-align:right;"| 29,5
+| [[Abu Dabi]]
 |-
 | {{ARM}}
+| ARM
+| [[|]]
 | style="text-align:right;"|29.800
 | style="text-align:right;"|3.299.000
 | style="text-align:right;"|280,7
 | [[Jerevan]]
 |-
 | {{AZE}}
+| AZE
+| [[|]]
 | style="text-align:right;"| 86.660
 | style="text-align:right;"| 9.165.000
 | style="text-align:right;"| 105,831
 | [[Baku]]
 |-
 | {{BHR}}
+| BHR
+| [[|]]
 | style="text-align:right;"| 665
 | style="text-align:right;"| 718.306
 | style="text-align:right;"| 987,1
 | [[Manam]]
 |-
-| {{QAT}}
-| style="text-align:right;"| 11.437
-| style="text-align:right;"| 928.635
-| style="text-align:right;"| 69,4
-| [[Doh]]
-|-
-| {{CYP}}
-| style="text-align:right;"| 9.250
-| style="text-align:right;"| 792.604
-| style="text-align:right;"| 83,9
-| [[Nikosii]]
-|-
-| {{ARE}}
-| style="text-align:right;"| 82.880
-| style="text-align:right;"| 4.621.399
-| style="text-align:right;"| 29,5
-| [[Abu Dabi]]
-|-
 | {{GEO}}
+| GEO
+| [[|]]
 | style="text-align:right;"|69.700
 | style="text-align:right;"|4.636.400
 | style="text-align:right;"| 65,1
 | [[Tbilis]]
 |-
 | {{IRQ}}
+| IRQ
+| [[|]]
 | style="text-align:right;"| 437.072
 | style="text-align:right;"| 28.221.181
 | style="text-align:right;"| 54,9
 | [[Bagdad]]
 |-
 | {{IRN}}<!--{{editnote | NOTE: Do not alter or move this entry without discussion -- in the UN scheme for countries/regions (used in the table), Iran is in Southern Asia, not Western Asia.}}-->
+| IRN
+| [[|]]
 | style="text-align:right;"| 1.648.195
 | style="text-align:right;"| 70.472.846
 | style="text-align:right;"| 42,8
 | [[Tehran]]
 |-
-| {{ISR}}
-| style="text-align:right;"| 20.770
-| style="text-align:right;"| 7.112.359
-| style="text-align:right;"| 290,3
-| [[Jerusalim]]
-|-
 | {{JOR}}
+| JOR
+| [[|]]
 | style="text-align:right;"| 92.300
 | style="text-align:right;"| 6.198.677
 | style="text-align:right;"| 57,5
 | [[Amman]]
 |-
+| {{ISR}}
+| ISR
+| [[|]]
+| style="text-align:right;"| 20.770
+| style="text-align:right;"| 7.112.359
+| style="text-align:right;"| 290,3
+| [[Jerusalim]]
+|-
+| {{YEM}}
+| YEM
+| [[|]]
+| style="text-align:right;"| 527.970
+| style="text-align:right;"| 23.013.376
+| style="text-align:right;"| 35,4
+| [[Sanaa]]
+|-
+| {{QAT}}
+| QAT
+| [[|]]
+| style="text-align:right;"| 11.437
+| style="text-align:right;"| 928.635
+| style="text-align:right;"| 69,4
+| [[Doh]]
+|-
+| {{CYP}}
+| CYP
+| [[|]]
+| style="text-align:right;"| 9.250
+| style="text-align:right;"| 792.604
+| style="text-align:right;"| 83,9
+| [[Nikosii]]
+|-
 | {{KWT}}
+| KWT
+| [[|]]
 | style="text-align:right;"| 17.820
 | style="text-align:right;"| 2.596.561
 | style="text-align:right;"| 118,5
 | [[El' Kuveit]]
 |-
 | {{LBN}}
+| LBN
+| [[|]]
 | style="text-align:right;"| 10.452
 | style="text-align:right;"| 3.971.941
 | style="text-align:right;"| 353,6
 | [[Beirut]]
 |-
 | {{OMN}}
+| OMN
+| [[|]]
 | style="text-align:right;"| 212.460
 | style="text-align:right;"| 3.311.640
 | style="text-align:right;"| 12,8
 | [[Maskat]]
 |-
+| {{SAU}}
+| SAU
+| [[|]]
+| style="text-align:right;"| 1.960.582
+| style="text-align:right;"| 23.513.330
+| style="text-align:right;"| 12,0
+| [[Rijad|Er Rijad]]
+|-
 | {{SYR}}
+| SYR
+| [[|]]
 | style="text-align:right;"| 185.180
 | style="text-align:right;"| 19.747.586
 | style="text-align:right;"| 92,6
 | [[Damask]]
 |-
 | {{TUR}}
+| TUR
+| [[|]]
 | style="text-align:right;"|783.562
 | style="text-align:right;"|70.561.312
 | style="text-align:right;"|92,6
 | [[Ankar]]
-|-
-| {{YEM}}
-| style="text-align:right;"| 527.970
-| style="text-align:right;"| 23.013.376
-| style="text-align:right;"| 35,4
-| [[Sanaa]]
 |- style="font-weight:bold;"
 | Kaik
+| 
+| 
 | style="text-align:right;"| 43.810.582
 | style="text-align:right;"| 4.162.966.086
 | style="text-align:right;"| 89,07
