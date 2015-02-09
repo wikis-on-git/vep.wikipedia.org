@@ -1,113 +1,457 @@
-'''Evropan valdkundad''':
-{| class="wikitable sortable"
+'''[[Evrop]]as''' om 46 ripmatomad valdkundad, 3 niišpäi oma Evropas paloin.
+
+{| border="1" cellpadding="4" cellspacing="0" style="border:1px solid #aaa; border-collapse:collapse;"
+|- style="background:#ececec;"
+! [[Valdkund]]
+! Lüh. ISO<br />3166-1<br />mödhe
+! Valdkundznam
+! Valdkundkel'
+! Pind<br />(km²)
+! Ristitišt<br />(2012)
+! Rist./km²
+! [[Pälidn]]
 |-
-! Valdkundflag !! Valdkundznam !! Valdkund !! Pälidn !! Kel'
+| colspan=8 style="background:#eee;" | '''[[Pohjoine Evrop]]:'''
 |-
-| [[File:Flag of the Netherlands.svg|150px]] || [[File:Royal Coat of Arms of the Netherlands.svg|150px]] || [[Alamad]] || [[Amsterdam]] || [[Alaman kel'|alaman]]
+| {{DNK}}[[Danii]]
+| DNK
+| [[Fail:COA of Denmark.svg|50px]]
+| [[danijan kel'|danijan]]
+| style="text-align:right;"| 43.098
+| style="text-align:right;"| 5.590.000
+| style="text-align:right;"| 129,7
+| [[Kopenhagen]]
 |-
-| [[File:Flag of Albania.svg|150px]] || [[File:Albania state emblem.svg|150px]] || [[Albanii]] || [[Tiran]] || [[Albanijan kel'|albanijan]]
+| {{EST}}[[Estinma]]
+| EST
+| [[Fail:Coat of arms of Estonia.svg|50px]]
+| [[estin kel'|estin]]
+| style="text-align:right;"| 45.227
+| style="text-align:right;"| 1.339.000
+| style="text-align:right;"| 29,6
+| [[Tallidn]]
 |-
-| [[File:Flag of Andorra.svg|150px]] || [[File:Coat_of_arms_of_Andorra.svg|150px]] || [[Andorr]] || [[Andorr la Vel'j]] || [[Katalanan kel'|katalanan]], [[Ispanijan kel'|ispanijan]], [[Francijan kel'|francijan]]
+| {{ISL}}[[Islandii]]
+| ISL
+| [[Fail:Coat of arms of Iceland.svg|50px]]
+| [[islandijan kel'|islandijan]]
+| style="text-align:right;"| 103.000
+| style="text-align:right;"| 320.000
+| style="text-align:right;"| 3,1
+| [[Reikjavik]]
 |-
-| [[File:Flag of Armenia.svg|150px]] || [[File:Coat_of_arms_of_Armenia.svg|150px]] || [[Armenii]] || [[Jerevan]] || [[Armenijan kel'|armenijan]]
+| {{LVA}}[[Latvii]]
+| LVA
+| [[Fail:Coat_of_Arms of Latvia.svg|50px]]
+| [[latvijan kel'|latvijan]]
+| style="text-align:right;"| 64.589
+| style="text-align:right;"| 2.025.000
+| style="text-align:right;"| 31,4
+| [[Rig]]
 |-
-| [[File:Flag of Azerbaijan.svg|150px]] || [[File:Coat_of_arms_of_Azerbaijan.svg|150px]] || [[Azerbaidžan]] || [[Baku]] || [[Azerbaidžanan kel'|azerbaidžanan]]
+| {{LTU}}[[Litvanma]]
+| LTU
+| [[Fail:Coat of Arms of Lithuania.svg|50px]]
+| [[litvan kel'|litvan]]
+| style="text-align:right;"| 65.301
+| style="text-align:right;"| 2.986.000
+| style="text-align:right;"| 45,7
+| [[Vil'nüs]]
 |-
-| [[File:Flag of Austria.svg|150px]] || [[File:Austria_Bundesadler.svg|150px|]] || [[Avstrii]] || [[Ven]] || [[Saksan kel'|saksan]]
+| {{NOR}}[[Norvegii]]
+| NOR
+| [[Fail:Coat of Arms of Norway.svg|50px]]
+| [[norvegijan kel'|norvegijan]]
+| style="text-align:right;"| 323.759
+| style="text-align:right;"| 5.019.000
+| style="text-align:right;"| 15,5
+| [[Oslo]]
 |-
-| [[File:Flag of Belgium.svg|150px]] || [[File:State Coat of Arms of Belgium.svg|150px]] || [[Bel'gii]] ||  [[Brüssel']] || [[Alaman kel'|alaman]], [[Francijan kel'|francijan]], [[Saksan kel'|saksan]]
+| {{SWE}}[[Ročinma]]
+| SWE
+| [[Fail:Greater coat of arms of Sweden.svg|50px]]
+| [[ročin kel'|ročin]]
+| style="text-align:right;"| 449.964
+| style="text-align:right;"| 9.517.000
+| style="text-align:right;"| 21,2
+| [[Stokhol'm]]
 |-
-| [[File:Flag of Bulgaria.svg|150px]] || [[File:Coat of arms of Bulgaria.svg|150px]] || [[Bolgarii]] ||  [[Sofii]] || [[Bolgarijan kel'|bolgarijan]]
+| {{FIN}}[[Suomenma]]
+| FIN
+| [[Fail:Coat of arms of Finland.svg|50px]]
+| [[suomen kel'|suomen]], [[ročin kel'|ročin]]
+| style="text-align:right;"| 338.144
+| style="text-align:right;"| 5.414.000
+| style="text-align:right;"| 16,0
+| [[Hel'sinki]]
 |-
-| [[File:Flag of Bosnia and Herzegovina.svg|150px]] || [[File:Coat of arms of Bosnia and Herzegovina.svg|150px]] || [[Bosnii da Gercegovin|Bosnii da Gercegovin]] ||  [[Sarajevo|Sarajevo]] || [[Bosnijan kel'|bosnijan]], [[Serbijan kel'|serbijan]], [[Horvatan kel'|horvatan]]
+| colspan=8 style="background:#eee;" | '''[[Päivnouzmaine Evrop]]:'''
 |-
-| [[File:Flag_of_the_Czech_Republic.svg|150px]] || [[File:Coat_of_arms_of_the_Czech_Republic.svg|150px]] || [[Čehanma]] || [[Prag]] || [[Čehan kel'|čehan]]
+| {{BGR}}[[Bolgarii]]
+| BGR
+| [[Fail:Coat of arms of Bulgaria.svg|50px]]
+| [[bolgarijan kel'|bolgarijan]]
+| style="text-align:right;"| 110.994
+| style="text-align:right;"| 7.305.000
+| style="text-align:right;"| 65,8
+| [[Sofii]]
 |-
-| [[File:Flag of Denmark.svg|150px]] ||[[File:COA of Denmark.svg|105px]] || [[Danii]] ||  [[Kopenhagen]] || [[Danijan kel'|danijan]]
+| {{CZE}}[[Čehanma]]
+| CZE
+| [[Fail:Coat_of_arms_of_the_Czech_Republic.svg|50px]]
+| [[čehan kel'|čehan]]
+| style="text-align:right;"| 78.866
+| style="text-align:right;"| 10.515.000
+| style="text-align:right;"| 133,3
+| [[Prag]]
 |-
-| [[File:Flag of Estonia.svg|150px]] || [[File:Coat of arms of Estonia.svg|150px]] || [[Estinma]] || [[Tallidn]] || [[Estin kel'|estin]]
+| {{HUN}}[[Mad'jaranma]]
+| HUN
+| [[Fail:Coat of Arms of Hungary.svg|50px]]
+| [[mad'jaran kel'|mad'jaran]]
+| style="text-align:right;"| 93.030
+| style="text-align:right;"| 9.944.000
+| style="text-align:right;"| 106,9
+| [[Budapešt]]
 |-
-| [[File:Flag of France.svg|150px]] || [[File:Armoiries_république_française.svg|150px]] || [[Francii]] || [[Pariž]] || [[Francijan kel'|francijan]]
+| {{MDA}}[[Moldov]]
+| MDA
+| [[Fail:Coat of arms of Moldova.svg|50px]]
+| [[romanijan kel'|romanijan]]
+| style="text-align:right;"| 33.800
+| style="text-align:right;"| 3.560.000
+| style="text-align:right;"| 105,3
+| [[Kišinöv]]
 |-
-| [[File:Flag of Greece.svg|150px]] || [[File:Coat of arms of Greece.svg|150px]] || [[Grekanma]] || [[Afinad]] || [[Grekan kel'|grekan]]
+| {{POL}}[[Pol'šanma]]
+| POL
+| [[Fail:Herb_Polski.svg|50px]]
+| [[pol'šan kel'|pol'šan]]
+| style="text-align:right;"| 312.685
+| style="text-align:right;"| 38.543.000
+| style="text-align:right;"| 123,3
+| [[Varšav]]
 |-
-| [[File:Flag of Georgia.svg|150px]] || [[File:Greater coat of arms of Georgia.svg|150px]] || [[Gruzii]] || [[Tbilis]] || [[Gruzijan kel'|gruzijan]]
+| {{ROU}}[[Romanii]]
+| ROU
+| [[Fail:Coat of arms of Romania.svg|50px]]
+| [[romanijan kel'|romanijan]]
+| style="text-align:right;"| 238.391
+| style="text-align:right;"| 21.327.000
+| style="text-align:right;"| 89,5
+| [[Buharest]]
 |-
-| [[File:Flag of Croatia.svg|150px]] || [[File:Coat of arms of Croatia.svg|150px]] || [[Horvatii]] || [[Zagreb]] || [[Horvatan kel'|horvatan]]
+| {{SVK}}[[Slovakii]]
+| SVK
+| [[Fail:Coat of Arms of Slovakia.svg|50px]]
+| [[slovakijan kel'|slovakijan]]
+| style="text-align:right;"| 49.034
+| style="text-align:right;"| 5.410.000
+| style="text-align:right;"| 110,3
+| [[Bratislav]]
 |-
-| [[File:Flag of Ireland.svg|150px]] || [[File:Coat of arms of Ireland.svg|150px]] || [[Irlandii]] || [[Dublin]] || [[Irlandijan kel'|irlandijan]], [[Anglijan kel'|anglijan]]
+| {{UKR}}[[Ukrain]]<ref>[[Krim]]anke (vn 2012 andmused).</ref>
+| UKR
+| [[Fail:Lesser Coat of Arms of Ukraine.svg|50px]]
+| [[ukrainan kel'|ukrainan]]
+| style="text-align:right;"| 603.700
+| style="text-align:right;"| 45.593.000
+| style="text-align:right;"| 75,5
+| [[Kijev]]
 |-
-| [[File:Flag of Iceland.svg|150px]] || [[File:Coat of arms of Iceland.svg|150px]] || [[Islandii]] || [[Reikjavik]] || [[Islandijan kel'|islandijan]]
+| {{BLR}}[[Vaugedvenäma]]
+| BLR
+| [[Fail:Coat of arms of Belarus.svg|50px]]
+| [[vaugedvenäkel']], [[venäkel']]
+| style="text-align:right;"| 207.595
+| style="text-align:right;"| 9.464.000
+| style="text-align:right;"| 45,6
+| [[Minsk]]
 |-
-| [[File:Flag of Spain.svg|150px]] || [[File:Escudo de España (mazonado).svg|150px]] || [[Ispanii]] || [[Madrid]] || [[Ispanijan kel'|ispanijan]]
+| {{RUS}}[[Venäma]]<ref name="evropanpala">Vaiše Evropan palan andmused.</ref>
+| RUS
+| [[Fail:Coat_of_Arms_of_the_Russian_Federation.svg|50px]]
+| [[venäkel']]
+| style="text-align:right;"| 3.955.800
+| style="text-align:right;"| 104.000.000
+| style="text-align:right;"| 26,3
+| [[Moskv]]
 |-
-| [[File:Flag of Italy.svg|150px]] || [[File:Italy-Emblem.svg|150px]] || [[Italii]] || [[Rim]] || [[Italijan kel'|italijan]]
+| colspan=8 style="background:#eee;" | '''[[Suvievrop]]:'''
 |-
-| [[File:Flag of Kazakhstan.svg|150px]] || [[File:Coat of arms of Kazakhstan.svg|150px]] || [[Kazahstan]] || [[Astan]] || [[Kazahan kel'|kazahan]], [[Venäkel'|venäkel']]
+| {{ALB}}[[Albanii]]
+| ALB
+| [[Fail:Albania state emblem.svg.svg|50px]]
+| [[albanijan kel'|albanijan]]
+| style="text-align:right;"| 28.748
+| style="text-align:right;"| 3.162.000
+| style="text-align:right;"| 110,0
+| [[Tiran]]
 |-
-| [[File:Flag of Cyprus.svg|150px]] || [[File:Coat_of_arms_of_Cyprus.svg|150px]] || [[Kipr|Kipr]] || [[Nikosii|Nikosii]] || [[Grekan kel'|grekan]], [[Turkan kel'|turkan]]
+| {{AND}}[[Andorr]]
+| AND
+| [[Fail:Coat_of_arms_of_Andorra.svg|50px]]
+| [[katalanan kel'|katalanan]], [[ispanijan kel'|ispanijan]],<br/>[[francijan kel'|francijan]]
+| style="text-align:right;"| 468
+| style="text-align:right;"| 78.000
+| style="text-align:right;"| 166,7
+| [[Andorr la Vel'j]]
 |-
-| [[File:Flag of Latvia.svg|150px]] || [[File:Coat_of_Arms of Latvia.svg|150px]] || [[Latvii]] || [[Rig]] || [[Latvijan kel'|latvijan]]
+| {{BIH}}[[Bosnii da Gercegovin]]
+| BIH
+| [[Fail:Coat of arms of Bosnia and Herzegovina.svg|50px]]
+| [[bosnijan kel'|bosnijan]], [[serbijan kel'|serbijan]], [[horvatan kel'|horvatan]]
+| style="text-align:right;"| 51.129
+| style="text-align:right;"| 3.834.000
+| style="text-align:right;"| 66,2
+| [[Sarajevo]]
 |-
-| [[File:Flag of Lithuania.svg|150px]] || [[File:Coat of Arms of Lithuania.svg|150px]] || [[Litvanma]] || [[Vil'nüs]] || [[Litvan kel'|litvan]]
+| {{GRC}}[[Grekanma]]
+| GRC
+| [[Fail:Coat of arms of Greece.svg|50px]]
+| [[grekan kel'|grekan]]
+| style="text-align:right;"| 131.957
+| style="text-align:right;"| 11.280.000
+| style="text-align:right;"| 85,5
+| [[Afinad]]
 |-
-| [[File:Flag of Liechtenstein.svg|150px]] || [[File:Staatswappen-Liechtensteins.svg|150px]] || [[Lihtenštein]] || [[Vaduc]] || [[Saksan kel'|saksan]]
+| {{HRV}}[[Horvatii]]
+| HRV
+| [[Fail:Coat of arms of Croatia.svg|50px]]
+| [[horvatan kel'|horvatan]]
+| style="text-align:right;"| 56.542
+| style="text-align:right;"| 4.267.000
+| style="text-align:right;"| 75,5
+| [[Zagreb]]
 |-
-| [[File:Flag of Luxembourg.svg|150px]] || [[File:Coat_of_Arms of Luxembourg.svg|150px]] || [[Lüksemburg]] || [[Lüksemburg (lidn)|Lüksemburg]] || [[Lüksemburgan kel'|lüksemburgan]], [[Saksan kel'|saksan]], [[Francijan kel'|francijan]]
+| {{ESP}}[[Ispanii]]
+| ESP
+| [[Fail:Escudo de España (mazonado).svg|50px]]
+| [[ispanijan kel'|ispanijan]]
+| style="text-align:right;"| 504.645
+| style="text-align:right;"| 46.218.000
+| style="text-align:right;"| 91,6
+| [[Madrid]]
 |-
-| [[File:Flag of Hungary.svg|150px]] || [[File:Coat of Arms of Hungary.svg|100px]] || [[Mad'jaranma]] || [[Budapešt]] || [[Mad'jaran kel'|mad'jaran]]
+| {{ITA}}[[Italii]]
+| ITA
+| [[Fail:Italy-Emblem.svg|50px]]
+| [[italijan kel'|italijan]]
+| style="text-align:right;"| 301.336
+| style="text-align:right;"| 60.918.000
+| style="text-align:right;"| 202,2
+| [[Rim]]
 |-
-| [[File:Flag of Macedonia.svg|150px]] || [[File:Coat of arms of the Republic of Macedonia.svg|150px]] || [[Makedonii]] || [[Skopje]] || [[Makedonijan kel'|makedonijan]]
+| {{MKD}}[[Makedonii]]
+| MKD
+| [[Fail:Coat of arms of the Republic of Macedonia.svg|50px]]
+| [[makedonijan kel'|makedonijan]]
+| style="text-align:right;"| 25.713
+| style="text-align:right;"| 2.106.000
+| style="text-align:right;"| 81,9
+| [[Skopje]]
 |-
-| [[File:Flag of Malta.svg|150px]] || [[File:Coat_of_arms_of_Malta.svg|150px]] || [[Mal't]] || [[Vallett]] || [[Mal'tan kel'|mal'tan]], [[Anglijan kel'|anglijan]]
+| {{MLT}}[[Mal't]]
+| MLT
+| [[Fail:Coat_of_arms_of_Malta.svg|50px]]
+| [[mal'tan kel'|mal'tan]], [[anglijan kel'|anglijan]]
+| style="text-align:right;"| 316
+| style="text-align:right;"| 418.000
+| style="text-align:right;"| 1322,8
+| [[Vallett]]
 |-
-| [[File:Flag of Moldova.svg|150px]] || [[File:Coat of arms of Moldova.svg|150px]] || [[Moldov]] || [[Kišinöv]] || [[Romanijan kel'|romanijan]]
+| {{MNE}}[[Mustmägi]]
+| MNE
+| [[Fail:Coat of arms of Montenegro.svg|50px]]
+| [[mustmägin kel'|mustmägin]]
+| style="text-align:right;"| 13.812
+| style="text-align:right;"| 621.000
+| style="text-align:right;"| 45,0
+| [[Podgoric]]
 |-
-| [[File:Flag of Monaco.svg|150px]] || [[File:Coat of Arms of Monaco.svg|150px]] || [[Monak]] || [[Monak]] || [[Francijan kel'|francijan]]
+| {{PRT}}[[Portugalii]]
+| PRT
+| [[Fail:Coat of arms of Portugal.svg|50px]]
+| [[portugalijan kel'|portugalijan]]
+| style="text-align:right;"| 92.345
+| style="text-align:right;"| 10.524.000
+| style="text-align:right;"| 114,0
+| [[Lissabon]]
 |-
-| [[File:Flag of Montenegro.svg|150px]] || [[File:Coat of arms of Montenegro.svg|150px]] || [[Mustmägi]] || [[Cetine]] || [[Mustmägin kel'|mustmägin]]
+| {{SMR}}[[San Marino]]
+| SMR
+| [[Fail:Coat of arms of San Marino.svg|50px]]
+| [[italijan kel'|italijan]]
+| style="text-align:right;"| 61
+| style="text-align:right;"| 31.000
+| style="text-align:right;"| 508,2
+| [[San Marino (lidn)|San Marino]]
 |-
-| [[File:Flag of Norway.svg|150px]] || [[File:Coat of Arms of Norway.svg|150px]] || [[Norvegii]] || [[Oslo]] || [[Norvegijan kel'|norvegijan]]
+| {{SRB}}[[Serbii]]<ref>Andmused [[Kosovo|Kosovota da Metohijata]].</ref>
+| SRB
+| [[Fail:Coat of arms of Serbia.svg|50px]]
+| [[serbijan kel'|serbijan]]
+| style="text-align:right;"| 77.474
+| style="text-align:right;"| 7.224.000
+| style="text-align:right;"| 93,2
+| [[Belgrad]]
 |-
-| [[File:Flag of Poland.svg|150px]] || [[File:Herb_Polski.svg|150px]] || [[Pol'šanma]] || [[Varšav]] || [[Pol'šan kel'|pol'šan]]
+| {{SVN}}[[Slovenii]]
+| SVN
+| [[Fail:Coat of Arms of Slovenia.svg|50px]]
+| [[slovenijan kel'|slovenijan]]
+| style="text-align:right;"| 20.253
+| style="text-align:right;"| 2.058.000
+| style="text-align:right;"| 101,6
+| [[Lüblän]]
 |-
-| [[File:Flag of Portugal.svg|150px]] || [[File:Coat of arms of Portugal.svg|150px]] || [[Portugalii]] || [[Lissabon]] || [[Portugalijan kel'|portugalijan]]
+| {{VAT}}[[Vatikan]]
+| VAT
+| [[Fail:Vatican City CoA.svg|50px]]
+| [[italijan kel'|italijan]], [[latinan kel'|latinan]]
+| style="text-align:right;"| 0.44
+| style="text-align:right;"| 800
+| style="text-align:right;"| 1818,2
+| [[Vatikan]]
 |-
-| [[File:Flag of Sweden.svg|150px]] || [[File:Greater coat of arms of Sweden.svg|150px]] || [[Ročinma]] || [[Stokhol'm]] || [[Ročin kel'|ročin]]
+| colspan=8 style="background:#eee;" | '''[[Päivlaskmaine Evrop]]:'''
 |-
-| [[File:Flag of Romania.svg|150px]] || [[File:Coat of arms of Romania.svg|150px]] || [[Romanii]] || [[Buharest]] || [[Romanijan kel'|romanijan]]
+| {{NLD}}[[Alamad]]
+| NLD
+| [[Fail:Royal Coat of Arms of the Netherlands.svg|50px]]
+| [[alaman kel'|alaman]]
+| style="text-align:right;"| 41.526
+| style="text-align:right;"| 16.768.000
+| style="text-align:right;"| 403,8
+| [[Amsterdam]]
 |-
-| [[File:Flag of Germany.svg|150px]] || [[File:Coat_of_Arms_of_Germany.svg|150px]] || [[Saksanma]] || [[Berlin]] || [[Saksan kel'|saksan]]
+| {{AUT}}[[Avstrii]]
+| AUT
+| [[Fail:Austria_Bundesadler.svg|50px]]
+| [[saksan kel'|saksan]]
+| style="text-align:right;"| 83.879
+| style="text-align:right;"| 8.462.000
+| style="text-align:right;"| 100,9
+| [[Ven]]
 |-
-| [[File:Flag of San Marino.svg|150px]] || [[File:Coat of arms of San Marino.svg|150px]] || [[San Marino]] || [[San Marino (lidn)|San Marino]] || [[Italijan kel'|italijan]]
+| {{BEL}}[[Bel'gii]]
+| BEL
+| [[Fail:State Coat of Arms of Belgium.svg|50px]]
+| [[alaman kel'|alaman]], [[francijan kel'|francijan]], [[saksan kel'|saksan]]
+| style="text-align:right;"| 32.545
+| style="text-align:right;"| 11.142.000
+| style="text-align:right;"| 342,4
+| [[Brüssel']]
 |-
-| [[File:Flag of Serbia.svg|150px]] || [[File:Coat of arms of Serbia.svg|150px]] || [[Serbii]] || [[Belgrad]] || [[Serbijan kel'|serbijan]]
+| {{FRA}}[[Francii]]
+| FRA
+| [[Fail:Armoiries_république_française.svg|50px]]
+| [[francijan kel'|francijan]]
+| style="text-align:right;"| 543.965
+| style="text-align:right;"| 65.697.000
+| style="text-align:right;"| 120,8
+| [[Pariž]]
 |-
-| [[File:Flag of Slovakia.svg|150px]] || [[File:Coat of Arms of Slovakia.svg|150px]] || [[Slovakii]] || [[Bratislav]] || [[Slovakijan kel'|slovakijan]]
+| {{IRL}}[[Irlandii]]
+| IRL
+| [[Fail:Coat of arms of Ireland.svg|50px]]
+| [[irlandijan kel'|irlandijan]], [[anglijan kel'|anglijan]]
+| style="text-align:right;"| 70.273
+| style="text-align:right;"| 4.589.000
+| style="text-align:right;"| 65,3
+| [[Dublin]]
 |-
-| [[File:Flag of Slovenia.svg|150px]] || [[File:Coat of Arms of Slovenia.svg|150px]] || [[Slovenii]] || [[Lübläna]] || [[Slovenijan kel'|slovenijan]]
+| {{LIE}}[[Lihtenštein]]
+| LIE
+| [[Fail:Staatswappen-Liechtensteins.svg|50px]]
+| [[saksan kel'|saksan]]
+| style="text-align:right;"| 160
+| style="text-align:right;"| 37.000
+| style="text-align:right;"| 231,2
+| [[Vaduc]]
 |-
-| [[File:Flag of Finland.svg|150px]] || [[File:Coat of arms of Finland.svg|150px]] || [[Suomenma]] || [[Hel'sinki]] || [[Suomen kel'|suomen]], [[Ročin kel'|ročin]]
+| {{LUX}}[[Lüksemburg]]
+| LUX
+| [[Fail:Coat_of_Arms of Luxembourg.svg|50px]]
+| [[lüksemburgan kel'|lüksemburgan]], [[saksan kel'|saksan]], [[francijan kel'|francijan]]
+| style="text-align:right;"| 2.586
+| style="text-align:right;"| 531.000
+| style="text-align:right;"| 205,3
+| [[Lüksemburg (lidn)|Lüksemburg]]
 |-
-| [[File:Flag of United Kingdom.svg|150px]] || [[File:UK_Royal_Coat_of_Arms.svg|150px]] || [[Sur' Britanii]] || [[London]] || [[Anglijan kel'|anglijan]]
+| {{MCO}}[[Monako]]
+| MCO
+| [[Fail:Coat of Arms of Monaco.svg|50px]]
+| [[francijan kel'|francijan]]
+| style="text-align:right;"| 2
+| style="text-align:right;"| 38.000
+| style="text-align:right;"| 19000,0
+| [[Monako (lidn)|Monako]]
 |-
-| [[File:Flag of Switzerland.svg|150px]] || [[File:Coat of Arms of Switzerland (Pantone).svg|150px]] || [[Šveicarii]] || [[Bern]] || [[Saksan kel'|saksan]], [[Francijan kel'|francijan]], [[Italijan kel'|italijan]], [[Retoromanan kel'|retoromanan]]
+| {{DEU}}[[Saksanma]]
+| DEU
+| [[Fail:Coat_of_Arms_of_Germany.svg|50px]]
+| [[saksan kel'|saksan]]
+| style="text-align:right;"| 357.121
+| style="text-align:right;"| 81.890.000
+| style="text-align:right;"| 229,3
+| [[Berlin]]
 |-
-| [[File:Flag of Turkey.svg|150px]] || [[File:Türkiye arması.svg|150px]] || [[Turcii]] || [[Ankar]] || [[Turkan kel'|turkan]]
+| {{GBR}}[[Sur' Britanii]]
+| GBR
+| [[Fail:UK_Royal_Coat_of_Arms.svg|50px]]
+| [[anglijan kel'|anglijan]]
+| style="text-align:right;"| 242.910
+| style="text-align:right;"| 63.228.000
+| style="text-align:right;"| 260,3
+| [[London]]
 |-
-| [[File:Flag of Ukraine.svg|150px]] || [[File:Lesser Coat of Arms of Ukraine.svg|150px]] || [[Ukrain]] || [[Kijev]] || [[Ukrainan kel'|ukrainan]]
+| {{CHE}}[[Šveicarii]]
+| CHE
+| [[Fail:Coat of Arms of Switzerland (Pantone).svg|50px]]
+| [[saksan kel'|saksan]], [[francijan kel'|francijan]],<br/>[[italijan kel'|italijan]], [[retoromanan kel'|retoromanan]]
+| style="text-align:right;"| 41.285
+| style="text-align:right;"| 8.139.600
+| style="text-align:right;"| 197,2
+| [[Bern]]
 |-
-| [[File:Flag of the Vatican City.svg|150px]] || [[File:Vatican City CoA.svg|150px]] || [[Vatikan]] || [[Vatikan]] || [[Italijan kel'|italijan]], [[Latinan kel'|latinan]]
+| colspan=8 style="background:#eee;" | '''Toižed (Evropas paloin):'''
 |-
-| [[File:Flag of Belarus.svg|150px]] || [[File:Coat of arms of Belarus.svg|150px]] || [[Vaugedvenäma]] || [[Minsk]] || [[Vaugedvenäkel'|vaugedvenäkel']], [[Venäkel'|venäkel']]
+| {{TUR}}[[Turkanma]]<ref name="evropanpala"/>
+| TUR
+| [[Fail:Türkiye arması.svg|50px]]
+| [[turkan kel'|turkan]]
+| style="text-align:right;"| 23.384
+| style="text-align:right;"| 9.799.745
+| style="text-align:right;"| 419,1
+| [[Ankar]]
 |-
-| [[File:Flag of Russia.svg|150px]] || [[File:Coat_of_Arms_of_the_Russian_Federation.svg|150px]] || [[Venäma]] || [[Moskv]] || [[Venäkel'|venäkel']]
+| {{KAZ}}[[Kazahstan]]<ref name="evropanpala"/>
+| KAZ
+| [[Fail:Coat of arms of Kazakhstan.svg|50px]]
+| [[kazahan kel'|kazahan]], [[venäkel']]
+| style="text-align:right;"| 146.700
+| style="text-align:right;"| 480.000
+| style="text-align:right;"| 3,3
+| [[Astan]]
+|- style="font-weight:bold;"
+| Kaik
+| 
+| 
+| 
+| style="text-align:right;"| 10.008.113
+| style="text-align:right;"| 711.412.145
+| style="text-align:right;"| 71,08
+|
 |}
 
 == Kacu mugažo ==
 * [[Azijan valdkundad]]
 * [[Mail'man valdkundad]]
 
-[[Kategorii:Evropan valdkundad|*]]
+== Homaičendad ==
+<references />
 
-[[he:אירופה#מדינות באירופה]]
+{{stub}}
+
+[[Kategorii:Evropan valdkundad| ]]
