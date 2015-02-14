@@ -1,6 +1,6 @@
 '''[[Pohjoižamerik]]as''' om 23 ripmatomad valdkundad.
 
-{class="wikitable sortable"| border="1" cellpadding="4" cellspacing="0" style="border:1px solid #aaa; border-collapse:collapse;"
+{| border="1" cellpadding="4" cellspacing="0" style="border:1px solid #aaa; border-collapse:collapse;"
 |- style="background:#ececec;"
 ! [[Valdkund]]
 ! Lühendused<br />[[ISO 3166-1]]<br />mödhe
@@ -11,7 +11,7 @@
 ! [[Pälidn]]
 ! Region
 |-
-| {{USA}}[[Amerikan Ühtenzoittud Valdkundad]]
+| {{USA}}
 | USA
 | [[anglijan kel'|anglijan]]
 | style="text-align:right;"| 9.826.675
@@ -65,7 +65,7 @@
 | [[Rozo]]
 | [[Kariban sared]] 
 |-
-| {{DOM}}[[Dominikanine Tazovaldkund]]
+| {{DOM}}
 | DOM
 | [[ispanijan kel'|ispanijan]]
 | style="text-align:right;"| 48.670
@@ -118,7 +118,7 @@
 | style="text-align:right;"| 262,9
 | [[Kingston (Jamaik)|Kingston]]
 | [[Kariban sared]]
-| -
+|-
 | {{CAN}}[[Kanad]]
 | CAN
 | [[anglijan kel'|anglijan]], [[francijan kel'|francijan]]
@@ -128,7 +128,7 @@
 | [[Ottav]]
 | [[Pohjoižamerik (region)|Pohjoižamerik]]
 |-
-| {{CRI}}[[Kostarik]]
+| {{CRI}}
 | CRI
 | [[ispanijan kel'|ispanijan]]
 | style="text-align:right;"| 51.100
@@ -146,7 +146,7 @@
 | [[Havan]]
 | [[Kariban sared]]
 |-
-| {{MEX}}[[Meksik]]
+| {{MEX}}
 | MEX
 | [[ispanijan kel'|ispanijan]]
 | style="text-align:right;"| 1.964.375
@@ -164,7 +164,7 @@
 | [[Managua]]
 | [[Keskuzamerik]]
 |-
-| {{PAN}}[[Panam]]
+| {{PAN}}
 | PAN
 | [[ispanijan kel'|ispanijan]]
 | style="text-align:right;"| 75.420
@@ -235,7 +235,5 @@
 <references />
 
 {{Šablon:Valdkundoiden nimikirjutesed kontinentan mödhe}}
-
-{{stub}}
 
 [[Kategorii:Pohjoižamerikan valdkundad| ]]
