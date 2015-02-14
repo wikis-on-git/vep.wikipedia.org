@@ -1,6 +1,6 @@
 '''[[Pohjoižamerik]]as''' om 23 ripmatomad valdkundad.
 
-{| border="1" cellpadding="4" cellspacing="0" style="border:1px solid #aaa; border-collapse:collapse;"
+{| class="wikitable sortable" border="1" cellpadding="4" cellspacing="0" style="border:1px solid #aaa; border-collapse:collapse;"
 |- style="background:#ececec;"
 ! [[Valdkund]]
 ! Lühendused<br />[[ISO 3166-1]]<br />mödhe
@@ -14,8 +14,8 @@
 | {{USA}}
 | USA
 | [[anglijan kel'|anglijan]]
-| style="text-align:right;"| 9.826.675
-| style="text-align:right;"| 313.847.465
+| style="text-align:right;"| {{formatnum:9826675}}
+| style="text-align:right;"| {{formatnum:313847465}}
 | style="text-align:right;"| 31,9
 | [[Vašington (lidn)|Vašington]]
 | [[Pohjoižamerik (region)|Pohjoižamerik]]
@@ -23,8 +23,8 @@
 | {{ATG}}[[Antigua da Barbud]]
 | ATG
 | [[anglijan kel'|anglijan]]
-| style="text-align:right;"| 442
-| style="text-align:right;"| 89.018
+| style="text-align:right;"| {{formatnum:442}}
+| style="text-align:right;"| {{formatnum:89018}}
 | style="text-align:right;"| 201,4
 | [[Sent Džons]]
 | [[Kariban sared]]
@@ -32,8 +32,8 @@
 | {{BHS}}[[Bagaman Sared]]
 | BHS
 | [[anglijan kel'|anglijan]]
-| style="text-align:right;"| 13.880
-| style="text-align:right;"| 316.182
+| style="text-align:right;"| {{formatnum:13880}}
+| style="text-align:right;"| {{formatnum:316182}}
 | style="text-align:right;"| 22,8
 | [[Nassau]]
 | [[Kariban sared]]
@@ -41,8 +41,8 @@
 | {{BRB}}[[Barbados]]
 | BRB
 | [[anglijan kel'|anglijan]]
-| style="text-align:right;"| 430
-| style="text-align:right;"| 287.733
+| style="text-align:right;"| {{formatnum:430}}
+| style="text-align:right;"| {{formatnum:287733}}
 | style="text-align:right;"| 669,1
 | [[Bridžtaun]]
 | [[Kariban sared]]
@@ -50,8 +50,8 @@
 | {{BLZ}}[[Beliz]]
 | BLZ
 | [[anglijan kel'|anglijan]]
-| style="text-align:right;"| 22.966
-| style="text-align:right;"| 327.719
+| style="text-align:right;"| {{formatnum:22966}}
+| style="text-align:right;"| {{formatnum:327719}}
 | style="text-align:right;"| 14,3
 | [[Bel'mopan]]
 | [[Keskuzamerik]]
@@ -59,8 +59,8 @@
 | {{DMA}}[[Dominik]]
 | DMA
 | [[anglijan kel'|anglijan]]
-| style="text-align:right;"| 751
-| style="text-align:right;"| 73.126
+| style="text-align:right;"| {{formatnum:751}}
+| style="text-align:right;"| {{formatnum:73126}}
 | style="text-align:right;"| 97,4
 | [[Rozo]]
 | [[Kariban sared]] 
@@ -68,8 +68,8 @@
 | {{DOM}}
 | DOM
 | [[ispanijan kel'|ispanijan]]
-| style="text-align:right;"| 48.670
-| style="text-align:right;"| 10.088.598
+| style="text-align:right;"| {{formatnum:48670}}
+| style="text-align:right;"| {{formatnum:10088598}}
 | style="text-align:right;"| 207,3
 | [[Santo Domingo]]
 | [[Kariban sared]]
@@ -77,8 +77,8 @@
 | {{HND}}[[Gonduras]]
 | HND
 | [[ispanijan kel'|ispanijan]]
-| style="text-align:right;"| 112.090
-| style="text-align:right;"| 8.296.693
+| style="text-align:right;"| {{formatnum:112090}}
+| style="text-align:right;"| {{formatnum:8296693}}
 | style="text-align:right;"| 74,0
 | [[Tegusigal'p]]
 | [[Keskuzamerik]]
@@ -86,8 +86,8 @@
 | {{GRD}}[[Grenad]]
 | GRD
 | [[anglijan kel'|anglijan]]
-| style="text-align:right;"| 344
-| style="text-align:right;"| 109.011
+| style="text-align:right;"| {{formatnum:344}}
+| style="text-align:right;"| {{formatnum:109011}}
 | style="text-align:right;"| 316,9
 | [[Sent Džordžes]]
 | [[Kariban sared]]
@@ -95,8 +95,8 @@
 | {{GTM}}[[Gvatemal]]
 | GTM
 | [[ispanijan kel'|ispanijan]]
-| style="text-align:right;"| 108.889
-| style="text-align:right;"| 14.099.032
+| style="text-align:right;"| {{formatnum:108889}}
+| style="text-align:right;"| {{formatnum:14099032}}
 | style="text-align:right;"| 129,5
 | [[Gvatemal (lidn)|Gvatemal-lidn]]
 | [[Keskuzamerik]]
@@ -104,8 +104,8 @@
 | {{HTI}}[[Haiti]]
 | HTI
 | [[haitin kel']], [[francijan kel'|francijan]]
-| style="text-align:right;"| 27.750
-| style="text-align:right;"| 9.801.664
+| style="text-align:right;"| {{formatnum:27750}}
+| style="text-align:right;"| {{formatnum:9801664}}
 | style="text-align:right;"| 353,2
 | [[Port-o-Prens]]
 | [[Kariban sared]]
@@ -113,8 +113,8 @@
 | {{JAM}}[[Jamaik]]
 | JAM
 | [[anglijan kel'|anglijan]]
-| style="text-align:right;"| 10.991
-| style="text-align:right;"| 2.889.187
+| style="text-align:right;"| {{formatnum:10991}}
+| style="text-align:right;"| {{formatnum:2889187}}
 | style="text-align:right;"| 262,9
 | [[Kingston (Jamaik)|Kingston]]
 | [[Kariban sared]]
@@ -122,8 +122,8 @@
 | {{CAN}}
 | CAN
 | [[anglijan kel'|anglijan]], [[francijan kel'|francijan]]
-| style="text-align:right;"| 9.984.670
-| style="text-align:right;"| 34.300.083
+| style="text-align:right;"| {{formatnum:9984670}}
+| style="text-align:right;"| {{formatnum:34300083}}
 | style="text-align:right;"| 3,4
 | [[Ottav]]
 | [[Pohjoižamerik (region)|Pohjoižamerik]]
@@ -131,8 +131,8 @@
 | {{CRI}}
 | CRI
 | [[ispanijan kel'|ispanijan]]
-| style="text-align:right;"| 51.100
-| style="text-align:right;"| 4.636.348
+| style="text-align:right;"| {{formatnum:51100}}
+| style="text-align:right;"| {{formatnum:4636348}}
 | style="text-align:right;"| 90,7
 | [[San Hose (Kostarik)|San Hose]]
 | [[Keskuzamerik]]
@@ -140,8 +140,8 @@
 | {{CUB}}[[Kuba]]
 | CUB
 | [[ispanijan kel'|ispanijan]]
-| style="text-align:right;"| 110.860
-| style="text-align:right;"| 11.075.244
+| style="text-align:right;"| {{formatnum:110860}}
+| style="text-align:right;"| {{formatnum:11075244}}
 | style="text-align:right;"| 99,9
 | [[Havan]]
 | [[Kariban sared]]
@@ -149,8 +149,8 @@
 | {{MEX}}
 | MEX
 | [[ispanijan kel'|ispanijan]]
-| style="text-align:right;"| 1.964.375
-| style="text-align:right;"| 114.975.406
+| style="text-align:right;"| {{formatnum:1964375}}
+| style="text-align:right;"| {{formatnum:114975406}}
 | style="text-align:right;"| 58,5
 | [[Mehiko]]
 | [[Pohjoižamerik (region)|Pohjoižamerik]],<br />[[Keskuzamerik]]
@@ -158,8 +158,8 @@
 | {{NIC}}[[Nikaragua]]
 | NIC
 | [[ispanijan kel'|ispanijan]]
-| style="text-align:right;"| 130.370
-| style="text-align:right;"| 5.727.707
+| style="text-align:right;"| {{formatnum:130370}}
+| style="text-align:right;"| {{formatnum:5727707}}
 | style="text-align:right;"| 43,9
 | [[Managua]]
 | [[Keskuzamerik]]
@@ -167,8 +167,8 @@
 | {{PAN}}
 | PAN
 | [[ispanijan kel'|ispanijan]]
-| style="text-align:right;"| 75.420
-| style="text-align:right;"| 3.510.045
+| style="text-align:right;"| {{formatnum:75420}}
+| style="text-align:right;"| {{formatnum:3510045}}
 | style="text-align:right;"| 46,5
 | [[Panam (lidn)|Panam-lidn]]
 | [[Keskuzamerik]]
@@ -176,8 +176,8 @@
 | {{SLV}}[[Sal'vador]]
 | SLV
 | [[ispanijan kel'|ispanijan]]
-| style="text-align:right;"| 21.041
-| style="text-align:right;"| 6.090.646
+| style="text-align:right;"| {{formatnum:21041}}
+| style="text-align:right;"| {{formatnum:6090646}}
 | style="text-align:right;"| 289,5
 | [[San Sal'vador]]
 | [[Keskuzamerik]]
@@ -185,8 +185,8 @@
 | {{KNA}}[[Sent Kits da Nevis]]
 | KNA
 | [[anglijan kel'|anglijan]]
-| style="text-align:right;"| 261
-| style="text-align:right;"| 50.726
+| style="text-align:right;"| {{formatnum:261}}
+| style="text-align:right;"| {{formatnum:50726}}
 | style="text-align:right;"| 194,3
 | [[Baster]]
 | [[Kariban sared]]
@@ -194,8 +194,8 @@
 | {{LCA}}[[Sent Lüsii]]
 | LCA
 | [[anglijan kel'|anglijan]]
-| style="text-align:right;"| 616
-| style="text-align:right;"| 162.178
+| style="text-align:right;"| {{formatnum:616}}
+| style="text-align:right;"| {{formatnum:162178}}
 | style="text-align:right;"| 263,3
 | [[Kastri]]
 | [[Kariban sared]]
@@ -203,8 +203,8 @@
 | {{VCT}}[[Sent Vinsent da Grenadinad]]
 | VCT
 | [[anglijan kel'|anglijan]]
-| style="text-align:right;"| 389
-| style="text-align:right;"| 103.537
+| style="text-align:right;"| {{formatnum:389}}
+| style="text-align:right;"| {{formatnum:103537}}
 | style="text-align:right;"| 266,2
 | [[Kingstaun]]
 | [[Kariban sared]]
@@ -212,8 +212,8 @@
 | {{TTO}}[[Trinidad da Tobago]]
 | TTO
 | [[anglijan kel'|anglijan]]
-| style="text-align:right;"| 5.128
-| style="text-align:right;"| 1.226.383
+| style="text-align:right;"| {{formatnum:5128}}
+| style="text-align:right;"| {{formatnum:1226383}}
 | style="text-align:right;"| 239,1
 | [[Port of Spein]]
 | [[Kariban sared]]
@@ -221,8 +221,8 @@
 | Kaik
 |
 |
-| style="text-align:right;"| 22.518.108
-| style="text-align:right;"| 542.083.731
+| style="text-align:right;"| {{formatnum:22518108}}
+| style="text-align:right;"| {{formatnum:542083731}}
 | style="text-align:right;"| 24,1
 |
 |
