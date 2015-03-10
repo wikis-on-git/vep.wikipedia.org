@@ -1,38 +1,50 @@
-{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+<big><big>'''Κυπριακή Δημοκρατία'''<br>'''Kıbrıs Cumhuriyeti'''<br>'''Republic of Cyprus'''<br>'''Kipran Tazovaldkund'''</big></big>
-|-
-| style="background:#efefef;" align="center" colspan=2 |
-{| border="0" cellpadding="2" cellspacing="0"
-|-
-| align="center" width="140px" | [[File:Flag_of_Cyprus.svg|border|150px|Kipran flag]]
-| align="center" width="140px" | [[File:Coat_of_arms_of_Cyprus.svg|150px|Kipran znam]]
-|-
-| align="center" width="140px" | Kipran flag
-| align="center" width="140px" | Kipran znam
-|}
-|-
-| align=center colspan=2 | [[File:Cyprus in its region (de-facto).svg|300px]]
-|}
-'''Kipr''' ([[grekan kel'|grekan kelel]] ''Κύπρος'', [[turkan kel'|turkan kelel]] ''Kıbrıs'', [[anglijan kel'|anglijan kelel]] ''Cyprus'') — valdkund [[Evrop]]as, [[Keskmeri|Keskmeren]] randal. [[EÜ|EÜ]]n ühtnii. Kipral oma mavaldkundröunad [[Sur' Britanii|Sur' Britanijanke]] da [[Pohjoižkipr|Pohjoižkipr]]anke.
-
-Pälidn — [[Nikosii]].</br>
-Eläjiden lugu — 771 657.</br>
-Pind — 9 250 km².</br>
-Ohjandusen form — [[tazovaldkund]].
+{{Valdkund
+| Nimi = Kipran Tazovaldkund<br />Κυπριακή Δημοκρατία <small>(grek.)</small><br />Kıbrıs Cumhuriyeti <small>(turk.)</small>
+| Valdkundznam = Coat of arms of Cyprus.svg
+| Flag = Flag of Cyprus.svg
+| Valdkundznam text = Kipran valdkundznam
+| Flag text = Kipran flag
+| Pälidn = Nikosii
+| Eläjiden lugu = 0.743.725<ref>[https://www.cia.gov/library/publications/the-world-factbook/geos/cy.html Vl 2014 heinkun Kipran ristitišton endustuz. — Mail'man faktoiden kirj (Cia.gov).] {{ref-en}}</ref>
+| Voz' = 2014
+| Pind = 9.250
+| Kart = Cyprus in its region (de-facto).svg
+| Kel' = [[grekan kel'|grekan]], [[turkan kel'|turkan]]
+| Valdkundan pämez' = [[Anastasiadis Nikos|Nikos Anastasiadis]]
+| Päministr = ''eile olmas''
+| Religii = [[hristanuskond]], [[islam]]
+| Valüt = [[evro]] (€) (EUR)<ref>Edel 2008 vot — [[kipran funt]].</ref>
+| Internet-domen = [[.cy]]<ref>Mugažo [[.eu]] kuti [[EÜ]]:n ühtnii.</ref>
+| Telefonkod = +357
+| Aigvö = tal'vel [[UTC]]+2,<br />kezal [[UTC]]+3
+}}
+'''Kipr''' ([[grekan kel'|grekan kelel]] ''Κύπρος'', [[turkan kel'|turkan kelel]] ''Kıbrıs'', [[anglijan kel'|anglijan kelel]] ''Cyprus''), täuz' oficialine nimituz — '''Kipran Tazovaldkund''' ([[grekan kel'|grek.]]: Κυπριακή Δημοκρατία, [[turkan kel'|turk.]]: ''Kıbrıs Cumhuriyeti''), om valdkund [[Azii|Azijas]] (britanižiden purtkiden mödhe — [[Evrop]]as), [[Keskmeri|Keskmeren]] [[Kipr (sar')|ühtennimižel]] sarel. Vspäi 2004 [[EÜ|EÜ]]:n ühtnii. Sen pälidn da kaikiš suremb lidn om [[Nikosii]].
 
 == Istorii ==
-
-== Politine sistem ==
+Vl 1960 redukun 1. päivän Kirp tedištoiti ripmatomudes [[Sur' Britanii|Sures Britanijaspäi]].
 
 == Geografijan andmused ==
+[[Fail:Cyprus Topography.png|thumb|left|250px|Kipran topografine kart.]]
+Kipral om mavaldkundröun [[Sur' Britanii|Suren Britanijan]] sodameribazoidenke. Tundištandatoi [[Pohjoižkipr]]an Tazovaldkund (vaiše [[Turkanma]] tundišti) sijadase saren pohjoižes, südäinröin «vihandaks pirdaks» nimitase.
+
+== Politine sistem ==
+Ohjandusen form om unitarine [[tazovaldkund]].
+
+== Administrativiž-territorialine jagand ==
+&nbsp;&nbsp;&nbsp;''Kacu kirjutuz: [[Kipran administrativiž-territorialine jagand]].''
 
 == Eläjad ==
 
 == Ižanduz ==
 
-{{Evrop}}
+== Homaičendad ==
+<references />
+
+== Irdkosketused ==
+
 {{Azii}}
+{{Evrop}}
 
 {{stub}}
 
-[[Kategorii:Kipr|*]]
+[[Kategorii:Kipr| ]]
