@@ -1,25 +1,28 @@
 {{1000}}
-{| class="infobox bordered" align=right cellpadding=4 cellspacing=0 width=275 style="clear:right; margin: 0 0 1em 1em; background: #f9f9f9;  font-size: 95%;"
-|-
-|colspan=2 align=center bgcolor="#BFDFFF"|<big>'''Madrid'''</big>
-|-
-| align="center" | [[Fail:Escudo de Madrid.svg|100px]]
-| align="center" | [[Fail:Bandera de Madrid.svg|125px]]
-|-
-| align="center" | 
-| align="center" | 
-<br /><small></small>
-|-
-|Eläjiden lugu|| 3 273 000
-|-
-|Pind|| 607 km²
-|-
-|Mer|| 
-|}
+{{Eländpunkt
+ | Nimi = Madrid
+ | Lidnanznam = Escudo de Madrid.svg
+ | Flag = Bandera de Madrid.svg
+ | Lidnanznam text = Madridan lidnanznam
+ | Flag text = Madridan flag
+ | Valdkund = Ispanii
+ | Eläjiden lugu = 3 165 235
+ | Voz' = 2014
+ | Pind = 605.77
+ | Fail = Madrid Cuatro Torres Business Area.jpg
+ | Pämez' = Ana Botella
+ | Telefonkod = +34-91
+ | Aigvö = tal'vel [[UTC]]+1,<br />kezal [[UTC]]+2
+}}
 '''Madrid''' ([[ispanijan kel'|isp.]]: ''Madrid'') om [[Ispanii|Ispanijan]] pälidn da kaikiš suremb lidn.
+
+== Irdkosketused ==
+* [http://www.madrid.es/ Madrid-lidnan oficialine sait.] {{ref-es}}
+* [http://www.metromadrid.es/ Madrid-agjan oficialine sait.] {{ref-es}}
 
 {{stub}}
 
+[[Kategorii:Madrid| ]]
 [[Kategorii:Ispanijan lidnad]]
 [[Kategorii:Ispanii]]
 [[Kategorii:Eländpunktad kirjamišton mödhe]]
