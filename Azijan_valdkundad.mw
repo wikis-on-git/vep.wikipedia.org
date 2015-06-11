@@ -1,4 +1,4 @@
-'''[[Azii|Azijas]]''' om 49 ripmatomad valdkundad.
+'''[[Azii|Azijas]]''' om 48 ripmatomad valdkundad.
 
 {| border="1" cellpadding="4" cellspacing="0" style="border:1px solid #aaa; border-collapse:collapse;"
 |- style="background:#ececec;"
@@ -93,14 +93,6 @@
 | style="text-align:right;"| 2.996.082
 | style="text-align:right;"| 1,7
 | [[Ulanbatar]]
-|-
-| {{ROC}}
-| ROC
-| [[kitain kel'|kitain]]
-| style="text-align:right;"| 35.980
-| style="text-align:right;"| 22.920.946
-| style="text-align:right;"| 626,7
-| [[Taibei]]
 |-
 | colspan=7 style="background:#eee;" | '''[[Pohjoine Azii]]:'''
 |-
@@ -417,9 +409,40 @@
 | Kaik
 | 
 | 
-| style="text-align:right;"| 43.810.582
-| style="text-align:right;"| 4.162.966.086
-| style="text-align:right;"| 89,07
+| style="text-align:right;"| 43.774.602
+| style="text-align:right;"| 4.140.045.140
+| style="text-align:right;"| 94,57
+|
+|}
+
+'''[[Azii|Azijas]]''' om paloin tundištadud valdkundoid.
+
+{| border="1" cellpadding="4" cellspacing="0" style="border:1px solid #aaa; border-collapse:collapse;"
+|- style="background:#ececec;"
+! [[Paloin tundištadud valdkund]]
+! Lüh. ISO<br />3166-1<br />mödhe
+! Valdkundkel'
+! Pind<br />(km²)
+! Ristitišt<br />(2010)
+! Rist./km²
+! [[Pälidn]]
+|-
+| colspan=7 style="background:#eee;" | '''[[Keskmäine Azii]]:'''
+|-
+| {{ROC}}
+| ROC
+| [[kitain kel'|kitain]]
+| style="text-align:right;"| 35.980
+| style="text-align:right;"| 22.920.946
+| style="text-align:right;"| 626,7
+| [[Taibei]]
+|- style="font-weight:bold;"
+| Kaik
+| 
+| 
+| style="text-align:right;"| 35.980
+| style="text-align:right;"| 22.920.946
+| style="text-align:right;"| 626,7
 |
 |}
 
