@@ -1,25 +1,22 @@
-{| class="infobox bordered" align=right cellpadding=4 cellspacing=0 width=275 style="clear:right; margin: 0 0 1em 1em; background: #f9f9f9;  font-size: 95%;"
-|-
-|colspan=2 align=center bgcolor="#BFDFFF"|<big>'''Daugavpils'''
-|-
-| align="center" | [[Fail:Coat of arms of Daugavpils.svg|100px]]
-| align="center" | [[Fail:Flag of Daugavpils.svg|125px|border]]
-|-
-| align="center" | Znam
-| align="center" | Flag
-<br /><small></small>
-|-
-|Eläjiden lugu|| 110 400
-|-
-|Pind|| 72,48 km²
-|-
-|Mer|| 
-|}
-'''Daugavpils''' (latv.: ''Daugavpils'', edel v. 1920 ''Dvinsk'', edel 1893 ''Dünaburg'', 1656—1667 ''Borisoglebsk'') om lidn [[Latvii|Latvijas]]. Toine lidn surusen mödhe — 115 265 eläjäd (2000). Pind — 72,48 km².
-
-Livin Ordenan mameister [[Wp/ltg/Ernst von Ratzeburg|Ernst von Ratzeburg]] tegi Daugavpilsan (Dünaburgan) v. 1275.
+{{Eländpunkt
+ | Nimi = Daugavpils
+ | Lidnanznam = Coat of arms of Daugavpils.svg
+ | Flag = Flag of Daugavpils.svg
+ | Lidnanznam text = 
+ | Flag text = 
+ | Valdkund = Latvii
+ | Eläjiden lugu = 96 818
+ | Voz' = 2015
+ | Pind = 72.48
+ | Fail = How Daugavpils look like.jpg
+ | Pämez' = 
+ | Telefonkod = 
+ | Aigvö = tal'vel [[UTC]]+2,<br />kezal [[UTC]]+3
+}}
+'''Daugavpils''' (mugažo [[latvijan kel'|latvijan kelel]]; edel v. 1920 ''Dvinsk'', edel 1893 ''Dünaburg'', 1656—1667 ''Borisoglebsk'') om lidn [[Latvii|Latvijas]]. Toine lidn surusen mödhe — 96 818 eläjäd (2015). Pind — 72,48 km².
 
 == Istorii ==
+Livin Ordenan mameister [[Wp/ltg/Ernst von Ratzeburg|Ernst von Ratzeburg]] tegi Daugavpilsan (Dünaburgan) v. 1275.
 
 == Geografijan andmused ==
 
@@ -29,6 +26,7 @@ Livin Ordenan mameister [[Wp/ltg/Ernst von Ratzeburg|Ernst von Ratzeburg]] tegi 
 
 == Irdkosketused ==
 * [http://www.daugavpils.lv/ Daugavpilsan oficialine lehtpol']
+
 {{stub}}
 
 [[Kategorii:Latvijan lidnad]]
