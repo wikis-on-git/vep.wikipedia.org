@@ -1,33 +1,37 @@
 {{1000}}
-{| class="infobox bordered" align=right cellpadding=4 cellspacing=0 width=275 style="clear:right; margin: 0 0 1em 1em; background: #f9f9f9;  font-size: 95%;"
-|-
-|colspan=2 align=center bgcolor="#BFDFFF"|<big>'''Berlin'''</big>
-|-
-| align="center" | [[Fail:Coat of arms of Berlin.svg|70px]]
-| align="center" | [[Fail:Flag of Berlin.svg|150px|border]]
-|-
-|Eläjiden lugu|| 3 431 000
-|-
-|Pind|| 891,85 km²
-|}
-'''Berlin''' ([[saksan kel'|saksan kelel]]: ''Berlin'') om [[Saksanma]]n [[pälidn]], kaikiš järedamb lidn Saksanmas.
+{{Eländpunkt
+ | Nimi = Berlin
+ | Lidnanznam = Coat of arms of Berlin.svg
+ | Flag = Flag of Berlin.svg
+ | Lidnanznam text = Berlinan lidnanznam
+ | Flag text = Berlinan flag
+ | Valdkund = Saksanma
+ | Eläjiden lugu = 3,419,623
+ | Voz' = 2013
+ | Pind = 891.85
+ | Fail = Berlin Montage 4.jpg
+ | Pämez' = [[Müller Mihael'|Mihael' Müller]]
+ | Telefonkod = +49-30
+ | Aigvö = tal'vel [[UTC]]+1,<br />kezal [[UTC]]+2
+}}
+'''Berlin''' (mugažo [[saksan kel'|saksan kelel]], virktas: [bɛɐ̯ˈliːn]) om [[Saksanma]]n [[pälidn]], kaikiš järedamb lidn Saksanmas.
 
-Megapolisan pind om 891,85 km². Eläjiden lugu om enamb 3,4 millionad ristituid. Se om toine lidn ristituiden lugun mödhe [[London]]an jäl'ghe da videnz' lidn pindan mödhe [[EÜ|Evropan Ühtištuses]].
+Megapolisan pind om 891,85 km². Eläjiden lugu om enamb 3,4 millionad ristituid. Se om toine lidn [[Evropan Ühtištuz|Evropan Ühtištuses]] ristituiden lugun mödhe [[London]]an jäl'ghe da videnz' lidn pindan mödhe.
 
-Berlin om üks' 16 maišpäi Saksanman Federativižes tazovaldkundas. Sen sijaduz om Šprejen da Hafelän jogiden randoil, [[Brandenburg]]an federaližen man keskes, kudambha iče lidn ei mülü (1920 vodelpäi).
+Berlin om üks' 16 maišpäi Saksanman Federativižes Tazovaldkundas. Sen sijaduz om Šprejen da Hafelän jogiden randoil, [[Brandenburg]]an federaližen man keskes, kudambha iče lidn ei mülü (vodelpäi 1920).
 
 == Istorii ==
-Läz 1200 vot nügüd'aigaižen Berlinan sijal oli kaks' torguindlidnad — Köl'n da Berlin. Vodel 1307 lidnad ühtištuiba da tegiba ühthine lidnaline nevondkund (ratuš). Jäl'ghepäi lidn oli Brandenburgan markgrafkundan/kurfürstkundan (1417 vodelpäi), [[Prussii|Prussijan]] (1618 vodelpäi) da [[Germanijan imperii|Saksanman imperijan]] (1871 vodelpäi) istorižen pälidnan.
+Läz 1200 vot nügüd'aigaižen Berlinan sijal oli kaks' torguindlidnad — Köl'n da Berlin. Vodel 1307 lidnad ühtištuiba da tegiba ühthine lidnaline nevondkund (ratuš). Jäl'ghepäi lidn oli Brandenburgan markgrafkundan/kurfürstkundan (vodelpäi 1417), [[Prussii|Prussijan]] (vodelpäi 1618) da [[Germanijan imperii|Saksanman imperijan]] (vodelpäi 1871) istorižen pälidnan.
 
-[[Toine mail'mansoda|Toižen mail'mansodan]] jäl'ghe Jaltan konferencijan pätindan mödhe Berlin jagatihe 4 okkupacižhe sektorihe. Möhemba 3 sektorad ühtištuiba Päivlaskmpol'žehe Berlinha, kudamb iče mülüi GFTha. Voden 1961 13 elokuspäi Berlinan sein ümbärzi Päivlaskmpol'žen Berlinan. Berlinan sein, kudamb oli üks' [[Viluvoin]]an päsimvolišpäi, muretihe vl 1989. Germanijan ühtenzoitamižen jäl'ghe sen pälidnan om ühtenzoittud Berlin.
+[[Toine mail'mansoda|Toižen mail'mansodan]] jäl'ghe Jaltan konferencijan pätandan mödhe Berlin jagatihe 4 okkupacižhe sektorha. Möhemba 3 sektorad ühtištuiba [[Päivlaskmpol'ne Berlin|Päivlaskmpol'žhe Berlinha]], kudamb iče mülüi SFTha. Vodes 1961 13 elokuspäi Berlinan sein ümbärzi Päivlaskmpol'žen Berlinan. Berlinan sein, kudamb oli üks' [[Viluvoin]]an päsimvolišpäi, muretihe vl 1989. Germanijan ühtenzoitamižen jäl'ghe ühtenzoittud Berlin om sen pälidnaks.
 
 Nügüd' Berlin om valdkundan znamasine politine, ekonomine, kul'turine da tedoline keskuz.
 
 == Transport ==
-Berlin om mugažo jalos järed transportsol'm. Siš om 2 lendimportad: Tegel' da Šönefel'd; lidnas om 12 päraudtestancijad. Berlinas om kundališt transportad: avtobusid, tramvajid, lidnelektrojonusid. 1902 vodespäi lidnas radab metropoliten.
+Berlin om mugažo jalos järed transportsol'm. Siš om 2 lendimportad: Tegel' da Šönefel'd; lidnas om 12 päraudtestancijad. Berlinas om kundališt transportad: [[avtobus]]id, [[tramvai|tramvajid]], [[elektrojonuz|lidnelektrojonusid]]. Vodespäi 1902 metropoliten radab lidnas.
 
 == Sport ==
-Vodel 1936 Berlinas oliba Kezaližed Olimpižed vändod.
+Vodel 1936 Kezaližed Olimpižed vändod oliba Berlinas.
 
 == Galerei ==
 <center><gallery> 
@@ -39,15 +43,14 @@ Fail:Bodemuseum - Front.jpeg|Bode-muzei
 </gallery></center>
 
 == Irdkosketused ==
-* [http://www.berlin.de/ Berlinan ohjastusen sait] (saksan kelel)
-* [http://www.berlin-russia.net/ Berlinan oficialine biznes-portal] {{ref-ru}}
+* [http://www.berlin.de/ Berlinan ohjastusen portal.] {{ref-de}} {{ref-en}} {{ref-fr}} {{ref-it}} {{ref-zh}} {{ref-pl}} {{ref-ru}} {{ref-tr}}
+* [http://www.berlin-russia.net/ Berlinan oficialine biznes-portal.] {{ref-ru}}
 
 {{Evropan pälidnad}}
 
-{{stub}}
-
 [[Kategorii:Berlin| ]]
 [[Kategorii:Saksanman lidnad]]
+[[Kategorii:Saksanman federacijanmad]]
 [[Kategorii:Saksanma]]
 [[Kategorii:Eländpunktad kirjamišton mödhe]]
 [[Kategorii:Pälidnad]]
