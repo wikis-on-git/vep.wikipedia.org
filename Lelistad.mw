@@ -1,20 +1,23 @@
-{| class="infobox bordered" align=right cellpadding=4 cellspacing=0 width=275 style="clear:right; margin: 0 0 1em 1em; background: #f9f9f9;  font-size: 95%;"
-|-
-|colspan=2 align=center bgcolor="#BFDFFF"|<big>'''Lelistad'''</big>
-|-
-| align="center" | [[Fail:Flag of Lelystad.svg|100px|Lelistadan flag]]
-| align="center" | [[Fail:Coat of arms of Lelystad.png|125px|Lelistadan znam]]
-|-
-| align="center" | Lelistadan flag
-| align="center" | Lelistadan znam
-<br /><small></small>
-|-
-|Eläjiden lugu|| 74 682 <small>(2010)</small>
-|-
-|Pind|| 765,39 km²
-|}
-[[Fail:Agoratheater - exterieur.jpg|300px|right|thumb|Lelistadan teatr]]
+{{Eländpunkt
+ | Nimi = Lelistad<br />Lelystad
+ | Lidnanznam = Coat of arms of Lelystad.png
+ | Flag = Flag of Lelystad.svg
+ | Lidnanznam text = Lelistadan znam
+ | Flag text = Lelistadan flag
+ | Valdkund = Alamad
+ | Eläjiden lugu = 76 285
+ | Voz' = 2014
+ | Pind = 765.39
+ | Fail = ZuilvanLely.jpg
+ | Pämez' = 
+ | Telefonkod = 
+ | Aigvö = tal'vel [[UTC]]+1,<br />kezal [[UTC]]+2
+}}
 '''Lelistad''' ([[Alaman kel'|alaman kelel]]: ''Lelystad'') om [[Alamad|Alamaiden]] lidn, [[Flevoland]]an [[pälidn]].
+
+Vl 2014 eläjiden lugu om 76 285 ristitud. Lidnan pind — 765,39 km<sup>2</sup>.
+
+[[Fail:Agoratheater - exterieur.jpg|300px|right|thumb|Lelistadan teatr]]
 
 == Istorii ==
 
@@ -25,5 +28,6 @@
 == Ižanduz ==
 
 {{stub}}
+
 [[Kategorii:Alamaiden lidnad]]
 [[Kategorii:Eländpunktad kirjamišton mödhe]]
