@@ -1,16 +1,43 @@
-{| class="infobox bordered" align=right cellpadding=4 cellspacing=0 width=275 style="clear:right; margin: 0 0 1em 1em; background: #f9f9f9;  font-size: 95%;"
-|-
-|colspan=2 align=center bgcolor="#BFDFFF"|<big>'''Oslo'''</big>
-|-
-| align="center" | [[Fail:Oslo komm.svg|100px|Oslon lidnanznam]]
-| align="center" | [[Fail:Flag of Oslo.svg|125px|Oslon flag]]
-|-
-|Eläjiden lugu|| 590 041 
-|-
-|Pind|| 454 km²
-|}
-[[Fail:Oslo E18 bjørvika.jpg|pisi|250px|Oslo]]
-'''Oslo''' (virkmine — [Ušlü] vai [Uslü]) om [[Norvegii|Norvegijan]] pälidn da kaikiš suremb lidn.
+{{Eländpunkt
+ | Nimi = Oslo
+ | Lidnanznam = Oslo komm.svg
+ | Flag = Flag of Oslo.svg
+ | Lidnanznam text = Oslon lidnanznam
+ | Flag text = Oslon flag
+ | Valdkund = Norvegii
+ | Eläjiden lugu = 647,676
+ | Voz' = 2015
+ | Pind = 454.03
+ | Fail = Oslo E18 bjørvika.jpg
+ | Pämez' = [[Stang Fabian|Fabian Stang]] (2007-)
+ | Telefonkod = +47-2
+ | Aigvö = tal'vel [[UTC]]+1,<br />kezal [[UTC]]+2
+}}
+'''Oslo''' (mugažo kirjutase [[norvegijan kel'|norvegijan kelel]], no virkmine — [Ušlü] vai [Uslü]) om [[Norvegii|Norvegijan]] pälidn da surembaine lidn. Se om olmas mugažo kommunaks da ühteks 19 norvegižes agjaspäi (fül'ke).
+
+Oslo-agj om surembaine Norvegijas eläjiden lugun mödhe da penembaine pindan mödhe. Vl 2013 eläjiden lugu oli 623 966 ristitud. Lidnan pind — 454,03 km², saum vezid — 6%. Oslo om ümbärtud [[Akershus]]-agjal (kahtenz' ristituiden lugun mödhe), kudamban tobmuden organad sijadase pälidnas.
+
+== Istorii ==
+Oslo johtutase ezmäižen kerdan Sturlusonan Storrin islandižes skal'das. Siš om kirjutadud, miše Haral'd III-kunigaz pani lidnan alusen vl 1048. Nimituz znamoičeb «Lo-jogensu». Lidn oli olmas mugoižen nimenke vhesai 1624. Sid' vhesai 1925 sen nimi oli '''Hristianii''' (norv. ''Christiania'') da '''Kristianii''' (norv. ''Kristiania'').
+
+== Geografii ==
+Olso seižub ühtennimižen [[fjord]]an randal 23 metrad keskkorktusil, sijadase sen pohjoižembaižes palas, [[Piter]]inke ühtel levedusel, no 20° päivlaskmaižemb. Om nell'kümne sart da 343 reskveden järved lidnan röunoiš.
+
+Lidn alajagase 15 administrativižhe rajonha (norv. ''bydel''). Mugažo voz'sadalpäi 19. lidn jagase päivlaskmaižhe (''Vestkanten'') da päivnouzmaižhe (''Ostkanten'') polihe.
+
+== Transport ==
+Avtobusad, tramvaid, metro oma kundaližeks transportaks, mugažo likutimvenehed oma tulmha ujuden lähiden saridennopäi. Metro (norv. ''T-banen i Oslo'') om olmas vspäi 1966, vl 2012 siš om 97 stancijad (16 — manaluižed), 6 jonod da 85 km raudted.
+
+Oslon ümbrištos om koume rahvahidenkeskešt lendimportad, päine niišpäi om Gardermuen (vspäi 1998) 48 km lidnan keskusespäi.
+
+== Sport ==
+Vl 1952 Oslo vastsi Tal'volimpiadan ühtnijoid.
+
+== Homaičendad ==
+<references />
+
+== Irdkosketused ==
+* [http://www.oslo.kommune.no/ Oslo-kommunan ohjastusen oficialine sait.] {{ref-no}} {{ref-en}}
 
 {{Evropan pälidnad}}
 
@@ -18,6 +45,7 @@
 
 [[Kategorii:Oslo| ]]
 [[Kategorii:Norvegijan lidnad]]
+[[Kategorii:Norvegijan agjad]]
 [[Kategorii:Norvegii]]
 [[Kategorii:Eländpunktad kirjamišton mödhe]]
 [[Kategorii:Pälidnad]]
