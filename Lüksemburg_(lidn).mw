@@ -1,28 +1,40 @@
 {{Znamoičendad|Lüksemburg (znamoičendad)}}
-{| class="infobox bordered" align=right cellpadding=4 cellspacing=0 width=275 style="clear:right; margin: 0 0 1em 1em; background: #f9f9f9;  font-size: 95%;"
-|-
-|colspan=2 align=center bgcolor="#BFDFFF"|<big>'''Lüksemburg'''</big>
-|-
-| align="center" | [[Fail:Coat of arms Luxembourg City.png|100px]]
-| align="center" | 
-|-
-| align="center" | 
-| align="center" | 
-<br /><small></small>
-|-
-|Eläjiden lugu|| 96 750
-|-
-|Pind|| 51,73 km²
-|-
-|Mer|| 
-|}
-'''Lüksemburg''' ([[lüksemburgan kel'|lüks]].: ''Lëtzebuerg''; [[francijan kel'|fr]].: ''Luxembourg''; [[saksan kel'|saks.]]: ''Luxemburg'') om [[Lüksemburg]]an (valdkundan) pälidn. 
-
-== Geografijan andmused ==
-Lidn sijadase korktusel 334 m ü.m.t., sigä, kus ühtnedas joged [[Al'zet]] ([[Sir]]an ližajogi) da [[Petrus]]. Eläjiden enambuz — katolikad.
+{{Eländpunkt
+ | Nimi = Lüksemburg<br />Lëtzebuerg <small>(lüks.)</small><br />Luxembourg <small>(fr.)</small><br />Luxemburg <small>(saks.)</small>
+ | Lidnanznam = Blason ville lu Luxembourg-ville.svg
+ | Flag = Flag of Luxembourg (city).svg
+ | Lidnanznam text = Lüksemburg-lidnan znam
+ | Flag text = Lüksemburg-lidnan flag
+ | Valdkund = Lüksemburg
+ | Eläjiden lugu = 111,287
+ | Voz' = 2015
+ | Pind = 51.5
+ | Fail = Luxembourg City Night Wikimedia Commons.jpg
+ | Pämez' = [[Pol'fer Lidi|Lidi Pol'fer]] (2013-)
+ | Telefonkod = +352
+ | Aigvö = tal'vel [[UTC]]+1,<br />kezal [[UTC]]+2
+}}
+'''Lüksemburg''' ([[lüksemburgan kel'|lüks]].: ''Lëtzebuerg''; [[francijan kel'|fr]].: ''Luxembourg''; [[saksan kel'|saks.]]: ''Luxemburg'') om [[Lüksemburg|ühtennimižen valdkundan]] pälidn da surembaine lidn, üks' 12 kantonaspäi.
 
 == Istorii ==
 Ezmäižen kerdan Lüksemburgas kirjutadas hronikas vl 963, a lidnan statusan se sai vl 1244. Vozil 1606-1684 da 1697-1724 Lüksemburg oli [[Ispanii|Ispanijan]] valdas, vozil 1684-1697 da 1794-1815 — [[Francii|Francijan]] valdas, a vozil 1714-1794 — [[Avstrii|Avstrijan]] valdas. Vspäi 1855 — Lüksemburg-valdkundan pälidn.
+
+== Geografijan andmused ==
+Lidn sijadase 334 m ü.m.t. korktusel, [[Al'zet]]- ([[Sir (jogi)|Siran]] ližajogi) da [[Petrus]]-jogiden ühthejoksmusen randoil.
+
+Klimat om pehmed ven valdmerine, poud oleleb harvoin.
+
+Lüksemburg alajagase Ülälidnha da Alalidnha.
+
+== Eläjad ==
+Lidnas elädas valdkundan ristitišton läz videndest.
+
+Eläjiden enambuz om [[katoline jumalankodikund|katolikad]].
+
+== Transport ==
+Avtobusad oma kundaline pätransport lidnas (27 maršrutad). Ümbärte da viž maksutont avtoseižundtahod oma lidnas.
+
+Üks'jäine valdkundas rahvahidenkeskeine civiline Findel-lendimport sijadase 6 km päivnouzmpolehe lidnaspäi susedližes Sandveiler-kommunas, tehtas reisid äjihe maihe Evropadme. Se om Evropan videnz' surtte jügulendimport.
 
 == Lidnan nägud ==
 <center><gallery>
@@ -36,9 +48,13 @@ Fail:Luxembourg0060.JPG|
 Fail:Luxembourg0080.JPG|Valdkundbank
 </gallery></center>
 
-{{Evropan pälidnad}}
+== Homaičendad ==
+<references />
 
-{{stub}}
+== Irdkosketused ==
+* [http://www.vdl.lu/ Lüksemburg-lidnan ohjastusen oficialine portal.] {{ref-fr}}
+
+{{Evropan pälidnad}}
 
 [[Kategorii:Lüksemburg (lidn)| ]]
 [[Kategorii:Lüksemburgan lidnad]]
