@@ -1,23 +1,29 @@
-{| class="infobox bordered" align=right cellpadding=4 cellspacing=0 width=275 style="clear:right; margin: 0 0 1em 1em; background: #f9f9f9;  font-size: 95%;"
-|-
-|colspan=2 align=center bgcolor="#BFDFFF"|<big>'''Pärnu'''</big>
-|-
-| align="center" | [[Fail:Flag of et-Parnu.svg|125px]]
-| align="center" | [[Fail:Et-Parnu coa.svg|100px]]
-|-
-| align="center" | 
-| align="center" | 
-<br /><small></small>
-|-
-|Eläjiden lugu|| 42 470 (01.11.2011)
-|-
-|Pind|| 32,2 km²
-|-
-|Mer|| Toomas Kivimägi (2009)
-|}
+{{Eländpunkt
+ | Nimi = Pärnu
+ | Lidnanznam = Et-Parnu coa.svg
+ | Flag = Flag of et-Parnu.svg
+ | Lidnanznam text = 
+ | Flag text = 
+ | Valdkund = Estinma
+ | Eläjiden lugu = 42 470
+ | Voz' = 2011
+ | Pind = 32.2
+ | Fail = Pärnu rannapromenaad 2014.jpg
+ | Pämez' = Toomas Kivimägi
+ | Telefonkod = 
+ | Aigvö = tal'vel [[UTC]]+2,<br />kezal [[UTC]]+3
+}}
 '''Pärnu''' om lidn [[Estinma]]s.
 
-Eläjiden lugu om 42,470 ristitud (2011), a pind — 32,2 km<sup>2</sup> läz.
+Eläjiden lugu om 42 470 ristitud (2011), a pind — 32,2 km<sup>2</sup> läz.
+
+==Sebruzlidnad==
+* {{LVA|#}} [[Elgav]], [[Latvii]]
+* {{USA|#}} [[Portsmut (Nju-Gempšir)|Portsmut]], [[Nju-Gempšir]], [[Amerikan Ühtenzoittud Valdkundad|AÜV]]
+* {{RUS|#}} [[Soči]], [[Venäma]]
+* {{LTU|#}} [[Šäuläi]], [[Litvanma]]
+* {{FIN|#}} [[Vas (lidn)|Vas]], [[Suomenma]]
+
 {{stub}}
 
 [[Kategorii:Estinman lidnad]]
