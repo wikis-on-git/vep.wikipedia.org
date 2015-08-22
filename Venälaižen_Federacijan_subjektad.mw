@@ -55,6 +55,8 @@ Voden 1993 konstitucijan mödhe '''[[Venälaine Federacii]] om federativine vald
 |-
 |[[Baikalantagaine rand]]||[[Čit]]
 |-
+|[[Habarovskan rand]]||[[Habarovsk]]
+|-
 |[[Kamčatkan rand]]||[[Petropavlovsk Kamčatkal]]
 |-
 |[[Krasnodaran rand]]||[[Krasnodar]]
@@ -66,13 +68,13 @@ Voden 1993 konstitucijan mödhe '''[[Venälaine Federacii]] om federativine vald
 |[[Merenrandaline rand]]||[[Vladivostok]]
 |-
 |[[Stavropolin rand]]||[[Stavropol']]
-|-
-|[[Habarovskan rand]]||[[Habarovsk]]
 |}
 
 == Agjad ==
 {|class="wikitable sortable"
 !Nimi!!Keskuz
+|-
+|[[Alalidnan agj]]||[[Alauz'lidn]]
 |-
 |[[Amuran agj]]||[[Blagoveščensk]]
 |-
@@ -84,17 +86,13 @@ Voden 1993 konstitucijan mödhe '''[[Venälaine Federacii]] om federativine vald
 |-
 |[[Bränskan agj]]||[[Bränsk]]
 |-
-|[[Vladimiran agj]]||[[Vladimir]]
+|[[Čeläbinskan agj]]||[[Čeläbinsk]]
 |-
-|[[Volgogradan agj]]||[[Volgograd]]
-|-
-|[[Vologdan agj]]||[[Vologd]]
-|-
-|[[Voronežan agj]]||[[Voronež]]
+|[[Irkutskan agj]]||[[Irkutsk]]
 |-
 |[[Ivanovon agj]]||[[Ivanovo]]
 |-
-|[[Irkutskan agj]]||[[Irkutsk]]
+|[[Jaroslavlin agj]]||[[Jaroslavl']]
 |-
 |[[Kaliningradan agj]]||[[Kaliningrad]]
 |-
@@ -120,10 +118,6 @@ Voden 1993 konstitucijan mödhe '''[[Venälaine Federacii]] om federativine vald
 |-
 |[[Murmanskan agj]]||[[Murmansk]]
 |-
-|[[Alalidnan agj]]||[[Alauz'lidn]]
-|-
-|[[Uz'lidnan agj]]||[[Sur' Uz'lidn]]
-|-
 |[[Novosibirskan agj]]||[[Novosibirsk]]
 |-
 |[[Omskan agj]]||[[Omsk]]
@@ -140,31 +134,37 @@ Voden 1993 konstitucijan mödhe '''[[Venälaine Federacii]] om federativine vald
 |-
 |[[Räzanin agj]]||[[Räzan']]
 |-
+|[[Sahalinan agj]]||[[Suvisahalinsk]]
+|-
 |[[Samaran agj]]||[[Samar]]
 |-
 |[[Saratovan agj]]||[[Saratov]]
 |-
-|[[Sahalinan agj]]||[[Suvisahalinsk]]
+|[[Smolenskan agj]]||[[Smolensk]]
 |-
 |[[Sverdlovskan agj]]||[[Jekaterinburg]]
 |-
-|[[Smolenskan agj]]||[[Smolensk]]
-|-
 |[[Tambovan agj]]||[[Tambov]]
-|-
-|[[Tverin agj]]||[[Tver']]
 |-
 |[[Tomskan agj]]||[[Tomsk]]
 |-
 |[[Tulan agj]]||[[Tul]]
 |-
+|[[Tverin agj]]||[[Tver']]
+|-
 |[[Tümenin agj]]||[[Tümen']]
 |-
 |[[Ul'janovskan agj]]||[[Ul'janovsk]]
 |-
-|[[Čeläbinskan agj]]||[[Čeläbinsk]]
+|[[Uz'lidnan agj]]||[[Sur' Uz'lidn]]
 |-
-|[[Jaroslavlin agj]]||[[Jaroslavl']]
+|[[Vladimiran agj]]||[[Vladimir]]
+|-
+|[[Volgogradan agj]]||[[Volgograd]]
+|-
+|[[Vologdan agj]]||[[Vologd]]
+|-
+|[[Voronežan agj]]||[[Voronež]]
 |}
 
 == Federativižen alištusen lidnad ==
@@ -187,13 +187,13 @@ Voden 1993 konstitucijan mödhe '''[[Venälaine Federacii]] om federativine vald
 {|class="wikitable sortable"
 !Nimi!!Keskuz
 |-
-|[[Nencan avtonomine ümbrik]]||[[Narjan Mar]]
+|[[Čukotkan avtonomine ümbrik]]||[[Anadir']]
 |-
 |[[Hantin da Mansin avtonomine ümbrik]]||[[Hanti-Mansiisk]]
 |-
-|[[Čukotkan avtonomine ümbrik]]||[[Anadir']]
-|-
 |[[Jamalan Nenciden avtonomine ümbrik]]||[[Salehard]]
+|-
+|[[Nencan avtonomine ümbrik]]||[[Narjan Mar]]
 |}
 
 == Toižed ==
@@ -205,5 +205,5 @@ Voden 1993 konstitucijan mödhe '''[[Venälaine Federacii]] om federativine vald
 |[[Sevastopol']]
 |}
 
+[[Kategorii:Venälaižen Federacijan subjektad| ]]
 [[Kategorii:Venäma]]
-[[Kategorii:Venälaižen Federacijan regionad]]
