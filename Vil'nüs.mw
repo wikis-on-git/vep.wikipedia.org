@@ -1,27 +1,27 @@
-{| class="infobox bordered" align=right cellpadding=4 cellspacing=0 width=275 style="clear:right; margin: 0 0 1em 1em; background: #f9f9f9;  font-size: 95%;"
-|-
-|colspan=2 align=center bgcolor="#BFDFFF"|<big>'''Vil'nüs'''</big>
-|-
-|colspan=2 align=center|[[Fail:Vilnius montage.jpg|260px|Vil'nüs]]
-|-
-| align="center" | [[Fail:Grand Coat of arms of Vilnius.svg|100px|Vil'nüsan znam]]
-| align="center" | [[Fail:Flag_of_Vilnius.svg|border|125px|Vil'nüsan flag ]]
-|-
-| align="center" | 
-| align="center" | 
-<br /><small></small>
-|-
-|Eläjiden lugu|| 555 613
-|-
-|Pind|| 392 km²
-|-
-|Mer|| Artūras Zuokas
-|}
-'''Vil'nüs''' ([[litvan kel'|litv.]]: ''Vilnius'') om [[Litvanma]]n [[pälidn]] da kaikiš suremb lidn.
+{{Eländpunkt
+ | Nimi = Vil'nüs<br />Vilnius
+ | Lidnanznam = Grand Coat of arms of Vilnius.svg
+ | Flag = Flag of Vilnius.svg
+ | Lidnanznam text = Vil'nüsan lidnanznam
+ | Flag text = Vil'nüsan flag
+ | Valdkund = Litvanma
+ | Eläjiden lugu = 542,664
+ | Voz' = 2015
+ | Pind = 401
+ | Fail = Vilnius montage.jpg
+ | Pämez' = [[Šimašüs Remigijus|Remigijus Šimašüs]] (2015-)
+ | Telefonkod = +370-5
+ | Aigvö = tal'vel [[UTC]]+2,<br />kezal [[UTC]]+3
+}}
+'''Vil'nüs''' ([[litvan kel'|litv.]]: ''Vilnius'' [ˈvʲɪɫnʲɪʊs], [[pol'šan kel'|pol'š.]]: ''Wilno'', [[venäkel'|ven.]]: ''Вильнюс'') om [[Litvanma]]n [[pälidn]] da surembaine lidn. Mugažo se om [[Vil'nüsan agj]]an administrativine keskuz.
 
 == Istorii ==
+Lidn johtutase ezmäižen kerdan vl 1323 kuti Litvanman Suren [[Gedimin]]an-ruhtinasen pälidn. Voz'sadoiden joksten Vil'nüs oli [[Litvan Sur' Ruhtinazkund|Litvan Suren Ruhtinazkundan]] pälidnaks, vspäi 1569 ([[Lüblinan unii]]) — [[Pol'šan valdkund]]an-ki. Vozil 1795-1918 oli [[Venälaine Imperii|Venäman]] lidnan ''Vil'na''-nimenke. Vozil 1920-1939 oli [[Pol'šanma]]n lidnan. Vspäi 1939 Vil'nüs tegihe [[Litvanman Tazovaldkund]]an pälidnaks ([[Kaunas]]an jäl'ghe), sidä kesken vozil 1940-1991 [[Nevondkundaline Ühtištuz|NSTÜ]]:n mülündas.
 
 == Geografijan andmused ==
+Puištod ottas 69% lidnan territorijad. Uded lidnanlaptad oma erigoittud toine toižespäi mecan tarhoil.
+
+Lidn alajagase 21 rajonha ([[litvan kel'|litv.]]: ''seniūnija'').
 
 == Eläjad ==
 
@@ -31,6 +31,7 @@
 <references />
 
 == Irdkosketused ==
+* [http://www.vilnius.lt/ Vil'nüs-lidnan ohjastusen oficialine sait.] {{ref-lt}} {{ref-en}}
 
 {{Evropan pälidnad}}
 
@@ -38,6 +39,7 @@
 
 [[Kategorii:Vil'nüs| ]]
 [[Kategorii:Litvanman lidnad]]
+[[Kategorii:Vil'nüsan agj|*]]
 [[Kategorii:Litvanma]]
 [[Kategorii:Eländpunktad kirjamišton mödhe]]
 [[Kategorii:Pälidnad]]
