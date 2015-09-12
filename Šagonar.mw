@@ -5,20 +5,23 @@
  | Lidnanznam text = 
  | Flag text = 
  | Valdkund = Venäma
- | Eläjiden lugu = 10 956
+ | Eläjiden lugu = 10,956
  | Voz' = 2010
  | Pind = 
  | Fail = Шагаан-Арыг хоорай, адрес.jpg
  | Pämez' = 
  | Telefonkod = 
- | Aigvö = [[UTC]]+7
+ | Avtokod = 17
+ | Aigvö = [[UTC]]+7 ([[MSK]]+4)
 }}
 '''Šagonar''' ([[venän kel'|ven]]. ''Шагонар'', [[tuvan kel'|tuv]].: ''Шагаан-Арыг'') om [[Venäma]]n lidn [[Tuvan Tazovaldkund]]as.
 
 Vl 2010 eläjiden lugu om 10 956 ristitud.
 
+{{Tuvan Tazovaldkundan lidnad}}
+
 {{stub}}
 
-[[Kategorii:Tuvan Tazovaldkund]]
 [[Kategorii:Venäman lidnad]]
 [[Kategorii:Eländpunktad kirjamišton mödhe]]
+[[Kategorii:Tuvan Tazovaldkundan lidnad]]
