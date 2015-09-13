@@ -1,23 +1,26 @@
-{| class="infobox bordered" align=right cellpadding=4 cellspacing=0 width=275 style="clear:right; margin: 0 0 1em 1em; background: #f9f9f9;  font-size: 95%;"
-|-
-|colspan=2 align=center bgcolor="#BFDFFF"|<big>'''Kaliningrad'''</big>
-|-
-| align="center" | [[Fail:Flag of Kaliningrad.png|160px|Kaliningradan znam]]
-| align="center" | [[Fail:Coat of Arms of Kaliningrad.png|95px]]
-|-
-| align="center" | 
-| align="center" | 
-<br /><small></small>
-|-
-|Eläjiden lugu|| 420 480
-|-
-|Pind|| 215,7 km²
-|}
-'''Kaliningrad''' ([[venäkel'|ven.]]: ''Калининград'') om [[Venäma]]n lidn, [[Kaliningradan agj]]an pälidn.
+{{Eländpunkt
+ | Nimi = Kaliningrad<br />Калининград
+ | Lidnanznam = Coat of Arms of Kaliningrad.svg
+ | Flag = Flag of Kaliningrad.svg
+ | Lidnanznam text = Kaliningradan lidnanznam
+ | Flag text = Kaliningradan flag
+ | Valdkund = Venäma
+ | Eläjiden lugu = 453,461
+ | Voz' = 2015
+ | Pind = 224.7
+ | Fail = Калининград-коллаж1.jpg
+ | Pämez' = [[Jarošuk Aleksandr|Aleksandr Jarošuk]]
+ | Telefonkod = +7-4012
+ | Avtokod = 39. 91
+ | Aigvö = [[UTC]]+2 ([[MSK]]-1)
+}}
+'''Kaliningrad''' ([[venäkel'|ven.]]: ''Калининград'', edel 1946 vot — [[saksan kel'|saks.]]: ''Königsberg'') om lidn [[Venäma]]s. Se om [[Kaliningradan agj]]an pälidn da surembaine lidn.
 
 == Istorii ==
+Lidnan aluz om pandud vl 1255.
 
 == Geografijan andmused ==
+Lidn sijadase [[Baltijan meri|Baltijan meren]] suvipäivlaskmaižel randal.
 
 == Tobmuz ==
 
@@ -26,16 +29,23 @@
 == Ižanduz ==
 
 == Mel'heižtahod ==
-* Kafedraline päjumalanpert'
-* Hristan Päzutajan pühäpert'
-* «Zur heiligen Familie»-jumalanpert'
-* «Vitäz'»-laiv (muzei)
+<center><gallery>
+Fail:Cathedralkoenig.jpg|Kafedraline päjumalanpert'
+Fail:Königsberg-Erlöserkirche01.jpg|Hristan Päzutajan pühäpert'
+Fail:Калининградская областная филармония.jpg|Agjan filarmonii, enzne «Zur heiligen Familie»-jumalanpert'
+Fail:Vitiaz.JPG|«Vitäz'»-laiv (muzei)
+</gallery></center>
 
+== Homaičendad ==
+<references />
+
+{{Kaliningradan agjan lidnad}}
 {{Venälaižen Federacijan subjektoiden pälidnad}}
 
 {{stub}}
 
 [[Kategorii:Kaliningrad| ]]
+[[Kategorii:Kaliningradan agjan lidnad|*]]
 [[Kategorii:Venäman lidnad]]
 [[Kategorii:Eländpunktad kirjamišton mödhe]]
 [[Kategorii:Kaliningradan agj|*]]
