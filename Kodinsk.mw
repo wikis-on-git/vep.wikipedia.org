@@ -1,15 +1,20 @@
-{| class="infobox bordered" align=right cellpadding=4 cellspacing=0 width=275 style="clear:right; margin: 0 0 1em 1em; background: #f9f9f9;  font-size: 95%;"
-|-
-|colspan=2 align=center bgcolor="#BFDFFF"|<big>'''Kodinsk'''</big>
-|-
-| align="center" | [[Fail:Kodinsk city.gif|100px|Kodinskan lidnanznam]]
-| align="center" | [[Fail:Flag of Kodinsk (Krasnoyarsk krai).png|100px|Kodinskan flag]]
-|-
-|Eläjiden lugu|| 14 873<ref>[http://www.gks.ru/bgd/regl/b10_109/Main.htm Численность населения Российской Федерации по городам, поселкам городского типа и районам на 1 января 2010 года (Venälaižen Federacijan ristitišton lugumär lidnoidme, lidnanvuiččid žiloidme da rajonidme vl 2010 vilukun 1. päiväl).] {{ref-ru}}</ref>
-|-
-|Pind|| 27 km²
-|}
-'''Kodinsk''' ([[venäkel'|ven.]] ''Кодинск'') om lidn (vlpäi [[1989]]) [[Venäma]]s. Se om [[Krasnojarskan rand]]an [[Kežman rajon]]an administrativine keskuz.
+{{Eländpunkt
+ | Nimi = Kodinsk<br />Кодинск
+ | Lidnanznam = Kodinsk city.gif
+ | Flag = Flag of Kodinsk (Krasnoyarsk krai).png
+ | Lidnanznam text = Kodinskan lidnanznam
+ | Flag text = Kodinskan flag
+ | Valdkund = Venäma
+ | Eläjiden lugu = 14 873<ref>[http://www.gks.ru/bgd/regl/b10_109/Main.htm Численность населения Российской Федерации по городам, поселкам городского типа и районам на 1 января 2010 года (Venälaižen Federacijan ristitišton lugumär lidnoidme, lidnanvuiččid žiloidme da rajonidme vl 2010 vilukun 1. päiväl).] {{ref-ru}}</ref>
+ | Voz' = 2010
+ | Pind = 27
+ | Fail = Kodinsk.JPG
+ | Pämez' = 
+ | Telefonkod = 
+ | Aigvö = [[UTC]]+7
+}}
+
+'''Kodinsk''' ([[venän kel'|ven.]] ''Кодинск'') om lidn (vlpäi [[1989]]) [[Venäma]]s. Se om [[Krasnojarskan rand]]an [[Kežman rajon]]an administrativine keskuz.
 
 "Kodinsk-lidn" municipaližhe ühtnikha mülüb [[Siromolotovo]]-külä.
 
