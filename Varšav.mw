@@ -22,7 +22,41 @@ Vl 2014 eläjiden lugu om 1 729 119 ristitud. Lidnan pind — 517 km<sup>2</sup>
 == Geografijan andmused ==
 
 == Eläjad ==
-
+<timeline>
+ImageSize = width:420 height:320
+PlotArea = left:50 right:20 top:25 bottom:30
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+  id:linegrey2 value:gray(0.9)
+  id:linegrey value:gray(0.7)
+  id:cobar value:rgb(0.2,0.7,0.8)
+  id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period = from:0 till:2000000
+ScaleMajor = unit:year increment:500000 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:500000 start:0 gridcolor:linegrey2
+PlotData =
+  color:cobar width:20 align:center
+  bar:1500 from:0 till:6500  
+  bar:1624 from:0 till:48000 
+  bar:1800 from:0 till:63400  
+  bar:1939 from:0 till:1289000 
+  bar:1945 from:0 till:422000 
+  bar:1960 from:0 till:1139189
+  bar:2000 from:0 till:1610471 
+  bar:2014 from:0 till:1732707 
+PlotData=
+  textcolor:black fontsize:S
+  bar:1500 at: 6500 text: 6500 shift:(0)
+  bar:1624 at: 48000 text: 48000 shift:(0)
+  bar:1800 at: 63400 text: 63400 shift:(0)
+  bar:1939 at: 1289000 text: 1289000  shift:(0)
+  bar:1945 at: 422000 text: 422000 shift:(0)
+  bar:1960 at: 1139189 text: 1139189 shift:(0)
+  bar:2000 at: 1610471 text: 1610471 shift:(0)
+  bar:2014 at: 1732707 text: 1732707 shift:(0)
+  </timeline>
 == Ižanduz ==
 
 == Homaičendad ==
