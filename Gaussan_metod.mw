@@ -26,8 +26,8 @@ Jäl'ges elementarišt toižetamišt:<br />
 \end{array}\right.,\qquad \alpha_{1j_1},\ldots,\alpha_{rj_r}\neq 0.</math>
 
 Jäl'gused:
-# Ku ühthižes sistemas kaik vajehtujad oma päižed (главные), znamoičeb, ningoi sistem om märhapandud.
-# Ku vajehtujiden verd sistemas om enamba mi tazostusiden verd, znamoičeb, ningoi sistem om märhapanmatoi vai ühthitoi (несовместная).
+# Ku ühthižes sistemas kaik vajehtujad oma {{abbr|päižed|главные|0}}, znamoičeb, ningoi sistem om märhapandud.
+# Ku vajehtujiden verd sistemas om enamba mi tazostusiden verd, znamoičeb, ningoi sistem om märhapanmatoi vai {{abbr|ühthitoi|несовместная|0}}.
 
 == Homaičendad ==
 <references />
