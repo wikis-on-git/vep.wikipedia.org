@@ -39,72 +39,42 @@ Suomen kel' om agglütinativine kel'.
 | style="width:3em; text-align:center; padding: 3px;" | Ö ö
 |}
 
-== Suomen kelen grammatik ==
-Suomen keles om 15 kändod.
-{|width=300 border=0
-|'''känd'''
-|'''üks'lugu'''
-|'''äilugu'''
+== Grammatik ==
+Suomen keles om 15 kändod:
+
+{| class="wikitable"
 |-
-|[[Nominativ]]
-|talo
-|talot
+! № !! [[Känd]] !! [[Üks'lugu]] !! Vepsän känduz !! [[Äilugu]] !! Vepsän känduz
 |-
-|[[Genitiv]]
-|talon
-|talojen
+| 1 || [[Nominativ]] || talo || pert' || talot || pertid
 |-
-|[[Akkuzativ]]
-|talo ili talon
-|talot
+| 2 || [[Genitiv]] || talon || pertin || talojen || pertiden
 |-
-|[[Partitiv]]
-|taloa
-|taloja
+| 3 || [[Akkuzativ]] || talo ''vai'' talon || pertin || talot || pertid
 |-
-|[[Essiv]]
-|talona
-|taloina
+| 4 || [[Partitiv]] || taloa || pertid || taloja || pertid
 |-
-|[[Translativ]]
-|taloksi
-|taloiksi
+| 5 || [[Essiv]] || talona || pertin || taloina || 
 |-
-|[[Inessiv]]
-|talossa
-|taloissa
+| 6 || [[Translativ]] || taloksi || pertikš || taloiksi || pertikš
 |-
-|[[Elativ]]
-|talosta
-|taloista
+| 7 || [[Inessiv]] || talossa || pertiš || taloissa || pertiš
 |-
-|[[Illativ]]
-|taloon
-|taloihin
+| 8 || [[Elativ]] || talosta || pertišpäi || taloista || pertišpäi
 |-
-|[[Adessiv]]
-|talolla
-|taloilla
+| 9 || [[Illativ]] || taloon || pertihe || taloihin || pertihe
 |-
-|[[Ablativ]]
-|talolta
-|taloilta
+| 10 || [[Adessiv]] || talolla || pertil || taloilla || pertil
 |-
-|[[Allativ]]
-|talolle
-|taloille
+| 11 || [[Ablativ]] || talolta || pertilpäi || taloilta || pertilpäi
 |-
-|[[Abessiv]]
-|talotta
-|taloitta
+| 12 || [[Allativ]] || talolle || pertile || taloille || pertile
 |-
-|[[Komitativ]]
-|taloineen
-|taloineen
+| 13 || [[Abessiv]] || talotta || pertita || taloitta || pertita
 |-
-|[[Instruktiv]]
-|taloin
-|taloin
+| 14 || [[Komitativ]] || taloineen || pertinke || taloineen || pertidenke
+|-
+| 15 || [[Instruktiv]] || taloin ||  || taloin || 
 |}
 
 == Lugusanad ==
