@@ -65,6 +65,8 @@ Jonusiden klassifikacii om erazvuitte lujas. Voib jagada niid neniden kriterijoi
 === Jonusen radnikad ===
 Kaikutte jonuz om [[vedimen brigad]]an ohjandusen al. Nece brigad kogoneb [[vedimen mašinist|mašinistaspäi]] da hänen abunikaspäi. Mašinist ohjandab jonust, kacub ten varuitomut. Vedimen mašinistan abunik mugažo kacub ted i erasti, mašinistan käskön mödhe, kodvib sil'mil vedimen ladimišton radod.
 
+Ižanduzjonushe pandas radoiden pämest vai hänen ristitud täuz'valdoiktusidenke. Mugažo pandas [[jonusiden keradai|jonusiden keradajad]] manevriruimha jonusil. Nügüd'aigan üks' mašinist ohjastab erasil passažirjonusil, eskai abunikoita («personaline vastusenpidand»).
+
 === Raudtelämoiden signalizacii ===
 Ezmäižil vozil jagoihe jonusid raudteil aigkeskustal. Likundan paksuz ližazi teravas, i nece metod ozuti ičeze vällüzid. Kävutaškanzihe jagandan avaruden mödhe. Ezmäi lasktihe ajada vaiše üht jonust kahten lähembaižen stancijan keskes. Sädamha kontrolid, eziauguižin kävutihe [[semafor]]id kuti laivoil, sid' kävutaškanzihe [[lüksofor]]id. Raudtelüksofor ozutab kel'dandsignalid normaližes olendas. Laskendsignal ozutase, vaiše ku distancii lüksoforan taga om joudai. Möhemba jagaškanzihe stancijoidenkeskešt pidustad blokoihe-tarhoihe. Blokan-tarhan piduz rippub neniš kriterijoišpäi: lugustuzinterval mödaižiden jonusiden keskes, ten profil', likundan piguded, jonusiden veduz da piduz, mugažo azotimiden effektivižuz. Blokad-tarhad oma 1 kilometran pitte da sen enamba tobjimalaz. Nügüd'aigaižed lüksoforad ozutadas joudjiden blokoiden-tarhoiden lugumärad kel'dand- da laskendsignaliden ližaks. Sen tagut mašinistad voidas teta ten ümbriolendas edelpäi da ohjastada jonusid korktembidenke piguzidenke. Kiruhlikutimen aigan kävutadas avtomatišt signalizacijan vedimen täht. Pen' lüksofor om mašinistan kabinas, se toštab sijatud raudteinno lüksoforan ozutandoid. Šifruidud signal lüksoforan ozutandoiš tuleb kabinha rel'soidme.
 
@@ -73,9 +75,15 @@ Ezmäižil vozil jagoihe jonusid raudteil aigkeskustal. Likundan paksuz ližazi 
 
 == Mašiništ ==
 === Energomašiništ ===
-Jonusen energetik om kaik sen generatorad da energijankulutajad ladimed, mugažo ekspluatirujad sistemad. Kulutadud jonusel energijan enambuz kävutase vedandaks, toižin sanoin, likutamha jonust.
+Jonusen energetik om kaik sen generatorad da energijankulutajad ladimed, mugažo ekspluatirujad sistemad. Kulutadud jonusel energijan enambuz kävutase vedandaks, toižin sanoin, likutamha jonust. Abusistemad (lämbituz, pidatuz, tulleitamižsistem) kulutadas energijan palad, no se om vaiše elektruz. Elektrogenerator, akkumulätorbatarei da kaikenaigaižen joksusen toižetimed vajehtujaks joksuseks oma tarbhaižed passažirjonusen täht.
 
-Ü ž š č ü ä ö — «» j.
+=== Azotimed ===
+Nügüd'aigaižed jonused vedadas tuhad tonnoid, ajadas lujidenke piguzidenke. Sen rezul'tataks, likui jonuz om sur'kuludenke kinetiženergijanke. Sil-žo aigal jonuz ajab siledoil metalližil [[kezr]]oil siledoidme [[rel's]]oidme, i hillenduzpidustan piduz rippub azotimiden effektivižusespäi vaiše.
+
+Azotimiden toižendad oma frikcižed, pnevmatižed, magnitižrel'sazotimed, aerodinamižed azotimed. Mugažo kävutadas hillendusid likutimel i likutimen avaidust tagalikumižhe (reversivine hillenduz).
+
+=== Signalad ===
+Edelpäi tedotamižsignalad jonusen lähenemižes oma tarbhaižed varmitamha likundan varuitomut. Mugomad signalad varutadas mugažo jonusen likundan čuraduses. Sen ližaks, mašinist voib vajehtadas informacijal olijoidenke raudteil radnikoidenke kulundsignaliden abul, sidä kesken antta käsköid.
 
 == Homaičendad ==
 <references />
