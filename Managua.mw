@@ -1,29 +1,33 @@
-{| class="infobox bordered" align=right cellpadding=4 cellspacing=0 width=275 style="clear:right; margin: 0 0 1em 1em; background: #f9f9f9;  font-size: 95%;"
-|-
-|colspan=2 align=center bgcolor="#BFDFFF"|<big>'''Managua'''</big>
-|-
-| align="center" | [[Fail:Escudo_de_Managua.svg|100px]]
-| align="center" | [[Fail:Flag_of_Managua.svg|125px]]
-|-
-| align="center" | 
-| align="center" | 
-<br /><small></small>
-|-
-|Eläjiden lugu|| 1 817 000
-|-
-|Mer|| Deizi Torres
-|}
-'''Managua''' ([[ispanijan kel'|isp.:]] ''Managua'') om [[Nikaragua]]n pälidn da kaikiš suremb lidn.
+{{Eländpunkt
+ | Nimi = Managua
+ | Lidnanznam = Escudo de Managua.svg
+ | Flag = Flag of Managua.svg
+ | Lidnanznam text = Managuan lidnanznam
+ | Flag text = Managuan flag
+ | Valdkund = Nikaragua
+ | Eläjiden lugu = 1 480 270
+ | Voz' = 2012
+ | Pind = 544
+ | Fail = Managua, Nicaragua.jpg
+ | Pämez' = [[Torres Deizi|Deizi Torres]] (2009-)
+ | Telefonkod = +505-2
+ | Aigvö = [[UTC]]-6
+}}
+'''Managua''' (täuz' nimi [[ispanijan kel'|ispanijan kelel]] ''Leal Villa de Santiago de Managua'') om [[Nikaragua]]n pälidn da kaikiš suremb lidn.
 
-Eläjiden lugu om 1,817 mln. rist.
+Lidn om valdkundan tegimišton da finansiden keskuz. 23 universitetad sijadasoiš lidnas.
 
 == Istorii ==
-Ispanijalaižed [[konkistador]]ad oma pannuded Managua-lidnan alusen XVI vss.
+Edel Kolumban erad kalanikoiden lidnut oli Managuan sijas. Ispanijan [[konkistador]]ad oma pannuded nügüdläižen Managua-lidnan alusen 16. voz'sadas. Oficialine alusenpanend lidnaks oli vl 1819 (5. sulaku). Vl 1852 lidn tegihe ripmatoman [[Nikaragua (valdkund)|Nikaraguan]] pälidnaks.
 
-Vspäi 1855 se tegihe [[Nikaragua (valdkund)|Nikaraguan]] pälidnaks.
+Vozil 1885, 1931 da 1972 lujad manrehkaidused murenziba lidnan paloid. 1980-nzil vozil ei olend sauvondad rahvahanikoiden sodan tagut.
 
 == Geografii ==
-Managua sijadase [[Managua (järv)|Managuanjärven]] suvirandal.
+Managua sijadase valdkundan päivlaskmas, [[Managua (järv)|Managuanjärven]] suvirandal. Järven kendäk om 55 m valdmeren pindan päl. Lidnan fartaloiden korktuz om lujemb, ned seištas Managuan mägil, kudambiden korktuz om 700 metrhasai.
+
+Klimat om [[tropine vö|tropine]] räk. Päivän keskmäine lämuz om +28...32 C° vodes ümbri. Om kaks' sezonad vodes: kuiv (kül'mku-sulaku, 75 mm pol'vodes) i neps (semendku-reduku, 130-280 mm kus). Paneb sadegid 1200 mm vodes.
+
+Managua jagase 7 nomeruidud rajonha (isp. ''distrito'').
 
 == Galerei ==
 <center><gallery widths="200px" heights="130px">
@@ -33,10 +37,12 @@ Fail:PalacioNacional.png|Rahvahaline pert'kulu
 Fail:Banco de América Central, Managua.jpg|Nikaraguan finansinstitut
 </gallery></center>
 
+== Irdkosketused ==
+* [http://www.managua.gob.ni/ Managua-lidnan oficialine portal.] {{ref-es}}
+
 {{Pohjoižamerikan pälidnad}}
 
 {{stub}}
-
 [[Kategorii:Managua| ]]
 [[Kategorii:Nikaraguan lidnad]]
 [[Kategorii:Nikaragua]]
