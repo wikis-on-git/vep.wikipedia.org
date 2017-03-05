@@ -1,23 +1,30 @@
-{| class="infobox bordered" align=right cellpadding=4 cellspacing=0 width=275 style="clear:right; margin: 0 0 1em 1em; background: #f9f9f9;  font-size: 95%;"
-|-
-|colspan=2 align=center bgcolor="#BFDFFF"|<big>'''Mrongovo'''</big>
-|-
-| align="center" | [[Fail:POL Mrągowo COA.svg|85px]]
-| align="center" | [[Fail:POL Mrągowo flag.svg|border|150px]]
-|-
-|Eläjiden lugu|| 21732
-|-
-|Pind|| 14,81 km²
-|}
+{{Eländpunkt
+ | Nimi = Mrongovo<br />Mrągowo
+ | Lidnanznam = POL Mrągowo COA.svg
+ | Flag = POL Mrągowo flag.svg
+ | Lidnanznam text = Mrongovon lidnanznam
+ | Flag text = Mrongovon flag
+ | Valdkund = Pol'šanma
+ | Eläjiden lugu = 21,592
+ | Voz' = 2016
+ | Pind = 14.81
+ | Fail = Mragowo-Magistrackie.jpg
+ | Pämez' = 
+ | Telefonkod = +48-89
+ | Aigvö = tal'vel [[UTC]]+1,<br />kezal [[UTC]]+2
+}}
+'''Mrongovo''' ([[pol'šan kel'|pol'šan kelel]]: ''Mrągowo'', [[saksan kel'|saksan kelel]]: ''Sensburg'') om lidn [[Pol'šanma]]n pohjoižpäivnouzmas. Mülüb [[Varminiž-Mazuran sodaveikund]]ha.
 
-'''Mrongovo''' ([[Pol'šan kel'|pol'šan kelel]]: ''Mrągowo'', [[Saksan kel'|saksan kelel]]: ''Sensburg'') om [[Pol'šanma]]n lidn.
+Elandpunktan aluz om pandud vl 1348, istorine nimi om ''Ządzbork''. Se sai lidnan oiktusid vl 1444. Vl 1945 lidnad udesnimitihe 19. voz'sadan Pol'šanman Kšištof Mrongoviuš-tedomehen oiktastuseks.
 
 == Sebruzlidnad ==
-* [[Fail:Flag of Poland.svg|20px|border]] [[Limanov]], [[Pol'šanma]]
-* [[Fail:Flag of Germany.svg|20px|border]] [[Grünberg]], [[Saksanma]]
-* [[Fail:Flag of Russia.svg|20px|border]] [[Zelenogradsk]], [[Venäma]]
+* {{POL|#}} [[Limanov]], [[Pol'šanma]]
+* {{GER|#}} [[Grünberg]], [[Hessen]], [[Saksanma]]
+* {{RUS|#}} [[Zelenogradsk]], [[Kaliningradan agj]], [[Venäma]]
+
+{{Commons|Mrągowo}}
 
 {{stub}}
-
 [[Kategorii:Pol'šanman lidnad]]
 [[Kategorii:Eländpunktad kirjamišton mödhe]]
+[[Kategorii:Varminiž-Mazuran sodaveikund]]
