@@ -14,8 +14,8 @@ Keles om 16 kändod substantividen täht, 2 kändlust verboiden da adjektividen 
 {| class="wikitable"
 |+Hiragana
 ! rowspan="2" |
-! colspan="5" |Gojūon
-! colspan="3" |Yōon
+! colspan="5" |Monografad (Godzüon)
+! colspan="3" |Digrafad (Jōon)
 |-
 !''a''
 !''i''
@@ -40,24 +40,24 @@ Keles om 16 kändod substantividen täht, 2 kändlust verboiden da adjektividen 
 |<big>く</big>ku [kɯ]
 |<big>け</big>ke [ke]
 |<big>こ</big>ko [ko]
-|<big>きゃ</big>k'a [kʲa]
-|<big>きゅ</big>k'u [kʲɯ]
-|<big>きょ</big>k'o [kʲo]
+|<big>きゃ</big>kä [kʲa]
+|<big>きゅ</big>kü [kʲɯ]
+|<big>きょ</big>kö [kʲo]
 |-
 !''S''
 |<big>さ</big>sa [sa]
-|<big>し</big>š'''i''' [ɕi]
+|<big>し</big>ši [ɕi]
 |<big>す</big>su [sɯ]
 |<big>せ</big>se [se]
 |<big>そ</big>so [so]
-|<big>しゃ</big>ša [ɕa]
-|<big>しゅ</big>šu [ɕɯ]
-|<big>しょ</big>šo [ɕo]
+|<big>しゃ</big>šä [ɕa]
+|<big>しゅ</big>šü [ɕɯ]
+|<big>しょ</big>šö [ɕo]
 |-
 !''T''
 |<big>た</big>ta [ta]
-|<big>ち</big>č'''i''' [t͡ɕi]
-|<big>つ</big>'''cu''' [t͡sɯ]
+|<big>ち</big>či [t͡ɕi]
+|<big>つ</big>cu / tsu [t͡sɯ]
 |<big>て</big>te [te]
 |<big>と</big>to [to]
 |<big>ちゃ</big>ča [t͡ɕa]
@@ -70,19 +70,19 @@ Keles om 16 kändod substantividen täht, 2 kändlust verboiden da adjektividen 
 |<big>ぬ</big>nu [nɯ]
 |<big>ね</big>ne [ne]
 |<big>の</big>no [no]
-|<big>にゃ</big>n'a [ɲa]
-|<big>にゅ</big>n'u [ɲɯ]
-|<big>にょ</big>n'o [ɲo]
+|<big>にゃ</big>nä [ɲa]
+|<big>にゅ</big>nü [ɲɯ]
+|<big>にょ</big>nö [ɲo]
 |-
 !''H''
 |<big>は</big>ha [ha], [ɰa]
 |<big>ひ</big>hi [çi]
-|<big>ふ</big>'''fu''' [ɸɯ]
+|<big>ふ</big>fu [ɸɯ]
 |<big>へ</big>he [he], [e] 
 |<big>ほ</big>ho [ho]
-|<big>ひゃ</big>h'a [ça]
-|<big>ひゅ</big>h'u [çɯ]
-|<big>ひょ</big>h'o [ço]
+|<big>ひゃ</big>hä [ça]
+|<big>ひゅ</big>hü [çɯ]
+|<big>ひょ</big>hö [ço]
 |-
 !''M''
 |<big>ま</big>ma [ma]
@@ -90,9 +90,9 @@ Keles om 16 kändod substantividen täht, 2 kändlust verboiden da adjektividen 
 |<big>む</big>mu [mɯ]
 |<big>め</big>me [me]
 |<big>も</big>mo [mo]
-|<big>みゃ</big>m'a [mʲa]
-|<big>みゅ</big>m'u [mʲɯ]
-|<big>みょ</big>m'o [mʲo]
+|<big>みゃ</big>mä [mʲa]
+|<big>みゅ</big>mü [mʲɯ]
+|<big>みょ</big>mö [mʲo]
 |-
 !''Y''
 |<big>や</big>ja [ja]
@@ -108,15 +108,15 @@ Keles om 16 kändod substantividen täht, 2 kändlust verboiden da adjektividen 
 |<big>る</big>ru [ɾɯ]
 |<big>れ</big>re [ɾe]
 |<big>ろ</big>ro [ɾo]
-|<big>りゃ</big>r'a [ɾʲa]
-|<big>りゅ</big>r'u [ɾʲɯ]
-|<big>りょ</big>r'o [ɾʲo]
+|<big>りゃ</big>rä [ɾʲa]
+|<big>りゅ</big>rü [ɾʲɯ]
+|<big>りょ</big>rö [ɾʲo]
 |-
 !''W''
 |<big>わ</big>wa [ɰa]
-|<big>ゐ</big>wi [(ɰ)i]
+|<big>ゐ</big>''wi [(ɰ)i]''
 |
-|<big>ゑ</big>we [(ɰ)e]
+|<big>ゑ</big>''we [(ɰ)e]''
 |<big>を</big>wo [(ɰ)o]
 | colspan="3" |
 |-
@@ -131,17 +131,17 @@ Keles om 16 kändod substantividen täht, 2 kändlust verboiden da adjektividen 
 | colspan="9" |
 |-
 ! rowspan="2" |
-! colspan="5" |Gojūon handakutenenke
-! colspan="3" |Yōon handakutenenke
+! colspan="5" |Monografad diakritikanke (Godzüon handakutenenke)
+! colspan="3" |Digrafad diakritikanke (Jōon handakutenenke)
 |-
 !''a''
 !''i''
 !''u''
 !''e''
 !''o''
-!''ya''
-!''yu''
-!''yo''
+!''ja''
+!''ju''
+!''jo''
 |-
 !''G''
 |<big>が</big>ga [ɡa]
@@ -149,13 +149,13 @@ Keles om 16 kändod substantividen täht, 2 kändlust verboiden da adjektividen 
 |<big>ぐ</big>gu [ɡɯ]
 |<big>げ</big>ge [ɡe]
 |<big>ご</big>go [ɡo]
-|<big>ぎゃ</big>g'a [ɡʲa]
-|<big>ぎゅ</big>g'u [ɡʲɯ]
-|<big>ぎょ</big>g'o [ɡʲo]
+|<big>ぎゃ</big>gä [ɡʲa]
+|<big>ぎゅ</big>gü [ɡʲɯ]
+|<big>ぎょ</big>gö [ɡʲo]
 |-
 !''Z''
 |<big>ざ</big>za [za]
-|<big>じ</big>'''dži''' [(d)ʑi]
+|<big>じ</big>dži [(d)ʑi]
 |<big>ず</big>dzu [(d)zɯ]
 |<big>ぜ</big>ze [ze]
 |<big>ぞ</big>zo [zo]
@@ -165,8 +165,8 @@ Keles om 16 kändod substantividen täht, 2 kändlust verboiden da adjektividen 
 |-
 !''D''
 |<big>だ</big>da [da]
-|<big>ぢ</big>'''dži''' [(d)ʑi]
-|<big>づ</big>'''dzu''' [(d)zɯ]
+|<big>ぢ</big>dži [(d)ʑi]
+|<big>づ</big>dzu [(d)zɯ]
 |<big>で</big>de [de]
 |<big>ど</big>do [do]
 |<big>ぢゃ</big>dža [(d)ʑa]
@@ -179,9 +179,9 @@ Keles om 16 kändod substantividen täht, 2 kändlust verboiden da adjektividen 
 |<big>ぶ</big>bu [bɯ]
 |<big>べ</big>be [be]
 |<big>ぼ</big>bo [bo]
-|<big>びゃ</big>b'a [bʲa]
-|<big>びゅ</big>b'u [bʲɯ]
-|<big>びょ</big>b'o [bʲo]
+|<big>びゃ</big>bä [bʲa]
+|<big>びゅ</big>bü [bʲɯ]
+|<big>びょ</big>bö [bʲo]
 |-
 !''P''
 |<big>ぱ</big>pa [pa]
@@ -189,9 +189,9 @@ Keles om 16 kändod substantividen täht, 2 kändlust verboiden da adjektividen 
 |<big>ぷ</big>pu [pɯ]
 |<big>ぺ</big>pe [pe]
 |<big>ぽ</big>po [po]
-|<big>ぴゃ</big>p'a [pʲa]
-|<big>ぴゅ</big>p'u [pʲɯ]
-|<big>ぴょ</big>p/o [pʲo]
+|<big>ぴゃ</big>pä [pʲa]
+|<big>ぴゅ</big>pü [pʲɯ]
+|<big>ぴょ</big>pö [pʲo]
 |}
 
 == Vokalizm ==
@@ -199,7 +199,7 @@ Keles om 16 kändod substantividen täht, 2 kändlust verboiden da adjektividen 
 |+
 !Hiragana
 !LFT
-!Palivanov''än'' 
+!Polivanovan 
 transkripcii
 |-
 |あ
