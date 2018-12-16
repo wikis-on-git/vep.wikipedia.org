@@ -2,10 +2,12 @@ Ezmäižed seičeme federališt ümbrikod om olmas vspäi 2000. Ei ole rahvahali
 
 [[Venäma]] jagase administrativižešti 8 federaližhe ümbrikho vspäi 2016:
 
-{| class="references-small wikitable"
+{| class="references-small"
 |-
 | colspan=7 style="background:#eee;" | [[Fail:Map of Russian districts, 2018-11-04.svg|500x500px|center]]
 |- bgcolor="#ECECEC"
+| style="width: 100%;" |
+{| class="wikitable sortable" style="border-collapse: collapse; width: 100%; margin:0px;"
 ! #
 ! Ümbrikon nimi
 ! Pind<br />(km²)
@@ -77,6 +79,7 @@ Ezmäižed seičeme federališt ümbrikod om olmas vspäi 2000. Ei ole rahvahali
 | align="center" | 7
 | [[Pätigorsk]]
 | +8,1
+|}
 |}
 
 == Homaičendad ==
