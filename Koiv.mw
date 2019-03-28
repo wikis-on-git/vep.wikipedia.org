@@ -1,5 +1,27 @@
-[[Fail:Betula pendula 001.jpg|thumb|250px|right|Koiv]]
-'''Koiv''' ({{lang-la|Betula}}) om [[pu]].
+{{Taxobox
+ | name         = Koiv
+ | image file   = Betula pendula 001.jpg
+ | image title  = Koiv
+ | image descr  = Koiv
+ | regnum       = Kazmused
+ | divisio      = [[Änikkazmused]] (''Magnoliophyta'')
+ | classis      = [[Kaksidülehtesižed]] (''Dicotyledones'')
+ | ordo         = [[Bukpuänikoižed]] (''Fagales'')
+ | familia      = [[Koivunvuiččed]] (''Betulaceae'')
+ | genus        = '''Koiv'''
+ | latin        = {{btname|Betula |[[L.]], 1753}}
+ | section name =
+ | section text =
+ | wikispecies  = Betula
+ | commons      = Category:Betula
+ | itis         = 19478
+ | ncbi         = 3504
+ | range map    = Areal bereza.png
+ | range legend = 
+}}
+'''Koiv''' ({{lang-la|Bétula}}) om [[pu]]iden sugu.
+
+Läz 100 erikod, om levitadud [[Pohjoine mapolišk|Pohjoižes mapoliškos]].
 
 == Koivuhu sidotud vepsän tärtused ==
 * ''Iver'' — koivun jur'.
@@ -19,7 +41,10 @@
 * [[Kurdiž koiv]]
 * [[Raudkoiv]]
 
-{{stub}}
+== Homaičendad ==
+<references />
 
+{{stub}}
+[[Kategorii:Koivunvuiččed]]
 [[Kategorii:Kazmused kirjamišton mödhe]]
 [[Kategorii:Pud]]
