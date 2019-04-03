@@ -1,6 +1,25 @@
 {{1000}}
-[[Fail:Barley in Slovenia.jpg|thumb|right|250px|Ozr]]
-'''Ozr''' ([[latinan kel'|latin.]] ''Hordeum vulgare'') om [[Tähkheinäd|Tähkheiniden]] sugukundan, [[Ozr (heim)|Ozran]] heimon [[heinäsižed kazmused|heinäsine]] kazmuz.
+{{Taxobox
+ | name         = Järgeline ozr
+ | image file   = Barley in Slovenia.jpg
+ | image title  = Järgeline ozr
+ | image descr  = Järgeline ozr [[Slovenii|Slovenijas]]
+ | regnum       = Kazmused
+ | divisio      = [[Änikkazmused]] (''Magnoliophyta'')
+ | classis      = [[Üksidülehtesižed]] (''Monocotyledoneae'')
+ | ordo         = [[Tähkänikoižed]] (''Poales'')
+ | familia      = [[Tähkheinäd]] (''Poaceae'')
+ | genus        = [[Ozr (sugu)|Ozr]] (''Hordeum'')
+ | species      = '''Järgeline ozr'''
+ | latin        = {{btname|Hordeum vulgare |[[L.]], 1753}}
+ | wikispecies  = Hordeum vulgare
+ | commons      = Category:Hordeum vulgare
+ | itis         = 40874
+ | ncbi         = 4513
+}}
+'''Järgeline ozr''' ({{lang-la|Hordeum vulgare}}), vai muite ''ozr'', om [[Tähkheinäd|Tähkheiniden]] sugukundan, [[Ozr (heim)|Ozran]] heimon [[üks'voččed kazmused|üks'vozne]] [[heinäsižed kazmused|heinäsine]] kazmuz. Kul'tivirudas läz 10 tuhad vozid.
+
+Kävutadas villän enamba pol't furažaks, sötlemha maižanduzživatoid.
 
 == Ozrha sidotud vepsän tärtused ==
 * ''[[Ozražnik]]'' — ozraine leib.
@@ -8,7 +27,7 @@
 * ''[[Rokkoi]]'' — nozol ozrpudr.
 * ''[[Surinik]]'' — kalitk ozraiženke südäimenke.
 
-== Ozrha sidotud vepsän muštatišed ==
+== Ozrha sidodud vepsän muštatišed ==
 <blockquote>
 * ''Ozr orahaižes, a laps' vagahaižes.''
 </blockquote>
@@ -17,6 +36,6 @@
 
 {{stub}}
 [[Kategorii:Tähkheinäd]]
-[[Kategorii:Villänkul'turad]]
 [[Kategorii:Kazmused kirjamišton mödhe]]
 [[Kategorii:Maižanduzkul'turad kirjamišton mödhe]]
+[[Kategorii:Villänkul'turad]]
