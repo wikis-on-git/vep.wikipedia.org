@@ -1,5 +1,25 @@
 {{1000}}
-[[Fail:Wheat close-up.JPG|thumb|right|250px|Nižu]]
+{{Taxobox
+ | name         = Nižu
+ | image file   = Wheat close-up.JPG
+ | image title  = Nižu
+ | image descr  = Nižu (''Triticum'')
+ | regnum       = Kazmused
+ | divisio      = [[Änikkazmused]] (''Magnoliophyta'')
+ | classis      = [[Üksidülehtesižed]] (''Monocotyledoneae'')
+ | ordo         = [[Tähkänikoižed]] (''Poales'')
+ | familia      = [[Tähkheinäd]] (''Poaceae'')
+ | genus        = '''Nižu'''
+ | latin        = {{btname|Triticum |[[L.]], 1753}}
+ | section name = Tipine erik
+ | section text = ''Triticum aestivum''
+ | wikispecies  = Triticum
+ | commons      = Category:Triticum
+ | itis         = 42236
+ | ncbi         = 4564
+ | range map    = Cultivo trigo.jpg
+ | range legend = 
+}}
 '''Nižu''' ({{lang-la|Triticum}}) om ''[[Tähkheinäd|Tähkheiniden]]'' sugukundan (tobjimalaz [[üks'voččed kazmused|üks'voččiden]]) [[heinäsižed kazmused|heinäsižiden]] kazmusiden heim. Se om znamasine maižanduzkul'tur äjiš valdkundoiš.
 
 == Kodikoičendan istorii ==
@@ -24,6 +44,6 @@ Mail'man satuz oli 729 mln tonnoid vl 2014, se ližadui 15,3% kümnes vodes. Kai
 {{Commons|Wheat}}
 
 [[Kategorii:Tähkheinäd]]
-[[Kategorii:Villänkul'turad]]
-[[Kategorii:Kazmused kirjamišton mödhe]]
 [[Kategorii:Maižanduzkul'turad kirjamišton mödhe]]
+[[Kategorii:Kazmused kirjamišton mödhe]]
+[[Kategorii:Villänkul'turad]]
