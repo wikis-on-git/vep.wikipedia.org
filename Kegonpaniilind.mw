@@ -1,13 +1,46 @@
-[[Fail:Alauda arvensis 2.jpg|thumb|right|250px|Kegonpaniilind]]
+{{Taxobox
+ | name         = Kegonpaniilind
+ | image file   = Alauda arvensis 2.jpg
+ | image descr  = Kegonpaniilind
+ | regnum       = Živatad
+ | phylum       = [[Sel'gjäntkeižed]] (''Chordata'')
+ | classis      = [[Lindud]] (''Aves'')
+ | ordo         = [[Pasklindunvuiččed]] (''Passeriformes'')
+ | familia      = [[Kegonpaniilindunvuiččed]] (''Alaudidae'')
+ | genus        = [[Kegonpaniilindud]] (''Alauda'')
+ | species      = '''Kegonpaniilind'''
+ | latin        = {{btname|Alauda arvensis|([[Linnei Karl|Linnaeus]], 1758)}}  
+ | wikispecies  = Alauda arvensis
+ | commons      = Category:Alauda arvensis
+ | itis         = 178398
+ | ncbi         = 88112
+ | range map    = AlaudaArvensisIUCNver2019 1.png
+ | range legend = {{legend|#00FF00|<small>vaiše pezoitelese</small>}}
+{{legend|#008000|<small>vodes ümbri</small>}}
+{{legend|#00FFFF|<small>migracijan maršrutad</small>}}
+{{legend|#007FFF|<small>migracijan rajonad</small>}} 
+{{legend|#FFFF00|<small>invazivine erik</small>}}
+{{legend|#FF8080|<small>kadoi ezimeletaden i invazivine erik</small>}}
+}}
 '''Kegonpaniilind''' ({{lang-la|Alauda arvensis}}) om pen' keza[[lind]], sugu mülüb [[Kegonpaniilindud]]-sugukundha. Tetas ičeze komedas da melodižes pajatandaspäi.
 
-Sugun erikod oma levutadud avaros. Lind vasttase Evrazijas i Afrikan pohjoižmägil. Kegonpaniilindun sugu om [[invazivine erik|invazivine]] Pohjoižamerikan i Avstralijan päivlaskmas, Udes Zelandijas. Putub vastha mecan päiči, no voib vastata mecanröunal.
+== Areal ==
+Sugun erikod oma levutadud avaros. Lind vasttase Evrazijas i Afrikan pohjoižmägil. Kegonpaniilindun sugu om [[invazivine erik|invazivine]] Pohjoižamerikan i Avstralijan päivlaskmas, Udes Zelandijas.
 
-Lind om järedamb mi [[paskač]], i höunhišt kirjavamb. Sel'g om hahk mujul vai pakuiž-koričma, pucuhuden höunhišt om vauged. Pä om hahlakaz, tarkamb i henomb mi paskačul. Ižačud emäčuiden järedamba, vaiše ižačud pajatadas. Jodas [[kaste]]t, södas [[tähkheinäd|tähkheiniden]] semnid tobjimalaz, mugažo penid gavedid da bumbakoid, vaiše maspäi. Pandas pezad heinhä man pindanno, valitas peitsijid pöudoil, nituil vai heinäsižil sijil ku eile niid. Venäman keskuztazangišton kezalindud tehtas pezoid semendkun augotišes, vihandoiden orahaižiden ühtes. Toine äikerdoičend oleleb kezakus-heinkus. Letas tal'veks Evropan suvhe sügüz'kun keskes.
+Putub vastha mecan päiči, no voib vastata mecanröunal.
 
-{{Commons|Alauda arvensis}}
+== Ümbrikirjutand ==
+Lind om järedamb mi [[paskač]], i höunhišt kirjavamb. Sel'g om hahk mujul vai pakuiž-koričma, pucuhuden höunhišt om vauged. Pä om hahlakaz, tarkamb i henomb mi paskačul. Ižačud emäčuiden järedamba, vaiše ižačud pajatadas.
+
+== Söte i elonlad ==
+Kegonpaniilindud jodas [[kaste]]t, södas [[tähkheinäd|tähkheiniden]] semnid tobjimalaz, mugažo penid gavedid da bumbakoid, vaiše maspäi.
+
+Pandas pezad heinhä man pindanno, valitas peitsijid pöudoil, nituil vai heinäsižil sijil ku eile niid. Venäman keskuztazangišton kezalindud tehtas pezoid semendkun augotišes, vihandoiden orahaižiden ühtes. Toine äikerdoičend oleleb kezakus-heinkus. Letas tal'veks Evropan suvhe sügüz'kun keskes.
+
+== Homaičendad ==
+<references />
 
 {{stub}}
-[[Kategorii:Lindud]]
 [[Kategorii:Pasklindunvuiččed]]
+[[Kategorii:Lindud]]
 [[Kategorii:Živatad kirjamišton mödhe]]
