@@ -1,14 +1,32 @@
 {{1000}}
-[[Fail:Ovis orientalis aries 'Skudde' (aka).jpg|thumb|right|250px|Lambaz]]
-'''Lambaz''' ({{lang-la|Ovis aries}}) om [[kabjživat]]. Om kodikoittud nügüdläižen [[Turkanma]]n territorijas 8 tuhad vot tagaz.
+{{Taxobox
+ | name         = Lambaz
+ | image file   = Ovis orientalis aries 'Skudde' (aka).jpg
+ | image descr  = Lambaz
+ | regnum       = Živatad
+ | phylum       = [[Sel'gjäntkeižed]] (''Chordata'')
+ | classis      = [[Imetaiživatad]] (''Mammalia'')
+ | ordo         = [[Šorpkabjaižed]] (''Artiodactyla'')
+ | familia      = ''Bovidae''
+ | genus        = [[Oinhad]] (''Ovis'')
+ | species      = '''Lambaz'''
+ | latin        = {{btname|Ovis aries|([[Linnaeus]], 1758)}}  
+ | wikispecies  = Ovis aries
+ | commons      = Category:Ovis aries
+ | itis         = 552475
+ | ncbi         = 9940
+ | range map    =
+}}
+'''Lambaz''' ({{lang-la|Ovis aries}}) om [[kabjživat]], mülütadas ''[[Bovidae]]''-sugukundha.
 
-Lambhan ižač om '''[[bošak]]''', vai '''[[oinaz]]'''.
+Lambhan ižač om '''[[bošak]]''', vai '''[[oinaz]]'''. Lambhanpoigaine om '''vodn (vodnaz)'''.
 
-Lambhan poig om '''vodn''' ('''vodnaz''').
+Živat om kodikoittud nügüdläižen [[Turkanma]]n territorijas 8 tuhad vot tagaz. Kävutadas villad karvaspäi, [[lambazliha|lihad]], [[maid]]od (tehmaha [[brinz]]ad), razvad i [[kezi|ket]]; ottas kaclendtegoihe model'organizmikš (oz., Dolli-lambhaine).
 
-Vl 2013 kaik om 1 172 mln lambhid mail'mas. Valdkundad järedanke [[lambazvodind]]anke: [[Kitai]] — 185 mln lambhid, [[Avstralii]] — 89 mln, [[Indii]] — 75 mln, [[Sudan]] — 52 mln, [[Iran]] — 50 mln, [[Nigerii]] — 39 mln, [[Sur' Britanii]] — 33 mln, [[Uz' Zelandii]] — 30 mln.
+Täuz'kaznuded ižačud oleldas 70..160 kg (rekord 247,2 kg), emäčud 45..100 kg. Ižačud oma sar'vekahad tobjimalaz, emäčuil voib olda penid sar'vid. Sägun korktuz om 55..100 sm, hibjan piduz — 60..110 sm.
 
-Kävutadas karvad, [[lambazliha]]d, [[maid]]od (tehmaha [[brinz]]ad), [[kezi|ket]]; kaclendtegoiš model'organizmikš (Dolli-lambhaine).
+== Lugumär ==
+Vl 2013 kaik oli 1 172 mln lambhid mail'mas. Valdkundad järedanke [[lambazvodind]]anke: [[Kitai]] — 185 mln lambhid, [[Avstralii]] — 89 mln, [[Indii]] — 75 mln, [[Sudan]] — 52 mln, [[Iran]] — 50 mln, [[Nigerii]] — 39 mln, [[Sur' Britanii]] — 33 mln, [[Uz' Zelandii]] — 30 mln.
 
 == Lambhaze sidotud vepsän tärtused ==
 * ''Baši-baši, čke-čke'' — sanad kucumha lambhid.
@@ -32,10 +50,9 @@ Iče Timoi karvakaz, kauhtanaine villakaz (lambaz).
 == Homaičendad ==
 <references/>
 
-{{Commons|Ovis aries}}
-
 {{stub}}
+[[Kategorii:Bovidae]]
+[[Kategorii:Živatad kirjamišton mödhe]]
 [[Kategorii:Maižanduzživatad]]
 [[Kategorii:Kabjživatišt]]
 [[Kategorii:Imetaiživatad]]
-[[Kategorii:Živatad kirjamišton mödhe]]
