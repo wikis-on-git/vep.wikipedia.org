@@ -1,6 +1,27 @@
 {{1000}}
-[[Fail:Kaura.jpg|thumb|right|225px|Kagr]]
-'''Kagr''' ({{lang-la|Avena}}) om [[Tähkheinäd|Tähkheiniden]] sugukundan [[üks'voččed kazmused|üks'voččiden]] [[heinäsižed kazmused|heinäsižiden]] kazmusiden sugu.
+{{Taxobox
+ | name         = Kagr
+ | image file   = Kaura.jpg
+ | image title  = Kagr
+ | image descr  = Kagr
+ | regnum       = Kazmused
+ | divisio      = [[Änikkazmused]] (''Magnoliophyta'')
+ | classis      = [[Üksidülehtesižed]] (''Monocotyledoneae'')
+ | ordo         = [[Tähkänikoižed]] (''Poales'')
+ | familia      = [[Tähkheinäd]] (''Poaceae'')
+ | genus        = '''Kagr'''
+ | latin        = {{btname|Avena |[[L.]], 1753}}
+ | section name = Tipine erik
+ | section text = ''[[Avena sativa]]'' — [[Järgeline kagr]]
+ | wikispecies  = Avena
+ | commons      = Category:Avena
+ | itis         = 41455
+ | ncbi         = 4496
+ | range map    =
+}}
+'''Kagr''' ({{lang-la|Avena}}) om [[Tähkheinäd|Tähkheiniden]] sugukundan [[üks'voččed kazmused|üks'voččiden]] [[heinäsižed kazmused|heinäsižiden]] kazmusiden sugu. Kaik tetas läz 20 erikod heimos, niišpäi äjad oma rujoheinäd.
+
+Päine maižanduzkul'tur om [[järgeline kagr]]. Kävutadas sen ol'ged leviteseks, ottas villäd [[furaž]]aks. Tehtas nenid söndtavaroid: surin, [[jauh]], konditerižed tegesed (sidä kesken [[paštikod]]), [[tisel']], [[kagrhel'pked|hel'pked]] (müslin pala).
 
 == Kagrha sidotud vepsän tärtused ==
 * ''[[Boltahtaz]]'' — kagrasine vezipudr bolanke.
@@ -18,11 +39,15 @@
 * ''Näl'ghižele kanale kagr uniš näguse.''
 </blockquote>
 
+== Kacu mugažo ==
+* [[Kagrand]]
+* [[Kagrlinduine]]
+
 == Homaičendad ==
 <references />
 
 {{stub}}
 [[Kategorii:Tähkheinäd]]
-[[Kategorii:Villänkul'turad]]
 [[Kategorii:Kazmused kirjamišton mödhe]]
 [[Kategorii:Maižanduzkul'turad kirjamišton mödhe]]
+[[Kategorii:Villänkul'turad]]
