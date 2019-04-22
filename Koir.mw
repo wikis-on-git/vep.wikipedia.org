@@ -1,8 +1,28 @@
 {{1000}}
-[[Fail:Medalowy borgoj.jpg|thumb|right|250px|Venälaine mectuzkoir.]]
-'''Koir''' ({{lang-la|Canis lupus familiaris}}) om kodiživat, [[händikaz|händikahan]] alaerik, [[koiranvuiččed|koiranvuiččiden]] sugukundaspäi. Koir om popularižemb ([[kaži]]n rindal) «[[živat-kompan'jon]]».
+{{Taxobox
+ | name         = Koir
+ | image file   = Medalowy borgoj.jpg
+ | image descr  = Venälaine mectuzkoir
+ | regnum       = Živatad
+ | phylum       = [[Sel'gjäntkeižed]] (''Chordata'')
+ | classis      = [[Imetaiživatad]] (''Mammalia'')
+ | ordo         = [[Lihansöjad]] (''Carnivora'')
+ | familia      = [[Koiranvuiččed]] (''Canidae'')
+ | genus        = [[Händikahad]] (''Canis'')
+ | species      = [[Händikaz]] (''Canis lupus'')
+ | subspecies   = '''Koir'''
+ | latin        = {{btname|Canis lupus familiaris|([[Linnaeus]], 1758)}}  
+ | wikispecies  = Canis lupus familiaris
+ | commons      = Dog
+ | itis         = 726821
+ | ncbi         = 9615
+ | range map    =
+}}
+'''Koir''' ({{lang-la|Canis lupus familiaris}}) om kodiživat, [[händikaz|händikahan]] alaerik, [[Koiranvuiččed|Koiranvuiččiden]] sugukundaspäi. Koir om popularižemb ([[kaži]]n rindal) «[[živat-kompan'jon]]».
 
-Koiran poig kuctas '''kužu'''.
+Koiranpoigaine kuctase '''kužu:ks'''.
+
+Živat om kodikoittud [[Afroevrazii|Afroevrazijan]] territorijal möhäližes [[paleolit]]as (40..12 tuh. vozid tagaz). Kävutase mecadamha i kaičemha territorijad eskai ižandoiden unen aigan päpaloin.
 
 == Koiran sugud ==
 * [[Bolon'jalaine koir]]
@@ -27,9 +47,10 @@ Koiran poig kuctas '''kužu'''.
 * ''Putui kuti koirale kürz.''
 </blockquote>
 
-{{Commons|Dog}}
+== Homaičendad ==
+<references />
 
 {{stub}}
 [[Kategorii:Koirad| ]]
-[[Kategorii:Imetaiživatad]]
 [[Kategorii:Živatad kirjamišton mödhe‎]]
+[[Kategorii:Imetaiživatad]]
