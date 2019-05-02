@@ -1,25 +1,34 @@
 {{Taxobox
  | name         = Küuki
  | image file   = Common Greenshank (Tringa nebularia) at Bharatpur I IMG 5519.jpg
- | image descr  = Küuki
+ | image descr  = Küuki rahvahaližes Keoladeo-puištos [[Bharatpur (Indii)|Bharatpur]]-lidnanno, [[Indii]]
  | regnum       = Živatad
  | phylum       = [[Sel'gjäntkeižed]] (''Chordata'')
  | classis      = [[Lindud]] (''Aves'')
- | ordo         =
- | familia      = 
- | genus        = '''Küukad'''
- | latin        = {{btname|Tringa nebularia|}}  
+ | ordo         = ''Charadriiformes''
+ | familia      = [[Jumalanboronaiženvuiččed]] (''Scolopacidae'')
+ | genus        = [[Küuked]] (''Tringa'')
+ | species      = '''Küuki'''
+ | latin        = {{btname|Tringa nebularia|([[Gunnerus Johan Ernst|Gunnerus]], 1767)}}  
  | wikispecies  = Tringa nebularia
  | commons      = Category:Tringa nebularia
  | itis         = 176624
- | ncbi         =171270
- | range legend =
+ | ncbi         = 171270
+ | range map    = TringaNebulariaIUCNver2018 2.png
+ | range legend = 
+* {{legend|#00FF00|<small>vaiše pezoitelese</small>}}
+* {{legend|#00FFFF|<small>migracijan čuradused</small>}}
+* {{legend|#007FFF|<small>migracijan rajonad</small>}} 
+* {{legend|#FF00FF|<small>statjaližed lendused</small>}}
 }}
-[[Fail:Common Greenshank (Tringa nebularia) at Bharatpur I IMG 5519.jpg|thumb|right|300px|Küuki]]
-'''Küuki''' ({{Lang-la|Tringa nebularia}}) om [[lind]]<ref>[https://iucnredlist.org/details/22693220/0]</ref>
+'''Küuki''' ({{lang-la|Tringa nebularia}}) om keza[[lind]]un erik. Mülüb [[Jumalanboronaiženvuiččed]]-sugukundha. Om levitadud avaros [[Afroevrazii|Afroevrazijadme]], no lugumär poleneb.<ref>[http://iucnredlist.org/details/22693220/0 BirdLife International 2016. ''Tringa nebularia''. The IUCN Red List of Threatened Species 2016 (Erikoiden vähenduses rusked nimikirjutez, ''iucnredlist.org'').] {{ref-en}}</ref>
+
+Täuz'kaznu hibj sase 35 santimetrhasai, veduz — 280 grammhasai, maihutuzkeskust oleleb 70 sm. Mahtab ujuda da čukloiteldas hüvin.
+
 == Homaičendad ==
 <references />
-{{stub}}
 
-[[Kategorii:Lindud]]
+{{stub}}
+[[Kategorii:Jumalanboronaiženvuiččed]]
 [[Kategorii:Živatad kirjamišton mödhe]]
+[[Kategorii:Lindud]]
