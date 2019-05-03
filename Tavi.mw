@@ -1,6 +1,24 @@
-[[Fail:Teal (Anas crecca) (7).jpg|thumb|right|250px|Tavi]]
+{{Taxobox
+ | name         = Tavi
+ | image file   = Teal (Anas crecca) (7).jpg
+ | image descr  = Tavi
+ | regnum       = Živatad
+ | phylum       = [[Sel'gjäntkeižed]] (''Chordata'')
+ | classis      = [[Lindud]] (''Aves'')
+ | ordo         = [[Hanhenvuiččed]] (''Anseriformes'')
+ | familia      = [[Sorzanvuiččed]] (''Anatidae'')
+ | genus        = [[Sorzad]] (''Anas'')
+ | species      = '''Tavi'''
+ | latin        = {{btname|Anas crecca|([[Linnaeus]], 1758)}}  
+ | wikispecies  = Anas crecca
+ | commons      = Anas crecca
+ | itis         = 175081
+ | ncbi         = 75839
+ | range map    = Anas crecca distribution map.png
+ | range legend = <small>{{legend|#00FF00|Pezoitelendan areal}}{{legend|#0075FF|Migracijad}}{{legend|#007100|Läbivozne eländtaho}}</small>
+}}
 [[Fail:Anas crecca MHNT.ZOO.2010.11.18.3.jpg|thumb|right|250px|Tavin munad]]
-'''Tavi''' (dial. mugažo '''čiruškaine''', '''davič''', '''redusorz'''; {{lang-la|Anas crecca}}) om keza[[lind]], mülüb [[Sorzanvuiččed]]-sugukundha, kaikiš peneb jogisorzišpäi. Voib vastata Evrazijadme päiči Arktikas i Keskuzazijan letkesižiš maiš, Afrikan pohjoižes.
+'''Tavi''' (dial. mugažo '''čiruškaine''', '''davič''', '''redusorz'''; {{lang-la|Anas crecca}}) om keza[[lind]]un erik, mülüb [[Sorzanvuiččed]]-sugukundha, kaikiš peneb jogisorzišpäi. Voib vastata Evrazijadme päiči Arktikas i Keskuzazijan letkesižiš maiš, Afrikan pohjoižes.
 
 == Ümbrikirjutand ==
 Täuz'kaznuded eričud oma 34..38 sm pitte, suugiden maihutuzkeskust 58..64 sm, ižačun veduz 250..450 g, emäčud kazdas 200..400 grammhasai. Teravad da kaidad suugad abutadas leta läz püštoikti kaidoiš pil'vesekahiš uitoišpäi. Täuz'kaznuded tavid oma [[mectuz|mectusen]] objektaks.
@@ -12,8 +30,6 @@ Tavinpoigaižed mahttas söttas vedel elon ezmäižes päiväspäi i kätas täu
 
 == Homaičendad ==
 <references />
-
-{{Commons|Anas crecca}}
 
 {{stub}}
 [[Kategorii:Sorzanvuiččed]]
