@@ -1,7 +1,7 @@
 {{Taxobox
  | name         = Tijaižed
  | image file   = Great-Tit.jpg
- | image descr  = Tijaine
+ | image descr  = ''Parus major''-erikon tijaine
  | regnum       = Živatad
  | phylum       = [[Sel'gjäntkeižed]] (''Chordata'')
  | classis      = [[Lindud]] (''Aves'')
@@ -9,7 +9,7 @@
  | familia      = '''Tijaižed'''
  | latin        = {{btname|Paridae|([[Vigors Nikolas Eiluord|Vigors]], 1825)}}  
  | wikispecies  = Paridae
- | commons      = Category:Paridae
+ | commons      = Paridae
  | itis         = 178697
  | ncbi         = 9153
  | range map    = Paridae Distribution.PNG
