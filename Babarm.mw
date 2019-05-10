@@ -1,8 +1,8 @@
 {{Taxobox
  | name         = Babarm
  | image file   = Raspberries (Rubus Idaeus).jpg
- | image title  = Järgeline babarm (''Rubus idaeus'')
- | image descr  = Järgeline babarm (''Rubus idaeus'')
+ | image title  = Järgeline babarm
+ | image descr  = Järgeližen babarmon (''Rubus idaeus'') küpsad plodud
  | regnum       = Kazmused
  | divisio      = [[Änikkazmused]] (''Magnoliophyta'')
  | classis      = [[Kaksidülehtesižed]] (''Magnoliopsida'')
@@ -10,7 +10,7 @@
  | familia      = [[Rozanvuiččed]] (''Rosaceae'')
  | subfamilia   = [[Rozananvuiččed]] (''Rosoideae'')
  | genus        = '''Rubus'''
- | latin        = Rubus idaeus [[L.]]
+ | latin        = {{btname|Rúbus idáeus |[[L.]], 1753}}
  | wikispecies  = Rubus idaeus
  | commons      = Category:Rubus idaeus
  | itis         = 24947
