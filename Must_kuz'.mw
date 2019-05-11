@@ -1,23 +1,29 @@
 {{Taxobox
  | name         = Must kuz'
  | image file   = Picea mariana cones.jpg
- | image title  = Must kuz' (''Picea mariana'')
- | image descr  = Must kuz' (''Picea mariana'')
+ | image title  = Must kuz'
+ | image descr  = Must kuz'
  | regnum       = Kazmused
- | divisio      = [[Kavag'kazmused|Kavag'kazmused]]
- | classis      = [[Kavag'kazmused|Kavag'kazmused]]
- | ordo         = [[Pedaižed|Pedaižed]]
- | familia      = [[Pedaižed|Pedaižed]]
- | genus        = [[Kuz'|Kuz']]
- | species        = '''Must kuz''''
- | latin        = {{btname|Picea mariana |[[Mill.|Mill.]], [[Britton|Britton]], [[Sterns|Sterns]] & [[Poggenburg|Poggenburg]]}} 
+ | divisio      = [[Kavag'kazmused]] (''Pinophyta'')
+ | classis      = [[Kavag'kazmused]] (''Pinopsida'')
+ | ordo         = [[Pedaižed]] (''Pinales'')
+ | familia      = [[Pedaižed]] (''Pinaceae'')
+ | genus        = [[Kuz']] (''Picea'')
+ | species      = '''Must kuz''''
+ | latin        = {{btname|Picea mariana |[[Miller Filip|Mill.]], [[Britton Nataniel' Lord|Britton]], [[Sterns]] & [[Poggenburg]]}} 
  | wikispecies  = Picea mariana
  | commons      = Category:Picea mariana
- | itis = 183302
- | ncbi = 3335
+ | itis         = 183302
+ | ncbi         = 3335
+ | range map    = Picea mariana levila.png
+ | range legend =
 }}
-'''Must kuz'''' ({{Lang-la|Picea mariana}}) om [[Kuz'|kuz']] sugudan [[Pu|pu]]iden [[Biologine erik|erik]]<ref>[http://www.iucnredlist.org/apps/redlist/details/42328/0]</ref><ref>[http://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=233500911]</ref>
+'''Must kuz'''' ({{lang-la|Picea mariana}}) om [[kuz'|kuzen]] levitadud erik.
+
+Kazvab kavag'mecoiš Kanadadme, [[Amerikan Ühtenzoittud Valdkundan|AÜV:oiden]] Aläskas i pohjoižpäivnouzmaižiš štatoiš.
+
 == Homaičendad ==
 <references />
+
 {{stub}}
 [[Kategorii:Kuzed]]
