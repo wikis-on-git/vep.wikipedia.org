@@ -19,7 +19,7 @@
 ! Punktad
 ! Sija
 |-bgcolor = "33FF33"
-|-
+|- style="font-weight: bold; background: navajowhite;"
 | 1
 | {{SWE}}
 | rowspan="8"|[[anglijan kel']]
@@ -36,7 +36,7 @@
 |
 | 99
 | 11
-|-
+|- style="font-weight: bold; background: navajowhite;"
 | 3
 | {{AUS}}
 | Isaija Fairbreis
@@ -52,7 +52,7 @@
 | Mail'm
 | 76
 | 14
-|-
+|- style="font-weight: bold; background: navajowhite;"
 | 5
 | {{BEL}}
 | Blanš
@@ -76,7 +76,7 @@
 | Must lind
 | 92
 | 12
-|-
+|- style="font-weight: bold; background: navajowhite;"
 | 8
 | {{AZE}}
 | Dihaj
@@ -84,7 +84,7 @@
 |
 | 150
 | 8
-|-
+|- style="font-weight: bold; background: navajowhite;"
 | 9
 | {{POR}}
 | [[portugalijan kel'|portugalijan]]
@@ -93,7 +93,7 @@
 | Armastuz om meiden molembiden täht
 | 370
 | 1
-|-
+|- style="font-weight: bold; background: navajowhite;"
 | 10
 | {{GRC}}
 | [[anglijan kel'|anglijan]]
@@ -111,7 +111,7 @@
 | Süttuz
 | 119
 | 9
-|-
+|- style="font-weight: bold; background: navajowhite;"
 | 12
 | {{MDA}}
 | [[anglijan kel'|anglijan]]
