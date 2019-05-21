@@ -22,7 +22,7 @@
 |- style="font-weight: bold; background: navajowhite;"
 | 1
 | {{SWE}}
-| rowspan="8"|[[anglijan kel']]
+| [[anglijan kel']]
 | [[Bengtsson Robin|Robin Bengtsson]]
 | «I Can't Go On»
 | 
@@ -31,6 +31,7 @@
 |-
 | 2
 | {{GEO}}
+| [[anglijan kel'|anglijan]]
 | Tako Gačečiladze
 | «Keep the Faith»
 |
@@ -39,6 +40,7 @@
 |- style="font-weight: bold; background: navajowhite;"
 | 3
 | {{AUS}}
+| [[anglijan kel'|anglijan]]
 | Isaija Fairbreis
 | «Don’t Come Easy»
 |
@@ -47,6 +49,7 @@
 |-
 | 4
 |{{ALB}}
+| [[anglijan kel'|anglijan]]
 | Lindita Halimi
 | «World»
 | Mail'm
@@ -55,6 +58,7 @@
 |- style="font-weight: bold; background: navajowhite;"
 | 5
 | {{BEL}}
+| [[anglijan kel'|anglijan]]
 | Blanš
 | «City Lights»
 | 
@@ -63,6 +67,7 @@
 |-
 | 6
 | {{MNE}}
+| [[anglijan kel'|anglijan]]
 | Slavko Kalezič
 | Space 
 |
@@ -71,6 +76,7 @@
 |-
 | 7
 | {{FIN}}
+| [[anglijan kel'|anglijan]]
 | Norma Džon
 | Blackbird
 | Must lind
@@ -79,6 +85,7 @@
 |- style="font-weight: bold; background: navajowhite;"
 | 8
 | {{AZE}}
+| [[anglijan kel'|anglijan]]
 | Dihaj
 | Skeletons
 |
@@ -226,12 +233,20 @@
 | 93
 | 16
 |-
-<!--05 	Армения Армения 	Английский 	Арцвик 	«Fly with Me» 	«Лети со мной» 	79 	18
-06 	Нидерланды Нидерланды 	Английский 	O'G3NE 	«Lights and Shadows» 	«Свет и тени» 	150 	11
-07 	Молдавия Молдова 	Английский 	SunStroke Project 	«Hey, Mamma!» 	«Эй, мама!» 	374 	3
-08 	Венгрия Венгрия 	Венгерский, цыганский 	Йоци Папай 	«Origo» 	«Источник» 	200 	8
-09 	Италия Италия 	Итальянский 	Франческо Габбани 	«Occidentali’s Karma» 	«Западная карма» 	334 	6
-10 	Дания Дания 	Английский 	Аня Ниссен 	«Where I Am» 	«Где я» 	77 	20-->
+| 5
+| {{ARM}}
+| [[anglijan kel'|anglijan]]
+| Arcvik
+| «Fly with Me»
+| Lenda minunke
+| 79
+| 18
+|-
+<!--06 	Нидерланды 	Английский 	O'G3NE 	«Lights and Shadows» 	«Свет и тени» 	150 	11
+07 	Молдова 	Английский 	SunStroke Project 	«Hey, Mamma!» 	«Эй, мама!» 	374 	3
+08 	Венгрия 	Венгерский, цыганский 	Йоци Папай 	«Origo» 	«Источник» 	200 	8
+09 	Италия 	Итальянский 	Франческо Габбани 	«Occidentali’s Karma» 	«Западная карма» 	334 	6
+10 	Дания 	Английский 	Аня Ниссен 	«Where I Am» 	«Где я» 	77 	20-->
 |-bgcolor="gold"
 | 9
 | {{POR}}
@@ -242,11 +257,11 @@
 | 587
 | 1
 |}
-<!--12 	Азербайджан Азербайджан 	Английский 	Dihaj 	«Skeletons» 	«Скелеты» 	120 	14
+<!--12 	Азербайджан 	Английский 	Dihaj 	«Skeletons» 	«Скелеты» 	120 	14
 |-
-| 13 	Хорватия Хорватия 	Английский, итальянский 	Жак Хоудек 	«My Friend»  || Minun sebranil||128||13
+| 13 	Хорватия 	Английский, итальянский 	Жак Хоудек 	«My Friend»  || Minun sebranik ||128||13
 |-
-14 	Австралия Австралия 	Английский 	Исайя Файрбрейс 	«Don’t Come Easy» 	«Даётся нелегко» 	173 	9
+14 	Австралия 	Английский 	Исайя Файрбрейс 	«Don’t Come Easy» 	«Даётся нелегко» 	173 	9
 15 	Греция Греция 	Английский 	Demy 	«This Is Love» 	«Это любовь» 	77 	19
 16 	Испания Испания 	Испанский, английский 	Манель Наварро 	«Do It for Your Lover» 	«Делай это для своей любви» 	5 	26
 17 	Норвегия Норвегия 	Английский 	JOWST и Александер Вальманн 	«Grab the Moment» 	«Не упущу момент» 	158 	10
