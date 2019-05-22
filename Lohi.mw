@@ -1,5 +1,6 @@
 {{Taxobox
  | name         = Lohi
+ | image name   = Lohi
  | image file   = Salmo salar.jpg
  | image descr  = Lohi
  | regnum       = Živatad
@@ -9,16 +10,16 @@
  | familia      = ''Salmonidae''
  | genus        = [[Lohed]] (''Salmo'')
  | species      = '''Lohi'''
- | latin        = {{btname|Salmo salar|([[Linnei Karl|Linnaeus]], 1758)}}  
+ | latin        = {{btname|Salmo salar|([[Linnei Karl|Linnaeus]], 1758)}}
  | wikispecies  = Salmo salar
  | commons      = Category:Salmo salar
  | itis         = 161996
  | ncbi         = 8030
  | range map    = Поширення сьомги.gif
- | range legend = 
+ | range legend =
 }}
 {{Znamoičendad|Lohj (znamoičendad)}}
-'''Lohi''' (Lohj) vai '''Atlantine lohi''' ({{lang-la|Salmo salar}}) om meri[[kalad|kaloiden]] erik, kudambad mülütadas ''[[Salmonidae]]''-sugukundan ''[[Lohed]]''-suguhu (''Salmo'').
+'''Lohi''' (Lohj) vai '''Atlantine lohi''' ({{lang-la|Salmo salar}}) om meri[[kalad|kaloiden]] erik, kudambad mülütadas ''[[Salmonidae]]''-sugukundan [[Lohed]]-suguhu.
 
 Voib kazda pol'toštmetrine da olda 43 kilogrammad jügutte da eläda 13-voččen igähäsai.<ref>[http://www.fishbase.org/Summary/speciesSummary.php?genusname=Salmo&speciesname=salar Atlantine lohj andmusiden ''FishBase.org''-bazas.] {{ref-en}}</ref>
 
@@ -29,5 +30,6 @@ Kala putub [[Atlantine valdmeri|Atlantižen valdmeren]] pohjoižes.
 <references />
 
 {{stub}}
-[[Kategorii:Kalad]]
+[[Kategorii:Lohenvuiččed]]
 [[Kategorii:Živatad kirjamišton mödhe]]
+[[Kategorii:Kalad]]
