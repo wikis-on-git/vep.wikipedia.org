@@ -1,14 +1,38 @@
 {{1000}}
-[[Fail:Pofadder.JPG|thumb|right|250px|''[[Bitis arietans]]'']]
-'''Küd''' ({{lang-la|Serpentes}}) oma [[Reptilijad]]-klassan [[Squamata|Somukahad]]-heimkundan alaheimkund.
+{{Taxobox
+ | name         = Küd
+ | image title  = Küd
+ | image file   = Pofadder.JPG
+ | image descr  = ''[[Bitis arietans]]''-ristkü
+ | regnum       = Živatad
+ | phylum       = [[Sel'gjäntkeižed]] (''Chordata'')
+ | classis      = [[Ujelijad]] (''Reptilia'')
+ | ordo         = [[Somusekahad]] (''Squamata'')
+ | subordo      = '''[[Küd]]'''
+ | latin        = {{btname|Serpentes |([[Linnei Karl|Linnaeus]], 1758)}}
+ | wikispecies  = Serpentes
+ | commons      = Category:Serpentes
+ | itis         = 174118
+ | ncbi         = 8570
+ | range map    = World distribution of snakes.svg
+ | range legend = Meriküd i kuivman küd
+}}
+'''Küd''' ({{lang-la|Serpentes}}) oma [[Ujelijad]]-klassan [[Somukahad]]-heimkundan alaheimkund.
+
+Živatad sünduiba [[šihlikod|šihlikoišpäi]] 143..167 mln vot tagaz. Enamba 20 sugukundad, 520 heimod, 3600 erikod.
+
+Piduz om ühten metran röunoiš tobjimalaz.
 
 Voib vastata küid kaikil kontinentil Antarktidas päiči. Ei ole küid [[Irlandii|Irlandijas]] i [[Uz' Zelandii|Udes Zelandijas]], Tünen valdmeren keskusen saril da Atlantižen valdmeren penil saril.
 
 [[Serpentologii]] tedoidab küid.
 
+== Homaičendad ==
+<references />
+
 {{Commons|Serpentes}}
 
 {{stub}}
 [[Kategorii:Küd| ]]
-[[Kategorii:Reptilijad]]
 [[Kategorii:Živatad kirjamišton mödhe]]
+[[Kategorii:Ujelijad]]
