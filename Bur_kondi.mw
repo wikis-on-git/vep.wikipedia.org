@@ -1,5 +1,6 @@
 {{Taxobox
  | name         = Bur kondi
+ | image title  = Bur kondi
  | image file   = Brown Bear us fish.jpg
  | image descr  = Bur kondi (Järgeline kondi)
  | regnum       = Živatad
@@ -9,7 +10,7 @@
  | familia      = [[Kondjanvuiččed]] (''Ursidae'')
  | genus        = [[Kondjad]] (''Ursus'')
  | species      = '''Bur kondi'''
- | latin        = {{btname|Ursus arctos|([[Linnaeus]], 1758)}}  
+ | latin        = {{btname|Ursus arctos |([[Linnei Karl|Linnaeus]], 1758)}}
  | wikispecies  = Ursus arctos
  | commons      = Category:Ursus arctos
  | itis         = 180543
@@ -41,5 +42,5 @@ Vepsän kul'turan mödhe om kel'dand nimitamha kondjan kondjaks, sen sijas varan
 
 {{stub}}
 [[Kategorii:Kondjad]]
-[[Kategorii:Imetaiživatad]]
 [[Kategorii:Živatad kirjamišton mödhe]]
+[[Kategorii:Imetaiživatad]]
