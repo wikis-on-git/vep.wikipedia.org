@@ -1,5 +1,6 @@
 {{Taxobox
  | name         = Järgeline kodipühüt
+ | image title  = Järgeline kodipühüt
  | image file   = Wachtel in Haltung clipped.jpg
  | image descr  = Kodipühüt
  | regnum       = Živatad
@@ -9,7 +10,7 @@
  | familia      = [[Fazanižed]] (''Phasianidae'')
  | genus        = [[Kodipühüded]] (''Coturnix'')
  | species      = '''Järgeline kodipühüt'''
- | latin        = {{btname|Coturnix coturnix|([[Linnei Karl|Linnaeus]], 1758)}}  
+ | latin        = {{btname|Coturnix coturnix |([[Linnei Karl|Linnaeus]], 1758)}}
  | wikispecies  = Coturnix coturnix
  | commons      = Category:Coturnix coturnix
  | itis         = 553871
