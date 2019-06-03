@@ -1,9 +1,30 @@
 {{1000}}
-[[Fail:Female pair.jpg|thumb|right|250px|[[Kukoi]] i kana.]]
-'''Kana''' ({{lang-la|Gallus gallus}}, mugažo ''Gallus gallus domesticus'', erasti ''Gallus domesticus'') om kodikoittud [[lind]], maižanduzživat samha lihad da [[muna|munid]].
+{{Taxobox
+ | name         = Kana
+ | image title  = Kana
+ | image file   = Female pair.jpg
+ | image descr  = [[Kukoi]] i kana
+ | regnum       = Živatad
+ | phylum       = [[Sel'gjäntkeižed]] (''Chordata'')
+ | classis      = [[Lindud]] (''Aves'')
+ | ordo         = [[Kananvuiččed]] (''Galliformes'')
+ | familia      = [[Fazanižed]] (''Phasianidae'')
+ | genus        = [[Džunglin kanad]] (''Gallus'')
+ | species      = ''Gallus gallus''
+ | subspecies   = '''Kana'''
+ | latin        = {{btname|Gallus gallus domesticus |([[Linnei Karl|Linnaeus]], 1758)}}
+ | wikispecies  = Gallus gallus domesticus
+ | commons      = Category:Chickens
+ | itis         = 176086
+ | ncbi         = 9031
+ | range map    =
+}}
+'''Kana''' ({{lang-la|Gallus gallus domesticus}}, erasti ''Gallus domesticus'') om kodikoittud 5,5 tuh. vozid tagaz suviazijalaine džungliden ''[[Gallus gallus]]''-[[lind]], maižanduzživat samha lihad da [[muna|munid]].
+
+Lind lendab pahoin i ei voi leta edahan. Oleleb 1,5..5 kg vedutte, [[kukoi]] om järedamb kilogrammas mi kana. Tetas enamba 180 sugud mail'mas. Lindunpoigaižed — cipad, cipaižed, cipuižed, kananpoigad.
 
 == Kanoiden tipiden vepsän nimed ==
-* ''Haudoi kana'' — haudui munid (poigid) kana.
+* ''Haudoi kana'' — haudui munid (poigaižid) kana.
 * ''Poikkana'' — nor' kana.
 
 == Kanaha sidotud vepsän tärtused ==
@@ -32,7 +53,13 @@ Edel oraine, keskel keraine, jäl'gil (jäl'giči) labidoine (kana).
 * [[Sokana]]
 * [[Vezikana]]
 
+== Homaičendad ==
+<references />
+
+{{Commons|Chickens}}
+
 {{stub}}
+[[Kategorii:Fazanižed]]
+[[Kategorii:Živatad kirjamišton mödhe]]
 [[Kategorii:Lindud]]
 [[Kategorii:Maižanduzživatad]]
-[[Kategorii:Živatad kirjamišton mödhe]]
