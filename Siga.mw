@@ -1,6 +1,7 @@
 {{1000}}
 {{Taxobox
  | name         = Siga
+ | image title  = Siga
  | image file   = Sow and five piglets.jpg
  | image descr  = Siga porzhidenke
  | regnum       = Živatad
@@ -11,9 +12,9 @@
  | genus        = [[Mecsigad]] (''Sus'')
  | species      = [[Mecsiga]] (''Sus scrofa'')
  | subspecies   = '''Siga'''
- | latin        = {{btname|Sus scrofa domesticus|([[Erxleben]], 1777)}}  
+ | latin        = {{btname|Sus scrofa domesticus |([[Erxleben]], 1777)}}
  | wikispecies  = Sus scrofa domesticus
- | commons      = Sus scrofa domesticus
+ | commons      = Category:Sus scrofa domesticus
  | itis         = 898310
  | ncbi         = 9825
  | range map    =
@@ -29,6 +30,8 @@ Sigan poigaižen nimituz om '''porzaz''' vai '''čugu'''. Kodisigad (''minipig:a
 
 == Homaičendad ==
 <references/>
+
+{{Commons|Sus scrofa domesticus}}
 
 {{stub}}
 [[Kategorii:Sigad]]
