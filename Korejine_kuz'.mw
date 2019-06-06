@@ -1,23 +1,26 @@
 {{Taxobox
  | name         = Koreine kuz'
+ | image title  = Koreine kuz'
  | image file   = Picea koraiensis young.JPG
- | image title  = Koreine kuz' (''Picea koraiensis'')
- | image descr  = Koreine kuz' (''Picea koraiensis'')
+ | image descr  = Koreine kuz'
  | regnum       = Kazmused
- | divisio      = [[Kavag'kazmused|Kavag'kazmused]]
- | classis      = [[Kavag'kazmused|Kavag'kazmused]]
- | ordo         = [[Pedaižed|Pedaižed]]
- | familia      = [[Pedaižed|Pedaižed]]
- | genus        = [[Kuz'|Kuz']]
- | species        = '''Koreine kuz''''
- | latin        = {{btname|Picea koraiensis |[[Nakai|Nakai]]}} (1919)
+ | divisio      = [[Kavag'kazmused]] (''Pinophyta'')
+ | classis      = [[Kavag'kazmused]] (''Pinopsida'')
+ | ordo         = [[Pedaižed (kund)|Pedaižed]] (''Pinales'')
+ | familia      = [[Pedaižed]] (''Pinaceae'')
+ | genus        = [[Kuz']] (''Picea'')
+ | species      = '''Koreine kuz' '''
+ | latin        = {{btname|Picea koraiensis |[[Nakai|Nakai]], 1919}}
  | wikispecies  = Picea koraiensis 
  | commons      = Category:Picea koraiensis
-| itis =
-| ncbi = 308680
+ | itis         =
+ | ncbi         = 308680
+ | range map    =
 }}
-'''Koreine kuz'''' ([[Latinan kel'|latinan kelel]]: ''Picea koraiensis'') om [[kuz']] sugudan [[Pu|puiden]] [[Biologine erik|erik]].
+'''Koreine kuz'''' ({{lang-la|Picea koraiensis}}) om [[kuz']]-heimon [[pu]]iden [[biologine erik|erik]].
+
+{{Commons|Picea koraiensis}}
 
 {{stub}}
-
 [[Kategorii:Kuzed]]
+[[Kategorii:Kazmused kirjamišton mödhe]]
