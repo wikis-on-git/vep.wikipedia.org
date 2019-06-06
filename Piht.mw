@@ -1,25 +1,28 @@
 {{Taxobox
  | name         = Piht
+ | image title  = Vauged piht
  | image file   = Abies alba Schleus Berg b Suhl ThW Th Dreger.jpg
- | image title  = Vauged piht(''Abies alba'')
  | image descr  = Vauged piht (''Abies alba'')
  | regnum       = Kazmused
- | divisio      = [[Kavag'kazmused|Kavag'kazmused]]
- | classis      = [[Kavag'kazmused|Kavag'kazmused]]
- | ordo         = [[Pedaižed|Pedaižed]]
- | familia      = [[Pedaižed|Pedaižed]]
+ | divisio      = [[Kavag'kazmused]] (''Pinophyta'')
+ | classis      = [[Kavag'kazmused]] (''Pinopsida'')
+ | ordo         = [[Pedaižed (kund)|Pedaižed]] (''Pinales'')
+ | familia      = [[Pedaižed]] (''Pinaceae'')
  | genus        = '''Piht'''
- | latin        = {{btname|Abies|[[Ditrih Adol'f|A.Dietr.]]}}
- | section name = Erikad
- | section text = 
+ | latin        = {{btname|Ábies |[[Ditrih Adol'f|A.Dietr.]]}}
+ | section name = Erikod
+ | section text =
  | wikispecies  = Abies
  | commons      = Category:Abies
  | itis         = 18031
  | ncbi         = 3319
+ | range map    =
 }}
+'''Piht''' ({{lang-la|Abies}}) om [[Pedaižed]]-sugukundan [[pu]]iden heim.
 
-'''Piht''' ([[latinan kel'|latinan kelel]]: ''Ábies'') om [[Pedaižed|Pedaižiden]] sugukundan [[Pu|puiden]] sugu.
+{{Commons|Abies}}
 
 {{stub}}
-
+[[Kategorii:Pedaižed]]
+[[Kategorii:Kazmused kirjamišton mödhe]]
 [[Kategorii:Pud]]
