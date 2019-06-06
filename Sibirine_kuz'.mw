@@ -1,21 +1,26 @@
 {{Taxobox
  | name         = Sibirine kuz'
+ | image title  = Sibirine kuz'
  | image file   = Reka Shavla.jpg
- | image title  = Sibirine kuz' (''Picea obovata'')
- | image descr  = Sibirine kuz' (''Picea obovata'')
+ | image descr  = Sibirine kuz'
  | regnum       = Kazmused
- | divisio      = [[Kavag'kazmused|Kavag'kazmused]]
- | classis      = [[Kavag'kazmused|Kavag'kazmused]]
- | ordo         = [[Pedaižed|Pedaižed]]
- | familia      = [[Pedaižed|Pedaižed]]
- | genus        = [[Kuz'|Kuz']]
- | species        = '''Sibirine kuz''''
- | latin        = {{btname|Picea mariana |[[Ledeb.|Ledeb.]]}} 
+ | divisio      = [[Kavag'kazmused]] (''Pinophyta'')
+ | classis      = [[Kavag'kazmused]] (''Pinopsida'')
+ | ordo         = [[Pedaižed (kund)|Pedaižed]] (''Pinales'')
+ | familia      = [[Pedaižed]] (''Pinaceae'')
+ | genus        = [[Kuz']] (''Picea'')
+ | species      = '''Sibirine kuz''''
+ | latin        = {{btname|Picea obovata |[[Ledeb.]]}}
  | wikispecies  = Picea obovata
  | commons      = Category:Picea obovata
- | itis = 
- | ncbi = 331118
+ | itis         = 
+ | ncbi         = 331118
+ | range map    =
 }}
-'''Sibirine kuz'''' ([[Latinan kel'|latinan kelel]]: ''Picea obovata'') om [[Kuz'|kuz']] sugudan [[Pu|pu]]iden [[Biologine erik|erik]].
+'''Sibirine kuz'''' ({{lang-la|Picea obovata}}) om [[Kuz']]-heimon [[pu]]iden [[biologine erik|erik]].
 
+{{Commons|Picea obovata}}
+
+{{stub}}
 [[Kategorii:Kuzed]]
+[[Kategorii:Kazmused kirjamišton mödhe]]
