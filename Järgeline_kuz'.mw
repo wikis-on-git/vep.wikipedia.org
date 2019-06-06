@@ -1,23 +1,35 @@
 {{Taxobox
  | name         = Järgeline kuz'
+ | image title  = Evropine kuz'
  | image file   = Picea abies.jpg
- | image title  = Järgeline kuz' (''Picea abies'')
- | image descr  = Järgeline kuz' (''Picea abies'')
+ | image descr  = Järgeline kuz'
  | regnum       = Kazmused
- | divisio      = [[Kavag'kazmused|Kavag'kazmused]]
- | classis      = [[Kavag'kazmused|Kavag'kazmused]]
- | ordo         = [[Pedaižed|Pedaižed]]
- | familia      = [[Pedaižed|Pedaižed]]
- | genus        = [[Kuz'|Kuz']]
- | species        = '''Järgeline kuz''''
- | latin        = {{btname|Picea abies |([[L.|L.]]) [[H.Karst.|H.Karst.]]}} 
+ | divisio      = [[Kavag'kazmused]] (''Pinophyta'')
+ | classis      = [[Kavag'kazmused]] (''Pinopsida'')
+ | ordo         = [[Pedaižed]] (''Pinales'')
+ | familia      = [[Pedaižed]] (''Pinaceae'')
+ | genus        = [[Kuz']] (''Picea'')
+ | species      = '''Järgeline kuz' '''
+ | latin        = {{btname|Pícea ábies |([[Linnei Karl|L.]]) [[Karsten German|H.Karst.]], 1881}}
  | wikispecies  = Picea abies
  | commons      = Category:Picea abies
- | itis = 183289
- | ncbi = 3329
+ | itis         = 183289
+ | ncbi         = 3329
+ | range map    = Norway Spruce Picea abies distribution map 2.png
+ | range legend =
 }}
-'''Järgeline kuz'''' vai '''Evropine kuz'''' ([[Latinan kel'|latinan kelel]]: ''Picea abies'') om [[pu]], [[kuz']]-sugudan [[Biologine erik|erik]].
+'''Järgeline kuz'''' vai '''Evropine kuz'''' ({{lang-la|Picea abies}}) om [[pu]], [[kuz']]-heimon tipine levitadud [[biologine erik|erik]].
+
+Kazvab Pohjoižes i Päivnouzmaižes Evropas kaikjal, mugažo Evropan keskuzpalan vaiše mägil. [[Mec]]an üks' päižiš erikoišpäi.
+
+Ištutadas pöudoiden röunšoiduikš, ottas kävutamižhe dekorativižes sadunkazvatuses, sädihe kul'turižen kuzen sadoid suguid. Pumaterialad kuzespäi oma avaros kävutadud tegimištos. Ottas ehtmätomid käbuid zell'torhudeks. Vero om olmas čomitada kuzid («dölk») [[Raštvad|Raštvoile]] i [[Uz' Voz'|Udele Vodele]], hristanuskondan maiš päpaloin.
+
+== Homaičendad ==
+<references />
+
+{{Commons|Picea abies}}
 
 {{stub}}
 [[Kategorii:Kuzed]]
 [[Kategorii:Kazmused kirjamišton mödhe]]
+[[Kategorii:Dekorativižed kazmused]]
