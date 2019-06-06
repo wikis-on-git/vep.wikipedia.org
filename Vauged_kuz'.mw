@@ -1,22 +1,23 @@
 {{Taxobox
  | name         = Vauged kuz'
+ | image title  = Vauged kuz'
  | image file   = Picea glauca UGA.jpg
- | image title  = Vauged kuz' (''Picea glauca'')
- | image descr  = Vauged kuz' (''Picea glauca'')
+ | image descr  = Vauged kuz'
  | regnum       = Kazmused
- | divisio      = [[Kavag'kazmused|Kavag'kazmused]]
- | classis      = [[Kavag'kazmused|Kavag'kazmused]]
- | ordo         = [[Pedaižed|Pedaižed]]
- | familia      = [[Pedaižed|Pedaižed]]
- | genus        = [[Kuz'|Kuz']]
- | species        = '''Vauged kuz''''
- | latin        = {{btname|Picea glauca |([[Moanech|Moench]]) [[Voss|Voss]]}} 
+ | divisio      = [[Kavag'kazmused]] (''Pinophyta'')
+ | classis      = [[Kavag'kazmused]] (''Pinopsida'')
+ | ordo         = [[Pedaižed (kund)|Pedaižed]] (''Pinales'')
+ | familia      = [[Pedaižed]] (''Pinaceae'')
+ | genus        = [[Kuz']] (''Picea'')
+ | species      = '''Vauged kuz' '''
+ | latin        = {{btname|Picea glauca |([[Mönh Konrad|Moench]]) [[Foss Andreas|Voss]], 1907}} 
  | wikispecies  = Picea glauca
  | commons      = Category:Picea glauca
- | itis              = 183295 
- | ncbi              = 3330
+ | itis         = 183295 
+ | ncbi         = 3330
+ | range map    = Picea glauca levila.PNG
 }}
-'''Vauged kuz'''', '''Hahksinine kuz'''' ([[Latinan kel'|latinan kelel]]: ''Picea glauca'') om [[kuz']] sugudan [[Pu|puiden]] [[Biologine erik|erik]].
+'''Vauged kuz' ''' vai '''Hahksinine kuz' ''' ({{lang-la|Picea glauca}}) om [[Kuz']]-heimon [[pu]]iden [[biologine erik|erik]].
 
 == Alaerikod ==
 * ''Picea glauca'' var. ''glauca'' 
@@ -24,4 +25,8 @@
 * ''Picea glauca'' var. ''albertiana'' 
 * ''Picea glauca'' var. ''porsildii''
 
+{{Commons|Picea glauca}}
+
+{{stub}}
 [[Kategorii:Kuzed]]
+[[Kategorii:Kazmused kirjamišton mödhe]]
