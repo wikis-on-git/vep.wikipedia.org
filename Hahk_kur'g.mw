@@ -1,5 +1,6 @@
 {{Taxobox
  | name         = Hahk kur'g
+ | image title  = Hahk kur'g
  | image file   = Grus grus 07(js), Biebrza National Park (Poland).jpg
  | image descr  = Hahk kur'g Bebžan rahvahaližes puištos, [[Pol'šanma]]n pohjoižpäivnouzm
  | regnum       = Živatad
@@ -9,7 +10,7 @@
  | familia      = [[Kur'gižed]] (''Gruidae'')
  | genus        = [[Kur'ged]] (''Grus'')
  | species      = '''Hahk kur'g'''
- | latin        = {{btname|Grus grus|([[Linnei Karl|Linnaeus]], 1758)}}  
+ | latin        = {{btname|Grus grus |([[Linnei Karl|Linnaeus]], 1758)}}
  | wikispecies  = Grus grus
  | commons      = Category:Grus grus
  | itis         = 176183
@@ -17,8 +18,8 @@
  | range map    = Grus grus map.jpg
  | range legend = {{legend|#00FF00|Pezoitelendtahoiden areal}} {{legend|#0075FF|Migracijad}}
 }}
-[[File:Grus grus MHNT.ZOO.2010.11.65.5.jpg|thumb| ''Grus grus'']]
-'''Hahk kur'g''' ({{lang-la|Grus grus}}) om järed keza[[lind]]. Mülüb [[Kur'ged]]-sughu, [[Kur'gižed]]-sugukundha.
+[[Fail:Grus grus MHNT.ZOO.2010.11.65.5.jpg|thumb|right|250px|Lindun muna]]
+'''Hahk kur'g''' ({{lang-la|Grus grus}}) om järed keza[[lind]]. Mülüb [[Kur'gižed]]-sugukundan [[Kur'ged]]-heimho.
 
 Voib vastata erikon edestajid [[Evrop]]an da [[Azii|Azijan]] territorijoil. Paneb pezad [[so]]dunuzihe maihe.
 
@@ -28,6 +29,8 @@ Hahk kur'g om monogamine, par sädase edel lendandad völ pezoitelendan tahoiže
 
 == Homaičendad ==
 <references />
+
+{{Commons|Grus grus}}
 
 {{stub}}
 [[Kategorii:Kur'ged]]
