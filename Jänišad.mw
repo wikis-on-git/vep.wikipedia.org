@@ -1,5 +1,6 @@
 {{Taxobox
  | name         = Jänišad
+ | image title  = Jänišad
  | image file   = Feldhase.jpg
  | image descr  = Jäniš
  | regnum       = Živatad
@@ -7,16 +8,15 @@
  | classis      = [[Imetaiživatad]] (''Mammalia'')
  | ordo         = [[Jänišanvuiččed]] (''Lagomorpha'')
  | familia      = [[Jänišad i kodijänišad]] (''Leporidae'')
- | genus        = Jänišad (''Lepus'')
- | latin        = {{btname|Lepus|([[Linnaeus]], 1758)}}  
+ | genus        = '''Jänišad''' (''Lepus'')
+ | latin        = {{btname|Lepus |([[Linnei Karl|Linnaeus]], 1758)}}
  | wikispecies  = Lepus
  | commons      = Category:Lepus
  | itis         = 180111
  | ncbi         = 9980
  | range map    =
- | range legend =
 }}
-'''Jänišad''' ({{lang-la|Lepus}}) oma ''[[Lagomorpha|Jänišanvuiččed]]''-heimkundan sugu. Elädas kaikjal päiči Avstralijas da Antarktidas, mec[[živat]]ad. Kaik om läz 30 erikod.
+'''Jänišad''' ({{lang-la|Lepus}}) oma ''[[Lagomorpha|Jänišanvuiččed]]''-heimkundan heim. Elädas kaikjal päiči Avstralijas da Antarktidas, mec[[živat]]ad. Kaik om läz 30 erikod.
 
 == Ümbrikirjutand ==
 Pit'k korv, lühüd händ ülähäkspäi, šingotamatomad rindazlud i pit'kad tagakäbälad (sirdmine hüpkil) erištadas heid. [[Pöudjäniš]] voib sabustada 70 kilometrad časpigut.
@@ -42,6 +42,9 @@ Jäniš jädme, a vill madme (heinregi).
 == Homaičendad ==
 <references />
 
+{{Commons|Lepus}}
+
 {{stub}}
-[[Kategorii:Imetaiživatad]]
+[[Kategorii:Jänišad i kodijänišad]]
 [[Kategorii:Živatad kirjamišton mödhe]]
+[[Kategorii:Imetaiživatad]]
