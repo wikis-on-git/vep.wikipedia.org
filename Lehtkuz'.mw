@@ -1,24 +1,35 @@
 {{Taxobox
  | name         = Lehtkuz'
+ | image title  = Lehtkuz'
  | image file   = Larix decidua autumn.JPG
- | image title  = Evropalaine lehtkuz' (''Lárix decídua'')
- | image descr  = Evropalaine lehtkuz' (''Lárix decídua'')
+ | image descr  = Evropalaine lehtkuz' (''Lárix decídua'') om heimon tipine erik
  | regnum       = Kazmused
- | divisio      = [[Kavag'kazmused|Kavag'kazmused]]
- | classis      = [[Kavag'kazmused|Kavag'kazmused]]
- | ordo         = [[Pedaižed|Pedaižed]]
- | familia      = [[Pedaižed|Pedaižed]]
- | genus        = '''Lehtkuz''''
- | latin        = {{btname|Larix |[[Ditrih Adol'f|A.Dietr.]]}}
- | section name = Erikad
+ | divisio      = [[Kavag'kazmused]] (''Pinophyta'')
+ | classis      = [[Kavag'kazmused]] (''Pinopsida'')
+ | ordo         = [[Pedaižed (kund)|Pedaižed]] (''Pinales'')
+ | familia      = [[Pedaižed]] (''Pinaceae'')
+ | genus        = '''Lehtkuz' '''
+ | latin        = {{btname|Lárix |[[Ditrih Adol'f|A.Dietr.]]}}
+ | section name = Erikod
  | section text = 
  | wikispecies  = Larix
  | commons      = Category:Larix
  | itis         = 183409
  | ncbi         = 3325
+ | range map    =
 }}
-'''Lehtkuz'''' ([[latinan kel'|latinan kelel]]: ''Lárix'') om [[Pedaižed|Pedaižiden]] sugukundan [[Pu|puiden]] sugu.
+'''Lehtkuz' ''' ({{lang-la|Larix}}) om [[Pedaižed]]-sugukundan [[pu]]iden heim. Kavag' pakuštub i lankteb tal'veks. Tetas 10..11 erikod da niiden äiluguižid gibridoid.
+
+Kazvab sättumatomiš sijiš toižile puile — sokhil i vägitomil mahusil, igähižen rougun (Sibir') i vilun tal'ven (Pohjoižamerik) tahondoiš. Navedib täut päivänvauktust. Käbud sündudas pun 15-voččes igäspäi. Lehtkuz' oleleb 50 metrhasai kortte, tüvi om ühthe metrhasai. Eläb 300..400 vot, voib eläda 800 vodhesai.
+
+Kävutand oli röunatud pun vedusen tagut, verez pu uptab vedes i ei kožui [[vugonk]]ale jogidme. Mugažo [[pu (material)|pumaterial]] om rugakaz lujas, se kändihe kovaks [[tamm]]in kartte kuivamižen jäl'ghe. Ištutadas erasid erikod dekorativižikš.
+
+== Homaičendad ==
+<references />
+
+{{Commons|Larix}}
 
 {{stub}}
-
+[[Kategorii:Pedaižed]]
+[[Kategorii:Kazmused kirjamišton mödhe]]
 [[Kategorii:Pud]]
