@@ -1,9 +1,9 @@
 {{1000}}
 {{Taxobox
  | name         = Rugiž
- | image file   = Secale cereale.jpg
  | image title  = Rugiž
- | image descr  = Rugiž (''Secale cereale'')
+ | image file   = Secale cereale.jpg
+ | image descr  = Rugiž
  | regnum       = Kazmused
  | divisio      = [[Änikkazmused]] (''Magnoliophyta'')
  | classis      = [[Üksidülehtesižed]] (''Monocotyledoneae'')
@@ -11,16 +11,16 @@
  | familia      = [[Tähkheinäd]] (''Poaceae'')
  | genus        = [[Rugiž (sugu)|Rugiž]] (''Secale'')
  | species       = '''Rugiž'''
- | latin        = {{btname|Secale cereale |[[L.]], 1753}}
+ | latin        = {{btname|Secále cereále |[[Linnei Karl|L.]], 1753}}
  | wikispecies  = Secale cereale
  | commons      = Category:Secale cereale
  | itis         = 42090
  | ncbi         = 4550
  | range map    =
 }}
-'''Rugiž''' ({{lang-la|Secále cereále}}) om [[Tähkheinäd|Tähkheiniden]] sugukundan, [[Rugiž (sugu)|Rughen]] heimon [[üks'voččed kazmused|üks'vozne]] vai [[kaks'voččed kazmused|kaks'vozne]] [[heinäsižed kazmused|heinäsine]] kazmuz, levitadud maižanduzkul'tur.
+'''Rugiž''' ({{lang-la|Secale cereale}}) om [[Tähkheinäd|Tähkheiniden]] sugukundan, [[Rugiž (sugu)|Rughen]] heimon [[üks'voččed kazmused|üks'vozne]] vai [[kaks'voččed kazmused|kaks'vozne]] [[heinäsižed kazmused|heinäsine]] kazmuz, levitadud maižanduzkul'tur.
 
-Semetas tal'veks («voz'rugiž») päiči Sibirin igähižen rougun rajoniš. Vll 2011−2016 kazvatadihe rughen satusen kaks' koumandest neniš koumes mas: Saksanma, Venäma, Pol'šanma.
+Semetas tal'veks («voz'rugiž») päiči Sibirin igähižen rougun rajoniš. Vll 2011−2016 kazvatadihe rughen satusen kaks' koumandest neciš koumes mas: Saksanma, Venäma, Pol'šanma.
 
 Kävutadas [[siderat]]aks. Rugižma kačusteleb rujoheinid idüs i šopšotab savikod. Pandas veresid seikhid [[furaž]]aks, ol'g kaičese hätken. Sadas villäspäi jauhod i [[leib]]äd, [[tisel'|tislid]], [[vas]]ad, [[vin]]ad.
 
@@ -36,6 +36,7 @@ Kävutadas [[siderat]]aks. Rugižma kačusteleb rujoheinid idüs i šopšotab sa
 
 == Irdkosketused ==
 * [http://vepsian.krc.karelia.ru/text/?text_id=58 Jünäs načimei rahnda // Vepsän kelen korpus. — # 58].
+{{Commons|Secale cereale}}
 
 {{stub}}
 [[Kategorii:Tähkheinäd]]
