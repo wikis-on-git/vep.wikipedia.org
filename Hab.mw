@@ -1,8 +1,8 @@
 {{Taxobox
  | name         = Hab
- | image file   = Aspen-PopulusTremuloides-2001-09-27.jpg
  | image title  = Hab
- | image descr  = Hab (''Pópulus trémula'')
+ | image file   = Aspen-PopulusTremuloides-2001-09-27.jpg
+ | image descr  = Hab
  | regnum       = Kazmused
  | divisio      = [[Änikkazmused]] (''Magnoliophyta'')
  | classis      = [[Kaksidülehtesižed]] (''Dicotyledones'')
@@ -10,9 +10,9 @@
  | familia      = [[Raidaižed]] (''Salicaceae'')
  | genus        = [[Topolid]] (''Populus'')
  | specie       = '''Hab'''
- | latin        = {{btname|Populus tremula |[[L.]], 1753}}
+ | latin        = {{btname|Pópulus trémula |[[Linnei Karl|L.]], 1753}}
  | wikispecies  = Populus tremula
- | commons      = Populus tremula
+ | commons      = Category:Populus tremula
  | itis         = 22473
  | ncbi         = 113636
  | range map    = Populus tremula range.svg
@@ -45,6 +45,8 @@ Pol'hebod, pol'habad (segl).
 
 == Homaičendad ==
 <references />
+
+{{Commons|Populus tremula}}
 
 {{stub}}
 [[Kategorii:Raidaižed]]
