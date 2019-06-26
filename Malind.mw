@@ -1,6 +1,35 @@
-[[Fail:Bank Swallow (Riparia riparia).jpg|thumb|right|250px|Malind]]
-'''Malind''' ([[latinan kel'|lat.]]: ''Riparia riparia'', [[venäkel'|ven.]]: ''Береговая ласточка'') om pen' [[Kezalindud|kezalind]]. Eläb kaikid kontinentail (sidä kesken [[Evrazii|Evrazijal]]), päiči [[Avstralii (kontinent)|Avstralijas]] da [[Antarktid]]as.
-{{stub}}
+{{Taxobox
+ | name         = Malind
+ | image title  = Malind
+ | image file   = Bank Swallow (Riparia riparia).jpg
+ | image descr  = Malind
+ | regnum       = Živatad
+ | phylum       = [[Sel'gjäntkeižed]] (''Chordata'')
+ | classis      = [[Lindud]] (''Aves'')
+ | ordo         = [[Pasklindunvuiččed]] (''Passeriformes'')
+ | familia      = [[Saraklinduižed]] (''Hirundinidae'')
+ | genus        = [[Malind (heim)]] (''Riparia'')
+ | species      = '''Malind'''
+ | latin        = {{btname|Riparia riparia |([[Linnei Karl|Linnaeus]], 1758)}}
+ | wikispecies  = Riparia riparia
+ | commons      = Category:Riparia riparia
+ | itis         = 178436
+ | ncbi         = 88110
+ | range map    = Riparia riparia map.svg
+ | range legend = <small>{{legend|#FF7F2A|Pezoitelendan areal}}{{legend|#FFDD55|Migracijad}}{{legend|#5F8DD3|Tal'vdundan eländtahod}}</small>
+}}
+'''Malind''' ({{lang-la|Riparia riparia}}) om levitadud pen' [[kezalindud|kezalind]]. Erik mülüb [[Saraklinduižed]]-sugukundha.
 
-[[Kategorii:Lindud]]
+Eläb kaikil kontinentil (sidä kesken [[Evrazii|Evrazijal]]), päiči [[Avstralii (kontinent)|Avstralijas]] da [[Antarktid]]as.
+
+Lind om 12..13 sm pitte, suugiden maihutuzkeskuz sase 25..28 santimetrhasai. Hibj om 11..16 grammad vedutte. Malind pezoitelese joukuil pol'tošt tuhazesai eričuišpäi, tegeb pezoid vezištoiden pengril. Lindud kalaitas tal'vdundan aigan suril joukuil (50 tuh. — 2 mln). Södas lendajid gavedid tobjimalaz ([[nahkutsuugaižed]], [[kärbhaižed]], [[bumbakod]], [[ludeged]], [[keričaižed]], [[lipkaižed]]), mugažo kazmusid harvoin.
+
+== Homaičendad ==
+<references />
+
+{{Commons|Riparia riparia}}
+
+{{stub}}
+[[Kategorii:Saraklinduižed]]
 [[Kategorii:Živatad kirjamišton mödhe]]
+[[Kategorii:Lindud]]
