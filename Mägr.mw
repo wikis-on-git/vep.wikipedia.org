@@ -1,5 +1,6 @@
 {{Taxobox
  | name         = Mägr
+ | image title  = Mägr
  | image file   = Meles.meles.jpg
  | image descr  = Evropalaine mägr
  | regnum       = Živatad
@@ -9,7 +10,7 @@
  | familia      = [[Nädanvuiččed]] (''Mustelidae'')
  | genus        = [[Mägrad]] (''Meles'')
  | species      = '''Mägr'''
- | latin        = {{btname|Meles meles|([[Linnei Karl|Linnaeus]], 1758)}}  
+ | latin        = {{btname|Meles meles |([[Linnei Karl|Linnaeus]], 1758)}}
  | wikispecies  = Meles meles
  | commons      = Category:Meles meles
  | itis         = 621922
@@ -21,6 +22,8 @@
 '''Mägr''' ({{lang-la|Meles meles}}), '''Järgeline mägr''' vai '''Evropalaine mägr''', om mec[[živat]]. Mülüb [[Nädanvuiččed]]-sugukundha. Eläb Evropas Skandinavijan pohjoižes päiči i Päivlaskmaižes Azijas.
 
 Täuz'kaznu hibj om 60..90 sm pitte, händan piduz — 20..24 sm, sügüzel sase 34 kilogrammhasai vedutte. Ižačud oma järedamb vähän mi emäčud. Karv om kauged. Lankteb unhe tal'veks.
+
+{{Commons|Meles meles}}
 
 {{stub}}
 [[Kategorii:Nädanvuiččed]]
