@@ -1,5 +1,25 @@
-[[Fail:Anthus triviallis (Marek Szczepanek).jpg|thumb|right|250px|Jälinduine]]
-'''Jälinduine''' ({{lang-la|Anthus trivialis}}) om Evrazijan i Afrikan levitadud keza[[lind]].
+{{Taxobox
+ | name         = Jälinduine
+ | image title  = Jälinduine
+ | image file   = Anthus triviallis (Marek Szczepanek).jpg
+ | image descr  = Jälinduine
+ | regnum       = Živatad
+ | phylum       = [[Sel'gjäntkeižed]] (''Chordata'')
+ | classis      = [[Lindud]] (''Aves'')
+ | ordo         = [[Pasklindunvuiččed]] (''Passeriformes'')
+ | familia      = [[Vagolindunvuiččed]] (''Motacillidae'')
+ | genus        = [[Jälinduižed (heim)]] (''Anthus'')
+ | species      = '''Jälinduine'''
+ | latin        = {{btname|Anthus trivialis |([[Linnei Karl|Linnaeus]], 1758)}}
+ | wikispecies  = Anthus trivialis
+ | commons      = Category:Anthus trivialis
+ | itis         = 178500
+ | ncbi         = 45804
+ | range map    = AnthusTrivialisIUCNver2018 2.png
+ | range legend = {{legend|#00FF00|''Anthus t. trivialis''-alaerikon pezoitelend}} {{legend|#FFBD82|''A. t. haringtoni''-alaerikon pezoitelend}} {{legend|#00FFFF|Migracijan maršrutad}} {{legend|#007FFF|Migracijan rajonad}}
+}}
+[[Fail:Anthus trivialis.ogg|thumb|right|250px|Jälinduižen ižačun pajo mecas]]
+'''Jälinduine''' ({{lang-la|Anthus trivialis}}) om Evrazijan i Afrikan levitadud keza[[lind]]. Mülütadas [[Vagolindunvuiččed]]-sugukundha.
 
 Lind om penemb mi [[paskač]]. Hibjan piduz om 16 santimetrhasai, burhahk üläh kirjavidenke mustoidenke (noril — sel'ganke röunanke), alah om pakuižetab. Agjahižed höunhed suugil oma vauktad.
 
@@ -13,5 +33,6 @@ Kaik om kaks' alaerikod:
 {{Commons|Anthus trivialis}}
 
 {{stub}}
+[[Kategorii:Vagolindunvuiččed]]
 [[Kategorii:Živatad kirjamišton mödhe]]
 [[Kategorii:Lindud]]
