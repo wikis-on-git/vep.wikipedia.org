@@ -1,10 +1,31 @@
-[[Fail:Yellow wagtail.jpg|thumb|right|300px|Jouhlinduine]]
-'''Jouhlinduine''' ([[latinan kel'|lat.]] ''Motacilla flava'') om [[lind]].
+{{Taxobox
+ | name         = Jouhlinduine
+ | image title  = Jouhlinduine
+ | image file   = Yellow wagtail.jpg
+ | image descr  = Jouhlinduine
+ | regnum       = Živatad
+ | phylum       = [[Sel'gjäntkeižed]] (''Chordata'')
+ | classis      = [[Lindud]] (''Aves'')
+ | ordo         = [[Pasklindunvuiččed]] (''Passeriformes'')
+ | familia      = [[Vagolindunvuiččed]] (''Motacillidae'')
+ | genus        = [[Vagolindud]] (''Motacilla'')
+ | species      = '''Jouhlinduine'''
+ | latin        = {{btname|Motacilla flava |([[Linnei Karl|Linnaeus]], 1758)}}
+ | wikispecies  = Motacilla flava
+ | commons      = Category:Motacilla flava
+ | itis         = 178483
+ | ncbi         = 180448
+ | range map    = MotacillaFlavaIUCNver2019 1.png
+ | range legend = {{legend|#00FF00|Kezaline pezoitelend}} {{legend|#008000|Läbivoččed eländtahod}} {{legend|#007FFF|Tal'vdundan sijad}}
+}}
+'''Jouhlinduine''' ({{lang-la|Motacilla flava}}) om Evrazijan i Afrikan levitadud keza[[lind]]. Mülütadas [[Vagolindunvuiččed]]-sugukundha.
 
 == Kacu mugažo ==
 * [[Vagolind]]
 
-{{stub}}
+{{Commons|Motacilla flava}}
 
-[[Kategorii:Lindud]]
+{{stub}}
+[[Kategorii:Vagolindunvuiččed]]
 [[Kategorii:Živatad kirjamišton mödhe]]
+[[Kategorii:Lindud]]
