@@ -51,7 +51,7 @@ Lodehline marin kelen kirjamišt mülütab 40 kirjant.
 |}
 
 == Nitmarin kelen grammatik ==
-Nitmarin keles om 9 kändod.
+Nitmarin keles om 11 kändod.
 {|width=300 border=0
 |'''känd'''
 |'''üks'lugu'''
@@ -66,10 +66,16 @@ Nitmarin keles om 9 kändod.
 |пöртым
 |-
 |[[Dativ]]
-|пöртлан
+|пöртлӓн
 |-
 |[[Lativ]]
 |пöртеш
+|-
+|[[Abessiv]]
+|пöртте
+|-
+|[[Kauzativ]]
+|пöртлӓнен 
 |-
 |[[Illativ]]
 |пöртышкö
@@ -78,7 +84,7 @@ Nitmarin keles om 9 kändod.
 |пöртыштö
 |-
 |[[Komparativ]]
-|пöртла
+|пöртлӓ
 |-
 |[[Komitativ]]
 |пöртке
