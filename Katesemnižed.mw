@@ -1,7 +1,22 @@
-[[Fail:Magnolia.jpg|thumb|right|250px|Magnolijan änik.]]
-'''Änikkazmused''' vai '''Katesemnižed''' ({{lang-la|Magnoliophyta}}, vai ''Angiospermae'') — [[ülembaižed kazmused]], kudambiden eriližuz om [[änik]] — suguäikerdoičendan elim. Völ üks' änikkazmusiden tunduz — [[kahtejitte sugutand]]. 
+{{Taxobox
+ | name         = Katesemnižed
+ | image title  = Katesemnižed
+ | image file   = Magnolia.jpg
+ | image descr  = [[Magnolii|Magnolijan]] änik
+ | regnum       = Kazmused
+ | divisio      = '''Änikkazmused'''
+ | latin        = {{btname|Magnoliophyta |[[Kronkvist Artur|Cronq.]], [[Tahtadžän Armen|Takht.]] & [[Cimmerman Val'ter|W.Zimm.]], 1966}}
+ | wikispecies  = Magnoliophyta
+ | commons      = Category:Magnoliophyta
+ | itis         = 18061
+ | ncbi         = 3398
+ | range map    =
+}}
+'''Änikkazmused''' vai '''Katesemnižed''' ({{lang-la|Magnoliophyta}}, vai ''Angiospermae'') — [[ülembaižed kazmused|ülembaižiden kazmusiden]] palakund. Niiden kazmusiden eriližuz om [[änik]] — suguäikerdoičendan elim. Völ üks' änikkazmusiden tunduz — [[kahtejitte sugutand]]. 
 
-Katesemnižed da [[avoinsemnižed]] kazmused mülüdas ühtes [[semnižed kazmused|semnižiden kazmusiden]] gruppha (''Spermatophytae'').
+''The Plant List''-andmuzbaz (versii 1.1, 2013. voz') mülütab 304 419 änikkazmusiden erikod ''Accepted''-statusanke («vahvištadud»), kaik om 352 tuhad erikoid palakundas. Mülüdas vahvištadud erikoid 405 sugukundha i 14 559 heimho.
+
+Katesemnižed da [[avoinsemnižed]] kazmused mülüdas ühtes [[semnižed kazmused|semnižiden kazmusiden]] gruppha (''Spermatophytae''). Katesemnižiden ezitatad erigoičiba avoinsemnižišpäi 245..202 mln vozid tagaz, evolücii sünduti ezmäižid änikoid läz 140..130 mln vozid tagaz.
 
 == Klassifikacii ==
 === Klass Kaksidülehtesižed ===
@@ -16,7 +31,7 @@ Alaklassad:
 * Alaklass 6. [[Asteridad]] (''[[Asteridae]]'')
 
 === Klass Üksidülehtesižed ===
-Neciš klassas (''[[Liliopsida]]'', vai ''[[Monocotyledones]]'') om ümbrikirjutadud 5 alaklassad, 37 kundad, läz 120 sugukundoid, enamb 3 000 heimoid da enamb 60000 erikoid.
+Neciš klassas (''[[Liliopsida]]'', vai ''[[Monocotyledones]]'') om ümbrikirjutadud 5 alaklassad, 37 kundad, läz 120 sugukundoid, enamb 3 000 heimoid da enamb 60 000 erikoid.
 
 Alaklassad:
 * Alaklass 1. [[Alismatidad]] (''[[Alismatidae]]'')
@@ -28,7 +43,9 @@ Alaklassad:
 == Homaičendad ==
 <references />
 
+{{Commons|Angiosperms}}
+
 {{stub}}
 [[Kategorii:Katesemnižed| ]]
-[[Kategorii:Kazmused]]
-[[Kategorii:Kazmusiden tipad]]
+[[Kategorii:Kazmused kirjamišton mödhe]]
+[[Kategorii:Kazmusiden palakundad]]
