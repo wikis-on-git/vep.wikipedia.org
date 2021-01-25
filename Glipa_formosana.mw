@@ -1,10 +1,28 @@
 {{kursiv pälkirjuteses}}
-'''''Glipa formosana''''' om [[gaved']], [[bumbakod|bumbak]] ''[[Mordellidae]]''-sugukundaspäi. Necen gavedin avaiži da ümbrikirjuti Pis-entomolog vl 1911.
+{{Taxobox
+ | name         = ''Glipa formosana''
+ | image title  = ''Glipa formosana''
+ | image file   =
+ | image descr  =
+ | regnum       = Živatad
+ | phylum       = [[Palačjaugaižed]] (''Arthropoda'')
+ | classis      = [[Gavedid]] (''Insecta'')
+ | ordo         = [[Bumbakod]] (''Coleoptera'')
+ | familia      = ''[[Mordellidae]]''
+ | genus        = ''[[Glipa]]''
+ | latin        = {{btname|G. formosana |[[Pik Moris|Píc]], 1911}}
+ | wikispecies  = Glipa formosana
+ | commons      =
+ | itis         = 0
+ | ncbi         = 0
+ | range map    =
+}}
+'''''Glipa formosana''''' om [[gaved']], [[bumbakod|bumbak]] ''[[Mordellidae]]''-sugukundaspäi. Francine [[Pik Moris|Moris Pik]]-entomolog avaiži da ümbrikirjuti necen gavedin vl 1911.
 
 Eläb [[Taivan' (sar')|Taivan']]-sarel. Gavedil ei ole völ nimid rahvahaližil [[kel'|kelil]].
 
 == Alaerikod ==
-Seičeme alaerikod:
+Kaik om seičeme alaerikod:
 * ''Glipa formosana apicepubens''
 * ''Glipa formosana formosana''
 * ''Glipa formosana laterufa''
@@ -18,6 +36,7 @@ Seičeme alaerikod:
 
 {{stub}}
 [[Kategorii:Mordellidae]]
+[[Kategorii:Bumbakod]]
 [[Kategorii:Živatad kirjamišton mödhe]]
 [[Kategorii:Gavedid]]
 [[Kategorii:Živatad vepsän nimeta]]
