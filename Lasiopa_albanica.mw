@@ -1,5 +1,24 @@
 {{kursiv pälkirjuteses}}
-'''''Lasiopa albanica''''' om [[levkärbhaižed|levkärbhaižiden]] erik ''[[Stratiomyidae]]''-sugukundas. Dusek- i Roznosni-entomologad avaižiba da ümbrikirjutiba gavedid vl 1970.
+{{Taxobox
+ | name         = '''''Lasiopa albanica'''''
+ | image title  = '''''Lasiopa albanica'''''
+ | image file   =
+ | image descr  =
+ | regnum       = Živatad
+ | phylum       = [[Palačjaugaižed]] (''Arthropoda'')
+ | classis      = [[Gavedid]] (''Insecta'')
+ | ordo         = [[Kaks'suugaižed]] (''Diptera'')
+ | familia      = [[Levkärbhaižed]] (''Stratiomyidae'')
+ | genus        = ''[[Lasiopa]]''
+ | species      = '''''L. albanica'''''
+ | latin        = {{btname|Lasiopa albanica |([[Dusek (entomolog)|Dusek]] & [[Rozkosni (entomolog)|Rozkosny]], 1970)}}
+ | wikispecies  = Lasiopa albanica
+ | commons      =
+ | itis         = 0
+ | ncbi         = 0
+ | range map    =
+}}
+'''''Lasiopa albanica''''' om gavediden erik [[Levkärbhaižed]]-sugukundas (''Stratiomyidae''). Dusek- i Rozkosni-entomologad avaižiba da ümbrikirjutiba gavedid vl 1970.
 
 [[Albanii|Albanijan]] endemik.
 
@@ -9,7 +28,7 @@ Necil gavedil, ezimeletaden, ei ole völ nimid rahvahaližil kelil.
 <references />
 
 {{stub}}
-[[Kategorii:Stratiomyidae]]
+[[Kategorii:Levkärbhaižed]]
 [[Kategorii:Živatad kirjamišton mödhe]]
 [[Kategorii:Levkärbhaižed]]
 [[Kategorii:Gavedid]]
