@@ -1,9 +1,28 @@
 {{kursiv pälkirjuteses}}
-'''''Tetragnatha conica''''' om [[gaved']], [[hämähouk]] ''[[Tetragnathidae]]''-sugukundas. 
+{{Taxobox
+ | name         = ''Tetragnatha conica''
+ | image title  = ''Tetragnatha conica''
+ | image file   =
+ | image descr  =
+ | regnum       = Živatad
+ | phylum       = [[Palačjaugaižed]] (''Arthropoda'')
+ | classis      = [[Hämähoukunvuiččed]] (''Arachnida'')
+ | ordo         = [[Hämähoukud]] (''Araneae'')
+ | familia      = ''[[Tetragnathidae]]''
+ | genus        = ''[[Tetragnatha]]''
+ | species      = '''''T. conica'''''
+ | latin        = {{btname|Tetragnatha conica |([[Grube Adol'f Eduard|Grube]], 1861)}}
+ | wikispecies  = Tetragnatha conica
+ | commons      =
+ | itis         = 0
+ | ncbi         = 0
+ | range map    =
+}}
+'''''Tetragnatha conica''''' om [[hämähoukud|hämähouk]] ''[[Tetragnathidae]]''-sugukundas. 
 
-Grube-entomolog avaiži da ümbrikirjuti erikod vl 1861. Alaerikoid ei ole.
+Saksalaine Grube-zoolog (1812−1880) avaiži da ümbrikirjuti erikod vl 1861. Alaerikoid ei ole.
 
-Necil gavedil ei ole völ nimid rahvahaližil kelil.
+Necil hämähoukul, ezimeletaden, ei ole völ nimid rahvahaližil kelil.
 
 == Homaičendad ==
 <references />
@@ -12,5 +31,4 @@ Necil gavedil ei ole völ nimid rahvahaližil kelil.
 [[Kategorii:Tetragnathidae]]
 [[Kategorii:Hämähoukud]]
 [[Kategorii:Živatad kirjamišton mödhe]]
-[[Kategorii:Gavedid]]
 [[Kategorii:Živatad vepsän nimeta]]
