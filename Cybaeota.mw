@@ -1,5 +1,23 @@
-[[Fail:Cybaeota calcarata.jpg|thumb|right|250px|''Cybaeota calcarata''-erikon täuz'kaznu emäč, [[Kanad]]an päivnouzm]]
-'''''Cybaeota''''' om [[hämähoukud|hämähoukuiden]] heim ''[[Cybaeidae]]''-sugukundas. Areal — [[Amerikan Ühtenzoittud Valdkundad|AÜV]], [[Kanad]].
+{{kursiv pälkirjuteses}}
+{{Taxobox
+ | name         = ''Cybaeota''
+ | image title  = ''Cybaeota''
+ | image file   = Cybaeota calcarata.jpg
+ | image descr  = ''[[Cybaeota calcarata]]''-erikon täuz'kaznu emäč, [[Kanad]]an päivnouzm
+ | regnum       = Živatad
+ | phylum       = [[Palačjaugaižed]] (''Arthropoda'')
+ | classis      = [[Hämähoukunvuiččed]] (''Arachnida'')
+ | ordo         = [[Hämähoukud]] (''Araneae'')
+ | familia      = [[Hämähoukud-cibeidad]] (''Cybaeidae'')
+ | genus        = '''''Cybaeota'''''
+ | latin        = {{btname|Cybaeota |([[Čemberlin Ral'f Vari|Chamberlin]] & [[Ivi Uilton|Ivie]], 1933)}}
+ | wikispecies  = Cybaeota
+ | commons      =
+ | itis         = 0
+ | ncbi         = 0
+ | range map    =
+}}
+'''''Cybaeota''''' om [[hämähoukud|hämähoukuiden]] heim [[Hämähoukud-cibeidad]]-sugukundas (''Cybaeidae''). Areal — [[Amerikan Ühtenzoittud Valdkundad|AÜV]], [[Kanad]].
 
 Kaik om nell' erikod heimos:
 * ''[[Cybaeota calcarata]]'' (AÜV, Kanad)
@@ -10,7 +28,9 @@ Kaik om nell' erikod heimos:
 == Homaičendad ==
 <references />
 
+{{Commons|Cybaeota}}
+
 {{stub}}
-[[Kategorii:Cybaeidae]]
+[[Kategorii:Hämähoukud-cibeidad]]
 [[Kategorii:Hämähoukud]]
 [[Kategorii:Živatad kirjamišton mödhe]]
