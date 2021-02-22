@@ -1,6 +1,24 @@
 {{kursiv pälkirjuteses}}
-[[Fail:Pterolepis glomerata 2.jpg|thumb|right|250px|''Pterolepis glomerata'']]
-'''''Pterolepis glomerata''''' om tropižiden [[kazmused|kazmusiden]] erik ''[[Melastomataceae]]''-sugukundas.
+{{Taxobox
+ | name         = '''''Pterolepis glomerata'''''
+ | image title  = '''''Pterolepis glomerata'''''
+ | image file   = Pterolepis glomerata 2.jpg
+ | image descr  = ''Pterolepis glomerata''
+ | regnum       = Kazmused
+ | divisio      = [[Änikkazmused]] (''Magnoliophyta'')
+ | classis      = [[Kaksidülehtesižed]] (''Magnoliopsida'')
+ | ordo         = [[Mirtänikoižed]] (''Myrtales'')
+ | familia      = [[Melastomižed]] (''Melastomataceae'')
+ | genus        = ''[[Pterolepis]]''
+ | species      = '''''Pterolepis glomerata'''''
+ | latin        = {{btname|Pterolepis glomerata |([[Rottböll' Kristen Friis|Rottb.]]) [[Mikel' Fridrih Anton Vil'hel'm|Miq.]]}}
+ | wikispecies  = Pterolepis glomerata
+ | commons      =
+ | itis         = 504668
+ | ncbi         = 113477
+ | range map    =
+}}
+'''''Pterolepis glomerata''''' om tropižiden [[kazmused|kazmusiden]] erik [[Melastomižed]]-sugukundas.
 
 Kazvab [[Suviamerik]]as i [[Pened Antil'jan Sared|Penil Antil'jan Saril]]. Om levitadud nepsoidme nituidme da saduiš.
 
@@ -10,6 +28,6 @@ Alaerikoid ei ole, no kümne variaciad om.
 <references />
 
 {{stub}}
-[[Kategorii:Melastomataceae]]
+[[Kategorii:Melastomižed]]
 [[Kategorii:Kazmused kirjamišton mödhe]]
 [[Kategorii:Kazmused vepsän nimeta]]
