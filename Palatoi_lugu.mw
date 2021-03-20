@@ -1,3 +1,4 @@
+{{10000}}
 [[Fail:Dp txt2.png|thumb|right|200px|Palatomiden luguiden järgenduzfunkcii ''p''<sub>''n''</sub> = ''f'' (Δ''s''<sub>''n''</sub>); Δ''s''<sub>''n''</sub> = ''p''<sub>''n''+1</sub>² — ''p''<sub>''n''</sub>². Δ''p''<sub>''n''</sub> = ''p''<sub>''n''+1</sub> — ''p''<sub>''n''</sub>; Δ''p''<sub>''n''</sub> = 2, 4, 6, … .]]
 '''Palatoi lugu''' om [[naturaline lugu]], miččel om '''vaiše kaks' ''' erast naturališt [[jagundmahtuz|jagajad]]: [[1 (lugu)|üht]] da ičeze. Kaik toižed naturaližed lugud, paiči ühtes, nimitasoiš [[palakaz lugu|palakahikš luguikš]]. Muga kaik ühten enambad naturaližed lugud jagasoiš palatomikš da palakahikš. [[Luguiden teorii]] tedoidab palatomiden luguiden ičendoid. [[Originaline element|Originaližed elementad]] sättudas palatomile luguile [[rengaz (matematik)|renghiden teorijas]].
 
@@ -10,6 +11,9 @@ Palatomiden luguiden jäl'genduz zavodiše muga:
 
 == Palatoman lugun teorem ==
 : <math>\pi(x)\sim\frac{x}{\ln x} </math>
+
+== Homaičendad ==
+<references />
 
 {{stub}}
 [[Kategorii:Palatomad lugud| ]]
