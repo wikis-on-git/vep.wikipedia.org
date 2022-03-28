@@ -4,11 +4,16 @@ Registracii om lasktud kahtendel tazopindal, mugažo koumandel tazopindal kahten
 
 Jogavozne maksmine miččen taht saitan tehnižes pid'oitelendas om BBD$120.
 
-Kahtenden tazopindan erased reglamentiruidud domenad:
-* '''gov.bb''' — valdkundaližed organad
+Kahtenden tazopindan reglamentiruidud domenad:
+* '''.gov.bb''' — valdkundaližed organad
 * '''.org.bb''' — kommertižetomad organizacijad
 * '''.edu.bb''' — tedoližtedoidusiden aluzkundad, kolledžad i universitetad
-* '''.com.bb''' — kommertižed edheotandad, korporacijad
+* '''co.bb''', '''.com.bb''' — kommertižed edheotandad, korporacijad
+* '''.net.bb''' — verkoiden provaiderad
+* '''.info.bb''' — informacižed saitad 
+* '''.store.bb''' — Barbadosan laukad
+* '''.tv.bb''' — Barbadosan televizii
+* '''.biz.bb''' — bizneskompanijad.
 
 == Homaičendad ==
 <references />
